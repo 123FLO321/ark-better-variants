@@ -1790,6 +1790,15 @@
           "mapsExcluded": []
         },
         {
+          "class": "/Game/PrimalEarth/Dinos/Giganotosaurus/BionicGigant_Character_BP.BionicGigant_Character_BP_C",
+          "variant": "tek",
+          "mods": [],
+          "maps": [
+            "Extinction_WP"
+          ],
+          "mapsExcluded": []
+        },
+        {
           "class": "/Ark-EerieDinos/EerieVariants/EerieGiganotosaurus/ASAGigant_Character_BP_EerieDinos.ASAGigant_Character_BP_EerieDinos_C",
           "variant": "eerie",
           "mods": [
@@ -2498,6 +2507,26 @@
           "mapsExcluded": []
         },
         {
+          "class": "/Game/PrimalEarth/Dinos/Quetzalcoatlus/BionicQuetz_Character_BP.BionicQuetz_Character_BP_C",
+          "variant": "tek",
+          "mods": [],
+          "maps": [
+            "Extinction_WP"
+          ],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieQuetzal/ASABionicQuetz_Character_BP_EerieDinos.ASABionicQuetz_Character_BP_EerieDinos_C",
+          "variant": "eerie-tek",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "maps": [
+            "Extinction_WP"
+          ],
+          "mapsExcluded": []
+        },
+        {
           "class": "/Ark-EerieDinos/EerieVariants/EerieQuetzal/ASAQuetz_Character_BP_EerieDinos.ASAQuetz_Character_BP_EerieDinos_C",
           "variant": "eerie",
           "mods": [
@@ -2554,6 +2583,26 @@
           "variant": "normal",
           "mods": [],
           "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Game/PrimalEarth/Dinos/Raptor/BionicRaptor_Character_BP.BionicRaptor_Character_BP_C",
+          "variant": "tek",
+          "mods": [],
+          "maps": [
+            "Extinction_WP"
+          ],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieRaptor/ASABionicRaptor_Character_BP_EerieDinos.ASABionicRaptor_Character_BP_EerieDinos_C",
+          "variant": "eerie-tek",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "maps": [
+            "Extinction_WP"
+          ],
           "mapsExcluded": []
         },
         {
@@ -2633,6 +2682,26 @@
           "variant": "normal",
           "mods": [],
           "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Game/PrimalEarth/Dinos/Rex/BionicRex_Character_BP.BionicRex_Character_BP_C",
+          "variant": "tek",
+          "mods": [],
+          "maps": [
+            "Extinction_WP"
+          ],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieRex/ASABionicRex_Character_BP_EerieDinos.ASABionicRex_Character_BP_EerieDinos_C",
+          "variant": "eerie-tek",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "maps": [
+            "Extinction_WP"
+          ],
           "mapsExcluded": []
         },
         {
@@ -3154,6 +3223,15 @@
           "mapsExcluded": []
         },
         {
+          "class": "/Game/PrimalEarth/Dinos/Trike/BionicTrike_Character_BP.BionicTrike_Character_BP_C",
+          "variant": "tek",
+          "mods": [],
+          "maps": [
+            "Extinction_WP"
+          ],
+          "mapsExcluded": []
+        },
+        {
           "class": "/Ark-EerieDinos/EerieVariants/EerieTriceratops/ASATrike_Character_BP_EerieDinos.ASATrike_Character_BP_EerieDinos_C",
           "variant": "eerie",
           "mods": [
@@ -3623,6 +3701,26 @@
           "variant": "normal",
           "mods": [],
           "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Game/PrimalEarth/Dinos/Stego/BionicStego_Character_BP.BionicStego_Character_BP_C",
+          "variant": "tek",
+          "mods": [],
+          "maps": [
+            "Extinction_WP"
+          ],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieStegosaurus/ASABionicStego_Character_BP_EerieDinos.ASABionicStego_Character_BP_EerieDinos_C",
+          "variant": "eerie-tek",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "maps": [
+            "Extinction_WP"
+          ],
           "mapsExcluded": []
         },
         {
@@ -5471,6 +5569,26 @@
           "variant": "normal",
           "mods": [],
           "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Game/PrimalEarth/Dinos/Para/BionicPara_Character_BP.BionicPara_Character_BP_C",
+          "variant": "tek",
+          "mods": [],
+          "maps": [
+            "Extinction_WP"
+          ],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieParasaur/ASABionicPara_Character_BP_EerieDinos.ASABionicPara_Character_BP_EerieDinos_C",
+          "variant": "eerie-tek",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "maps": [
+            "Extinction_WP"
+          ],
           "mapsExcluded": []
         },
         {
@@ -7813,18 +7931,6 @@
       ]
     },
     {
-      "name": "BionicGigant_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Giganotosaurus/BionicGigant_Character_BP.BionicGigant_Character_BP_C",
-          "variant": "normal",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
       "name": "Bone_Gigant_Character_BP_C",
       "dinos": [
         {
@@ -8062,27 +8168,6 @@
       ]
     },
     {
-      "name": "BionicPara_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Para/BionicPara_Character_BP.BionicPara_Character_BP_C",
-          "variant": "normal",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieParasaur/ASABionicPara_Character_BP_EerieDinos.ASABionicPara_Character_BP_EerieDinos_C",
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
       "name": "Pegomastax_Character_BP_C",
       "dinos": [
         {
@@ -8221,75 +8306,12 @@
       ]
     },
     {
-      "name": "BionicQuetz_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Quetzalcoatlus/BionicQuetz_Character_BP.BionicQuetz_Character_BP_C",
-          "variant": "normal",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieQuetzal/ASABionicQuetz_Character_BP_EerieDinos.ASABionicQuetz_Character_BP_EerieDinos_C",
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
       "name": "Bone_Quetz_Character_BP_C",
       "dinos": [
         {
           "class": "/Game/PrimalEarth/Dinos/Quetzalcoatlus/Bone_Quetz_Character_BP.Bone_Quetz_Character_BP_C",
           "variant": "normal",
           "mods": [],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
-      "name": "BionicRaptor_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Raptor/BionicRaptor_Character_BP.BionicRaptor_Character_BP_C",
-          "variant": "normal",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieRaptor/ASABionicRaptor_Character_BP_EerieDinos.ASABionicRaptor_Character_BP_EerieDinos_C",
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
-      "name": "BionicRex_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Rex/BionicRex_Character_BP.BionicRex_Character_BP_C",
-          "variant": "normal",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieRex/ASABionicRex_Character_BP_EerieDinos.ASABionicRex_Character_BP_EerieDinos_C",
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
           "maps": [],
           "mapsExcluded": []
         }
@@ -8371,27 +8393,6 @@
       ]
     },
     {
-      "name": "BionicStego_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Stego/BionicStego_Character_BP.BionicStego_Character_BP_C",
-          "variant": "normal",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieStegosaurus/ASABionicStego_Character_BP_EerieDinos.ASABionicStego_Character_BP_EerieDinos_C",
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
       "name": "Bone_Stego_Character_BP_C",
       "dinos": [
         {
@@ -8419,18 +8420,6 @@
           "mods": [
             "Ark-EerieDinos"
           ],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
-      "name": "BionicTrike_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Trike/BionicTrike_Character_BP.BionicTrike_Character_BP_C",
-          "variant": "normal",
-          "mods": [],
           "maps": [],
           "mapsExcluded": []
         }
@@ -8934,6 +8923,16 @@
       "name": "normal",
       "weight": 1,
       "weightConfigKey": "NormalSpawnWeight"
+    },
+    {
+      "name": "tek",
+      "weight": 0.05,
+      "weightConfigKey": "TekSpawnWeight"
+    },
+    {
+      "name": "eerie-tek",
+      "weight": 0.05,
+      "weightConfigKey": "EerieTekSpawnWeight"
     },
     {
       "name": "eerie",
