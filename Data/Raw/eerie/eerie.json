@@ -1,0 +1,17 @@
+{
+    "variantName": "eerie",
+    "weight": 0.25,
+    "mods": [
+        {
+            "id": 935916,
+            "name": "Ark-EerieDinos"
+        }
+    ],
+    "maps": [],
+    "dinos": [
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieRaptor/ASARaptor_Character_BP_EerieDinos.ASARaptor_Character_BP_EerieDinos_C",
+            "group": "Raptor_Character_BP_C"
+        }
+    ]
+}

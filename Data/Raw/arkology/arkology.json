@@ -1,0 +1,17 @@
+{
+    "variantName": "arkology",
+    "weight": 1,
+    "mods": [
+        {
+            "id": 1013622,
+            "name": "ARKOLOGY_NEWENCOUNTERS"
+        }
+    ],
+    "maps": [],
+    "dinos": [
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Raptor/ARKOLOGY_Raptor_Character_BP.ARKOLOGY_Raptor_Character_BP_C",
+            "group": "Raptor_Character_BP_C"
+        }
+    ]
+}

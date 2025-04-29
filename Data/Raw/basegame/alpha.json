@@ -1,0 +1,17 @@
+{
+    "variantName": "alpha",
+    "weight": 0.05,
+    "mods": [],
+    "maps": [
+        {
+            "type": "disallowed",
+            "name": "Astraeos_WP"
+        }
+    ],
+    "dinos": [
+        {
+            "class": "/Game/PrimalEarth/Dinos/Raptor/MegaRaptor_Character_BP.MegaRaptor_Character_BP_C",
+            "group": "Raptor_Character_BP_C"
+        }
+    ]
+}

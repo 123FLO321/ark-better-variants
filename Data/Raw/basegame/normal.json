@@ -1,0 +1,11 @@
+{
+    "variantName": "normal",
+    "weight": 1,
+    "mods": [],
+    "dinos": [
+        {
+            "class": "/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP_C",
+            "group": "Raptor_Character_BP_C"
+        }
+    ]
+}

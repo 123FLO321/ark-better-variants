@@ -1,0 +1,16 @@
+{
+    "variantName": "z",
+    "weight": 0.25,
+    "mods": [
+        {
+            "id": 971318,
+            "name": "Z-DinoVariants"
+        }
+    ],
+    "dinos": [
+        {
+            "class": "/Z-DinoVariants/z-raptor/Z_Raptor_Character_BP.Z_Raptor_Character_BP_C",
+            "group": "Raptor_Character_BP_C"
+        }
+    ]
+}

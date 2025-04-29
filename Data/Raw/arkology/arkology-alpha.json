@@ -1,0 +1,22 @@
+{
+    "variantName": "arkology-alpha",
+    "weight": 0.05,
+    "mods": [
+        {
+            "id": 1013622,
+            "name": "ARKOLOGY_NEWENCOUNTERS"
+        }
+    ],
+    "maps": [
+        {
+            "type": "disallowed",
+            "name": "Astraeos_WP"
+        }
+    ],
+    "dinos": [
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Raptor/ARKOLOGY_MegaRaptor_Character_BP.ARKOLOGY_MegaRaptor_Character_BP_C",
+            "group": "Raptor_Character_BP_C"
+        }
+    ]
+}

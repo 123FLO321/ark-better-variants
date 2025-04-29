@@ -1,0 +1,17 @@
+{
+    "variantName": "astral",
+    "weight": 0.05,
+    "mods": [],
+    "maps": [
+        {
+            "type": "required",
+            "name": "Astraeos_WP"
+        }
+    ],
+    "dinos": [
+        {
+            "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Raptor/AstralRaptor_Character_BP.AstralRaptor_Character_BP_C",
+            "group": "Raptor_Character_BP_C"
+        }
+    ]
+}
