@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  build-and-commit:
+  build-data:
     runs-on: ubuntu-22.04
 
     steps:
@@ -34,5 +34,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add Data/v1.json
-          git commit -m "chore: update data\n\n[skip ci]" || echo "No changes to commit"
+          git commit -m "chore: update data" -m "[skip ci]" || echo "No changes to commit"
           git push
