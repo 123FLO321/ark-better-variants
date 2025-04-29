@@ -92,43 +92,53 @@
   "variants": [
     {
       "name": "arkology-alpha",
-      "weight": 0.05
+      "weight": 0.05,
+      "weightConfigKey": "ArkologyAlphaSpawnWeight"
     },
     {
       "name": "arkology",
-      "weight": 1
+      "weight": 1,
+      "weightConfigKey": "ArkologySpawnWeight"
     },
     {
       "name": "alpha",
-      "weight": 0.05
+      "weight": 0.05,
+      "weightConfigKey": "AlphaSpawnWeight"
     },
     {
       "name": "astral",
-      "weight": 0.05
+      "weight": 0.05,
+      "weightConfigKey": "AstralSpawnWeight"
     },
     {
       "name": "normal",
-      "weight": 1
+      "weight": 1,
+      "weightConfigKey": "NormalSpawnWeight"
     },
     {
       "name": "eerie",
-      "weight": 0.25
+      "weight": 0.25,
+      "weightConfigKey": "EerieSpawnWeight"
     },
     {
       "name": "paleo-alpha",
-      "weight": 0.05
+      "weight": 0.05,
+      "weightConfigKey": "PaleoAlphaSpawnWeight"
     },
     {
       "name": "paleo",
-      "weight": 0.25
+      "weight": 0.25,
+      "weightConfigKey": "PaleoSpawnWeight"
     },
     {
       "name": "s",
-      "weight": 0.25
+      "weight": 0.25,
+      "weightConfigKey": "SSpawnWeight"
     },
     {
       "name": "z",
-      "weight": 0.25
+      "weight": 0.25,
+      "weightConfigKey": "ZSpawnWeight"
     }
   ]
 }
