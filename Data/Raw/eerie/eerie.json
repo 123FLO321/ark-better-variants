@@ -394,10 +394,6 @@
             "group": "Paracer_Character_BP_C"
         },
         {
-            "class": "/Ark-EerieDinos/EerieVariants/EerieParasaur/ASABionicPara_Character_BP_EerieDinos.ASABionicPara_Character_BP_EerieDinos_C",
-            "group": "BionicPara_Character_BP_C"
-        },
-        {
             "class": "/Ark-EerieDinos/EerieVariants/EerieParasaur/ASAPara_Character_BP_EerieDinos.ASAPara_Character_BP_EerieDinos_C",
             "group": "Para_Character_BP_C"
         },
@@ -446,16 +442,8 @@
             "group": "FireLion_Character_BP_C"
         },
         {
-            "class": "/Ark-EerieDinos/EerieVariants/EerieQuetzal/ASABionicQuetz_Character_BP_EerieDinos.ASABionicQuetz_Character_BP_EerieDinos_C",
-            "group": "BionicQuetz_Character_BP_C"
-        },
-        {
             "class": "/Ark-EerieDinos/EerieVariants/EerieQuetzal/ASAQuetz_Character_BP_EerieDinos.ASAQuetz_Character_BP_EerieDinos_C",
             "group": "Quetz_Character_BP_C"
-        },
-        {
-            "class": "/Ark-EerieDinos/EerieVariants/EerieRaptor/ASABionicRaptor_Character_BP_EerieDinos.ASABionicRaptor_Character_BP_EerieDinos_C",
-            "group": "BionicRaptor_Character_BP_C"
         },
         {
             "class": "/Ark-EerieDinos/EerieVariants/EerieRaptor/ASARaptor_Character_BP_Corrupt_EerieDinos.ASARaptor_Character_BP_Corrupt_EerieDinos_C",
@@ -480,10 +468,6 @@
         {
             "class": "/Ark-EerieDinos/EerieVariants/EerieReaper/EerieQueen/ASAXenomorph_Character_BP_Female_EerieDinos.ASAXenomorph_Character_BP_Female_EerieDinos_C",
             "group": "Xenomorph_Character_BP_Female_C"
-        },
-        {
-            "class": "/Ark-EerieDinos/EerieVariants/EerieRex/ASABionicRex_Character_BP_EerieDinos.ASABionicRex_Character_BP_EerieDinos_C",
-            "group": "BionicRex_Character_BP_C"
         },
         {
             "class": "/Ark-EerieDinos/EerieVariants/EerieRex/ASARex_Character_BP_Corrupt_EerieDinos.ASARex_Character_BP_Corrupt_EerieDinos_C",
@@ -544,10 +528,6 @@
         {
             "class": "/Ark-EerieDinos/EerieVariants/EerieSpinosaurus/ASASpino_Character_BP_EerieDinos.ASASpino_Character_BP_EerieDinos_C",
             "group": "Spino_Character_BP_C"
-        },
-        {
-            "class": "/Ark-EerieDinos/EerieVariants/EerieStegosaurus/ASABionicStego_Character_BP_EerieDinos.ASABionicStego_Character_BP_EerieDinos_C",
-            "group": "BionicStego_Character_BP_C"
         },
         {
             "class": "/Ark-EerieDinos/EerieVariants/EerieStegosaurus/ASAStego_Character_BP_Corrupt_EerieDinos.ASAStego_Character_BP_Corrupt_EerieDinos_C",

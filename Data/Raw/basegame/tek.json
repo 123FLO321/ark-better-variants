@@ -1,0 +1,41 @@
+{
+    "variantName": "tek",
+    "weight": 0.05,
+    "mods": [],
+    "maps": [
+        {
+            "type": "required",
+            "name": "Extinction_WP"
+        }
+    ],
+    "dinos": [
+        {
+            "class": "/Game/PrimalEarth/Dinos/Giganotosaurus/BionicGigant_Character_BP.BionicGigant_Character_BP_C",
+            "group": "Gigant_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Para/BionicPara_Character_BP.BionicPara_Character_BP_C",
+            "group": "Para_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Quetzalcoatlus/BionicQuetz_Character_BP.BionicQuetz_Character_BP_C",
+            "group": "Quetz_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Raptor/BionicRaptor_Character_BP.BionicRaptor_Character_BP_C",
+            "group": "Raptor_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Rex/BionicRex_Character_BP.BionicRex_Character_BP_C",
+            "group": "Rex_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Stego/BionicStego_Character_BP.BionicStego_Character_BP_C",
+            "group": "Stego_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Trike/BionicTrike_Character_BP.BionicTrike_Character_BP_C",
+            "group": "Trike_Character_BP_C"
+        }
+    ]
+}

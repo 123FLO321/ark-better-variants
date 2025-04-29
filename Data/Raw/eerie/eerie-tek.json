@@ -1,0 +1,38 @@
+{
+    "variantName": "eerie-tek",
+    "weight": 0.05,
+    "mods": [
+        {
+            "id": 935916,
+            "name": "Ark-EerieDinos"
+        }
+    ],
+    "maps": [
+        {
+            "type": "required",
+            "name": "Extinction_WP"
+        }
+    ],
+    "dinos": [
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieParasaur/ASABionicPara_Character_BP_EerieDinos.ASABionicPara_Character_BP_EerieDinos_C",
+            "group": "Para_Character_BP_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieQuetzal/ASABionicQuetz_Character_BP_EerieDinos.ASABionicQuetz_Character_BP_EerieDinos_C",
+            "group": "Quetz_Character_BP_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieRaptor/ASABionicRaptor_Character_BP_EerieDinos.ASABionicRaptor_Character_BP_EerieDinos_C",
+            "group": "Raptor_Character_BP_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieRex/ASABionicRex_Character_BP_EerieDinos.ASABionicRex_Character_BP_EerieDinos_C",
+            "group": "Rex_Character_BP_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieStegosaurus/ASABionicStego_Character_BP_EerieDinos.ASABionicStego_Character_BP_EerieDinos_C",
+            "group": "Stego_Character_BP_C"
+        }
+    ]
+}

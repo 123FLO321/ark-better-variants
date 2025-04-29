@@ -2,6 +2,7 @@
     "variantName": "normal",
     "weight": 1,
     "mods": [],
+    "maps": [],
     "dinos": [
         {
             "class": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA_C",
@@ -416,10 +417,6 @@
             "group": "Galli_Character_BP_C"
         },
         {
-            "class": "/Game/PrimalEarth/Dinos/Giganotosaurus/BionicGigant_Character_BP.BionicGigant_Character_BP_C",
-            "group": "BionicGigant_Character_BP_C"
-        },
-        {
             "class": "/Game/PrimalEarth/Dinos/Giganotosaurus/Bone_Gigant_Character_BP.Bone_Gigant_Character_BP_C",
             "group": "Bone_Gigant_Character_BP_C"
         },
@@ -540,10 +537,6 @@
             "group": "Pachyrhino_Character_BP_C"
         },
         {
-            "class": "/Game/PrimalEarth/Dinos/Para/BionicPara_Character_BP.BionicPara_Character_BP_C",
-            "group": "BionicPara_Character_BP_C"
-        },
-        {
             "class": "/Game/PrimalEarth/Dinos/Para/Para_Character_BP.Para_Character_BP_C",
             "group": "Para_Character_BP_C"
         },
@@ -600,10 +593,6 @@
             "group": "Purlovia_Character_BP_Polar_C"
         },
         {
-            "class": "/Game/PrimalEarth/Dinos/Quetzalcoatlus/BionicQuetz_Character_BP.BionicQuetz_Character_BP_C",
-            "group": "BionicQuetz_Character_BP_C"
-        },
-        {
             "class": "/Game/PrimalEarth/Dinos/Quetzalcoatlus/Bone_Quetz_Character_BP.Bone_Quetz_Character_BP_C",
             "group": "Bone_Quetz_Character_BP_C"
         },
@@ -612,16 +601,8 @@
             "group": "Quetz_Character_BP_C"
         },
         {
-            "class": "/Game/PrimalEarth/Dinos/Raptor/BionicRaptor_Character_BP.BionicRaptor_Character_BP_C",
-            "group": "BionicRaptor_Character_BP_C"
-        },
-        {
             "class": "/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP_C",
             "group": "Raptor_Character_BP_C"
-        },
-        {
-            "class": "/Game/PrimalEarth/Dinos/Rex/BionicRex_Character_BP.BionicRex_Character_BP_C",
-            "group": "BionicRex_Character_BP_C"
         },
         {
             "class": "/Game/PrimalEarth/Dinos/Rex/Ghost_Rex_Character_BP.Ghost_Rex_Character_BP_C",
@@ -676,10 +657,6 @@
             "group": "Stag_Character_BP_C"
         },
         {
-            "class": "/Game/PrimalEarth/Dinos/Stego/BionicStego_Character_BP.BionicStego_Character_BP_C",
-            "group": "BionicStego_Character_BP_C"
-        },
-        {
             "class": "/Game/PrimalEarth/Dinos/Stego/Bone_Stego_Character_BP.Bone_Stego_Character_BP_C",
             "group": "Bone_Stego_Character_BP_C"
         },
@@ -710,10 +687,6 @@
         {
             "class": "/Game/PrimalEarth/Dinos/Toad/Toad_Character_BP.Toad_Character_BP_C",
             "group": "Toad_Character_BP_C"
-        },
-        {
-            "class": "/Game/PrimalEarth/Dinos/Trike/BionicTrike_Character_BP.BionicTrike_Character_BP_C",
-            "group": "BionicTrike_Character_BP_C"
         },
         {
             "class": "/Game/PrimalEarth/Dinos/Trike/Bone_Trike_Character_BP.Bone_Trike_Character_BP_C",
