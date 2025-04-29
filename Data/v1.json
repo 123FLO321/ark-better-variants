@@ -1,0 +1,134 @@
+{
+  "groups": [
+    {
+      "name": "Raptor_Character_BP_C",
+      "dinos": [
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Raptor/ARKOLOGY_MegaRaptor_Character_BP.ARKOLOGY_MegaRaptor_Character_BP_C",
+          "variant": "arkology-alpha",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Raptor/ARKOLOGY_Raptor_Character_BP.ARKOLOGY_Raptor_Character_BP_C",
+          "variant": "arkology",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Game/PrimalEarth/Dinos/Raptor/MegaRaptor_Character_BP.MegaRaptor_Character_BP_C",
+          "variant": "alpha",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Raptor/AstralRaptor_Character_BP.AstralRaptor_Character_BP_C",
+          "variant": "astral",
+          "mods": [],
+          "maps": [
+            "Astraeos_WP"
+          ],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP_C",
+          "variant": "normal",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieRaptor/ASARaptor_Character_BP_EerieDinos.ASARaptor_Character_BP_EerieDinos_C",
+          "variant": "eerie",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/PA_Ascension/Dinos/PaleoRaptor/Alpha/Paleo_AlphaRaptor_Character_BP.Paleo_AlphaRaptor_Character_BP_C",
+          "variant": "paleo-alpha",
+          "mods": [
+            "PA_Ascension"
+          ],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/PA_Ascension/Dinos/PaleoRaptor/Paleo_Raptor_Character_BP.Paleo_Raptor_Character_BP_C",
+          "variant": "paleo",
+          "mods": [
+            "PA_Ascension"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Z-DinoVariants/z-raptor/Z_Raptor_Character_BP.Z_Raptor_Character_BP_C",
+          "variant": "z",
+          "mods": [
+            "Z-DinoVariants"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "name": "arkology-alpha",
+      "weight": 0.05
+    },
+    {
+      "name": "arkology",
+      "weight": 1
+    },
+    {
+      "name": "alpha",
+      "weight": 0.05
+    },
+    {
+      "name": "astral",
+      "weight": 0.05
+    },
+    {
+      "name": "normal",
+      "weight": 1
+    },
+    {
+      "name": "eerie",
+      "weight": 0.25
+    },
+    {
+      "name": "paleo-alpha",
+      "weight": 0.05
+    },
+    {
+      "name": "paleo",
+      "weight": 0.25
+    },
+    {
+      "name": "s",
+      "weight": 0.25
+    },
+    {
+      "name": "z",
+      "weight": 0.25
+    }
+  ]
+}
