@@ -48,6 +48,7 @@ interface ParsedDataDino {
 interface ParsedDataVariant {
     name: string;
     weight: number;
+    weightConfigKey: string;
 }
 
 
@@ -75,9 +76,11 @@ for (const data of dataArray) {
     console.log(`Parsing variant ${data.variantName} with ${data.dinos.length} dinos...`);
 
     if (!variantMap.has(data.variantName)) {
+        const weightConfigKey = data.variantName.replace(/-([a-z])/g, (_, char) => char.toUpperCase()).replace(/^[a-z]/, (char) => char.toUpperCase()) + "SpawnWeight";
         variantMap.set(data.variantName, {
             name: data.variantName,
-            weight: data.weight
+            weight: data.weight,
+            weightConfigKey,
         });
     }
 
