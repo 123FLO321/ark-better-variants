@@ -10,8 +10,32 @@
     ],
     "dinos": [
         {
+            "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Argentavis/AstralArgent_Character_BP.AstralArgent_Character_BP_C",
+            "group": "AstralArgent_Character_BP_C"
+        },
+        {
+            "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Carno/AstralCarno_Character_BP.AstralCarno_Character_BP_C",
+            "group": "AstralCarno_Character_BP_C"
+        },
+        {
+            "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Deinosuchus/AstralDeinosuchusASA_Character_BP.AstralDeinosuchusASA_Character_BP_C",
+            "group": "AstralDeinosuchusASA_Character_BP_C"
+        },
+        {
+            "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Mosasaurus/Astral_Mosa_Character_BP.Astral_Mosa_Character_BP_C",
+            "group": "Mosa_Character_BP_C"
+        },
+        {
             "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Raptor/AstralRaptor_Character_BP.AstralRaptor_Character_BP_C",
-            "group": "Raptor_Character_BP_C"
+            "group": "AstralRaptor_Character_BP_C"
+        },
+        {
+            "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Rex/AstralRex_Character_BP.AstralRex_Character_BP_C",
+            "group": "AstralRex_Character_BP_C"
+        },
+        {
+            "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Tusoteuthis/Astral_Tusoteuthis_Character_BP.Astral_Tusoteuthis_Character_BP_C",
+            "group": "Tusoteuthis_Character_BP_C"
         }
     ]
 }

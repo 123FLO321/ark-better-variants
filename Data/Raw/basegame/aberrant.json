@@ -1,0 +1,195 @@
+{
+    "variantName": "aberrant",
+    "weight": 1,
+    "mods": [],
+    "dinos": [
+        {
+            "class": "/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP_Aberrant.Fasola_Character_BP_Aberrant_C",
+            "group": "Fasola_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/ASA/Dinos/Gigantoraptor/Gigantoraptor_Character_BP_Aberrant.Gigantoraptor_Character_BP_Aberrant_C",
+            "group": "Gigantoraptor_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP_Aberrant.Achatina_Character_BP_Aberrant_C",
+            "group": "Achatina_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP_Aberrant.Angler_Character_BP_Aberrant_C",
+            "group": "Angler_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP_Aberrant.Ankylo_Character_BP_Aberrant_C",
+            "group": "Ankylo_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP_Aberrant.Arthro_Character_BP_Aberrant_C",
+            "group": "Arthro_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP_Aberrant.Baryonyx_Character_BP_Aberrant_C",
+            "group": "Baryonyx_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Bigfoot/Bigfoot_Character_BP_Aberrant.Bigfoot_Character_BP_Aberrant_C",
+            "group": "Bigfoot_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/BoaFrill/BoaFrill_Character_BP_Aberrant.BoaFrill_Character_BP_Aberrant_C",
+            "group": "BoaFrill_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Carno/Carno_Character_BP_Aberrant.Carno_Character_BP_Aberrant_C",
+            "group": "Carno_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Cnidaria/Cnidaria_Character_BP_Aberrant.Cnidaria_Character_BP_Aberrant_C",
+            "group": "Cnidaria_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Coelacanth/Coel_Character_BP_Aberrant.Coel_Character_BP_Aberrant_C",
+            "group": "Coel_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Dimetrodon/Dimetro_Character_BP_Aberrant.Dimetro_Character_BP_Aberrant_C",
+            "group": "Dimetro_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Dimorphodon/Dimorph_Character_BP_Aberrant.Dimorph_Character_BP_Aberrant_C",
+            "group": "Dimorph_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Diplocaulus/Diplocaulus_Character_BP_Aberrant.Diplocaulus_Character_BP_Aberrant_C",
+            "group": "Diplocaulus_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP_Aberrant.Diplodocus_Character_BP_Aberrant_C",
+            "group": "Diplodocus_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Direbear/Direbear_Character_BP_Aberrant.Direbear_Character_BP_Aberrant_C",
+            "group": "Direbear_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP_Aberrant.Dodo_Character_BP_Aberrant_C",
+            "group": "Dodo_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP_Aberrant.Doed_Character_BP_Aberrant_C",
+            "group": "Doed_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Dragonfly/Dragonfly_Character_BP_Aberrant.Dragonfly_Character_BP_Aberrant_C",
+            "group": "Dragonfly_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP_Aberrant.DungBeetle_Character_BP_Aberrant_C",
+            "group": "DungBeetle_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Eel/Eel_Character_BP_Aberrant.Eel_Character_BP_Aberrant_C",
+            "group": "Eel_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP_Aberrant.Equus_Character_BP_Aberrant_C",
+            "group": "Equus_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Iguanodon/Iguanodon_Character_BP_Aberrant.Iguanodon_Character_BP_Aberrant_C",
+            "group": "Iguanodon_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Lystrosaurus/Lystro_Character_BP_Aberrant.Lystro_Character_BP_Aberrant_C",
+            "group": "Lystro_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Manta/Manta_Character_BP_Aberrant.Manta_Character_BP_Aberrant_C",
+            "group": "Manta_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Megalania/Megalania_Character_BP_Aberrant.Megalania_Character_BP_Aberrant_C",
+            "group": "Megalania_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Megalosaurus/Megalosaurus_Character_BP_Aberrant.Megalosaurus_Character_BP_Aberrant_C",
+            "group": "Megalosaurus_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Moschops/Moschops_Character_BP_Aberrant.Moschops_Character_BP_Aberrant_C",
+            "group": "Moschops_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Otter/Otter_Character_BP_Aberrant.Otter_Character_BP_Aberrant_C",
+            "group": "Otter_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Oviraptor/Oviraptor_Character_BP_Aberrant.Oviraptor_Character_BP_Aberrant_C",
+            "group": "Oviraptor_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Para/Para_Character_BP_Aberrant.Para_Character_BP_Aberrant_C",
+            "group": "Para_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Paraceratherium/Paracer_Character_BP_Aberrant.Paracer_Character_BP_Aberrant_C",
+            "group": "Paracer_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Piranha/Piranha_Character_BP_Aberrant.Piranha_Character_BP_Aberrant_C",
+            "group": "Piranha_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Purlovia/Purlovia_Character_BP_Aberrant.Purlovia_Character_BP_Aberrant_C",
+            "group": "Purlovia_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP_Aberrant.Raptor_Character_BP_Aberrant_C",
+            "group": "Raptor_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Salmon/Salmon_Character_Aberrant.Salmon_Character_Aberrant_C",
+            "group": "Salmon_Character_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Sarco/Sarco_Character_BP_Aberrant.Sarco_Character_BP_Aberrant_C",
+            "group": "Sarco_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP_Aberrant.Scorpion_Character_BP_Aberrant_C",
+            "group": "Scorpion_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP_Aberrant.Sheep_Character_BP_Aberrant_C",
+            "group": "Sheep_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP_Aberrant.SpiderS_Character_BP_Aberrant_C",
+            "group": "SpiderS_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP_Aberrant.Spino_Character_BP_Aberrant_C",
+            "group": "Spino_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP_Aberrant.Stego_Character_BP_Aberrant_C",
+            "group": "Stego_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Toad/Toad_Character_BP_Aberrant.Toad_Character_BP_Aberrant_C",
+            "group": "Toad_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP_Aberrant.Trike_Character_BP_Aberrant_C",
+            "group": "Trike_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Trilobite/Trilobite_Character_Aberrant.Trilobite_Character_Aberrant_C",
+            "group": "Trilobite_Character_Aberrant_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP_Aberrant.Turtle_Character_BP_Aberrant_C",
+            "group": "Turtle_Character_BP_Aberrant_C"
+        }
+    ]
+}

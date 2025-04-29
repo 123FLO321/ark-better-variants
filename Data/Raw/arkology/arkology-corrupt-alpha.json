@@ -1,0 +1,45 @@
+{
+    "variantName": "arkology-corrupt-alpha",
+    "weight": 1,
+    "mods": [
+        {
+            "id": 1013622,
+            "name": "ARKOLOGY_NEWENCOUNTERS"
+        }
+    ],
+    "maps": [],
+    "dinos": [
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_MegaArthro_Character_BP_Corrupt.ARKOLOGY_MegaArthro_Character_BP_Corrupt_C",
+            "group": "Arthro_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_MegaCarno_Character_BP_Corrupt.ARKOLOGY_MegaCarno_Character_BP_Corrupt_C",
+            "group": "Carno_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_MegaDilo_Character_BP_Corrupt.ARKOLOGY_MegaDilo_Character_BP_Corrupt_C",
+            "group": "Dilo_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_MegaGigant_Character_BP_Corrupt.ARKOLOGY_MegaGigant_Character_BP_Corrupt_C",
+            "group": "Gigant_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_MegaRaptor_Character_BP_Corrupt.ARKOLOGY_MegaRaptor_Character_BP_Corrupt_C",
+            "group": "Raptor_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_MegaRockDrake_Character_BP_Corrupt.ARKOLOGY_MegaRockDrake_Character_BP_Corrupt_C",
+            "group": "RockDrake_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_MegaSpino_Character_BP_Corrupt.ARKOLOGY_MegaSpino_Character_BP_Corrupt_C",
+            "group": "Spino_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_MegaWyvern_Character_BP_Fire_Corrupt.ARKOLOGY_MegaWyvern_Character_BP_Fire_Corrupt_C",
+            "group": "Wyvern_Character_BP_Fire_C"
+        }
+    ]
+}

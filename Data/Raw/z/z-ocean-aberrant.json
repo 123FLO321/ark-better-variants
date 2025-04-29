@@ -1,0 +1,16 @@
+{
+    "variantName": "z-aberrant",
+    "weight": 0.25,
+    "mods": [
+        {
+            "id": 974812,
+            "name": "Z_VariantsOceanLife"
+        }
+    ],
+    "dinos": [
+        {
+            "class": "/Z_VariantsOceanLife/z-dolphin/Z_Aberrant_Dolphin_Character_BP.Z_Aberrant_Dolphin_Character_BP_C",
+            "group": "Dolphin_Character_BP_Aberrant_C"
+        }
+    ]
+}

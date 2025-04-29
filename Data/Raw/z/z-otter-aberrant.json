@@ -1,0 +1,16 @@
+{
+    "variantName": "z-aberrant",
+    "weight": 0.25,
+    "mods": [
+        {
+            "id": 976436,
+            "name": "Z-VariantsOtterAdditions"
+        }
+    ],
+    "dinos": [
+        {
+            "class": "/Z-VariantsOtterAdditions/z_aberrantotter/Z_Aberrant_Otter_Character_BP_ASA.Z_Aberrant_Otter_Character_BP_ASA_C",
+            "group": "Otter_Character_BP_Aberrant_C"
+        }
+    ]
+}

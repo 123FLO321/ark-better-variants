@@ -10,8 +10,96 @@
     ],
     "dinos": [
         {
+            "class": "/Game/Aberration/Dinos/Basilisk/MegaBasilisk_Character_BP.MegaBasilisk_Character_BP_C",
+            "group": "MegaBasilisk_Character_BP_C"
+        },
+        {
+            "class": "/Game/Aberration/Dinos/Crab/MegaCrab_Character_BP.MegaCrab_Character_BP_C",
+            "group": "MegaCrab_Character_BP_C"
+        },
+        {
+            "class": "/Game/Aberration/Dinos/Nameless/MegaXenomorph_Character_BP_Male_Surface.MegaXenomorph_Character_BP_Male_Surface_C",
+            "group": "MegaXenomorph_Character_BP_Male_Surface_C"
+        },
+        {
+            "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Megalodon/AstralMegalodon_Character_BP.AstralMegalodon_Character_BP_C",
+            "group": "AstralMegalodon_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Carno/Bone_MegaCarno_Character_BP.Bone_MegaCarno_Character_BP_C",
+            "group": "BoneCarno_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Carno/MegaCarno_Character_BP.MegaCarno_Character_BP_C",
+            "group": "MegaCarno_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Leedsichthys/Alpha_Leedsichthys_Character_BP.Alpha_Leedsichthys_Character_BP_C",
+            "group": "Leedsichthys_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Megalania/Megalania_Character_BP.Megalania_Character_BP_C",
+            "group": "Megalania_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Megalodon/MEgaMegalodon_Character_BP.MegaMegalodon_Character_BP_C",
+            "group": "MegaMegalodon_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Megalodon/Megalodon_Character_BP.Megalodon_Character_BP_C",
+            "group": "Megalodon_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Megalosaurus/Megalosaurus_Character_BP.Megalosaurus_Character_BP_C",
+            "group": "Megalosaurus_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Megalosaurus/Megalosaurus_Character_BP_TekCave.Megalosaurus_Character_BP_TekCave_C",
+            "group": "Megalosaurus_Character_BP_TekCave_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Megatherium/Megatherium_Character_BP.Megatherium_Character_BP_C",
+            "group": "Megatherium_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP_Mega.Mosa_Character_BP_Mega_C",
+            "group": "Mosa_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP_Mega_Cave.Mosa_Character_BP_Mega_Cave_C",
+            "group": "Mosa_Character_BP_Cave_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Raptor/Bone_MegaRaptor_Character_BP.Bone_MegaRaptor_Character_BP_C",
+            "group": "BoneRaptor_Character_BP_C"
+        },
+        {
             "class": "/Game/PrimalEarth/Dinos/Raptor/MegaRaptor_Character_BP.MegaRaptor_Character_BP_C",
-            "group": "Raptor_Character_BP_C"
+            "group": "MegaRaptor_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Rex/Bone_MegaRex_Character_BP.Bone_MegaRex_Character_BP_C",
+            "group": "BoneRex_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Rex/MegaRex_Character_BP.MegaRex_Character_BP_C",
+            "group": "MegaRex_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Tusoteuthis/Mega_Tusoteuthis_Character_BP.Mega_Tusoteuthis_Character_BP_C",
+            "group": "Mega_Tusoteuthis_Character_BP_C"
+        },
+        {
+            "class": "/Game/ScorchedEarth/Dinos/Deathworm/MegaDeathworm_Character_BP.MegaDeathworm_Character_BP_C",
+            "group": "MegaDeathworm_Character_BP_C"
+        },
+        {
+            "class": "/Game/ScorchedEarth/Dinos/Wyvern/Bone_MegaWyvern_Character_BP_Fire.Bone_MegaWyvern_Character_BP_Fire_C",
+            "group": "BoneWyvern_Character_BP_Fire_C"
+        },
+        {
+            "class": "/Game/ScorchedEarth/Dinos/Wyvern/MegaWyvern_Character_BP_Fire.MegaWyvern_Character_BP_Fire_C",
+            "group": "MegaWyvern_Character_BP_Fire_C"
         }
     ]
 }

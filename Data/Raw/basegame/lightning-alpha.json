@@ -1,0 +1,21 @@
+{
+    "variantName": "lightning-alpha",
+    "weight": 0.05,
+    "mods": [],
+    "maps": [
+        {
+            "type": "required",
+            "name": "Astraeos_WP"
+        }
+    ],
+    "dinos": [
+        {
+            "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/LightningInfused/Rex/MegaRex_Character_BP_Lightning.MegaRex_Character_BP_Lightning_C",
+            "group": "Rex_Character_BP_Lightning_C"
+        },
+        {
+            "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/LightningInfused/Trike/MegaTrike_Character_BP_Lightning.MegaTrike_Character_BP_Lightning_C",
+            "group": "Trike_Character_BP_Lightning_C"
+        }
+    ]
+}

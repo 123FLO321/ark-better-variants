@@ -8,5 +8,37 @@
         }
     ],
     "dinos": [
+        {
+            "class": "/Z-VariantsOtterAdditions/z-cupidotter/Z_CupidOtter_Character_BP.Z_CupidOtter_Character_BP_C",
+            "group": "Otter_Character_BP_C"
+        },
+        {
+            "class": "/Z-VariantsOtterAdditions/z-pandaotter/Z_PandaOtter_Character_BP.Z_PandaOtter_Character_BP_C",
+            "group": "Otter_Character_BP_C"
+        },
+        {
+            "class": "/Z-VariantsOtterAdditions/z-redpandaotter/Z_RedPandaOtter_Character_BP.Z_RedPandaOtter_Character_BP_C",
+            "group": "Otter_Character_BP_C"
+        },
+        {
+            "class": "/Z-VariantsOtterAdditions/z-tigerotter/Z_TigerOtter_Character_BP.Z_TigerOtter_Character_BP_C",
+            "group": "Otter_Character_BP_C"
+        },
+        {
+            "class": "/Z-VariantsOtterAdditions/z_aberrantotter/Z_Aberrant_Otter_Character_BP_ASA.Z_Aberrant_Otter_Character_BP_ASA_C",
+            "group": "Otter_Character_BP_C"
+        },
+        {
+            "class": "/Z-VariantsOtterAdditions/z_ferretotter/Z_FerretOtter_Character_BP_ASA.Z_FerretOtter_Character_BP_ASA_C",
+            "group": "Otter_Character_BP_C"
+        },
+        {
+            "class": "/Z-VariantsOtterAdditions/z_otter/Z_Otter_Character_BP_ASA.Z_Otter_Character_BP_ASA_C",
+            "group": "Otter_Character_BP_C"
+        },
+        {
+            "class": "/Z-VariantsOtterAdditions/z_spottedotter/Z_SpottedOtter_Character_BP_ASA.Z_SpottedOtter_Character_BP_ASA_C",
+            "group": "Otter_Character_BP_C"
+        }
     ]
 }

@@ -8,6 +8,13 @@
         }
     ],
     "dinos": [
-
+        {
+            "class": "/SDinoVariantsFantasticTames/Assets/CoreBlueprints/Creatures/S-FireLion/S-FireLion_Character_BP.S-FireLion_Character_BP_C",
+            "group": "FireLion_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariantsFantasticTames/Assets/CoreBlueprints/Creatures/S-Pegasus/S-DarkPegasus_Character_BP.S-DarkPegasus_Character_BP_C",
+            "group": "DarkPegasus_Character_BP_C"
+        }
     ]
 }

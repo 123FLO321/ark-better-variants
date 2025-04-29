@@ -15,8 +15,200 @@
     ],
     "dinos": [
         {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Allo/Arkology_MegaAllo_Character_BP.Arkology_MegaAllo_Character_BP_C",
+            "group": "Allo_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Anky/Arkology_MegaAnkylo_Character_BP.Arkology_MegaAnkylo_Character_BP_C",
+            "group": "Ankylo_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Arthro/ARKOLOGY_MegaArthro_Character_BP.ARKOLOGY_MegaArthro_Character_BP_C",
+            "group": "Arthro_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Baryonyx/ARKOLOGY_MegaBaryonyx_Character_BP.ARKOLOGY_MegaBaryonyx_Character_BP_C",
+            "group": "Baryonyx_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Basilisk/ARKOLOGY_MegaBasilisk_Character_BP.ARKOLOGY_MegaBasilisk_Character_BP_C",
+            "group": "Basilisk_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Bronto/ARKOLOGY_MegaSauropod_Character_BP.ARKOLOGY_MegaSauropod_Character_BP_C",
+            "group": "Sauropod_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Carcha/Arkology_MegaCarcha_Character_BP.Arkology_MegaCarcha_Character_BP_C",
+            "group": "Carcha_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Carno/ARKOLOGY_MegaCarno_Character_BP.ARKOLOGY_MegaCarno_Character_BP_C",
+            "group": "Carno_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/CaveWolf/ARKOLOGY_MegaCaveWolf_Character_BP.ARKOLOGY_MegaCaveWolf_Character_BP_C",
+            "group": "CaveWolf_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Ceratosaurus/ARKOLOGY_MegaCeratosaurus_Character_BP_ASA.ARKOLOGY_MegaCeratosaurus_Character_BP_ASA_C",
+            "group": "Ceratosaurus_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Crab/ARKOLOGY_MegaCrab_Character_BP.ARKOLOGY_MegaCrab_Character_BP_C",
+            "group": "Crab_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Deathworm/ARKOLOGY_MegaDeathworm_Character_BP.ARKOLOGY_MegaDeathworm_Character_BP_C",
+            "group": "Deathworm_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Deinosuchus/ARKOLOGY_MegaDeinosuchusASA_Character_BP.ARKOLOGY_MegaDeinosuchusASA_Character_BP_C",
+            "group": "Deinosuchus_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Dilo/ARKOLOGY_MegaDilo_Character_BP.ARKOLOGY_MegaDilo_Character_BP_C",
+            "group": "Dilo_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/DireWolf/ARKOLOGY_MegaDirewolf_Character_BP.ARKOLOGY_MegaDirewolf_Character_BP_C",
+            "group": "Direwolf_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Dreadnoughtus/ARKOLOGY_MegaDreadnoughtus_Character_BP.ARKOLOGY_MegaDreadnoughtus_Character_BP_C",
+            "group": "Dreadnoughtus_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Fasola/ARKOLOGY_MegaFasola_Character_BP.ARKOLOGY_MegaFasola_Character_BP_C",
+            "group": "Fasola_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Giga/ARKOLOGY_MegaGigant_Character_BP.ARKOLOGY_MegaGigant_Character_BP_C",
+            "group": "Gigant_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/IceJumper/ARKOLOGY_MegaIceJumper_Character_BP.ARKOLOGY_MegaIceJumper_Character_BP_C",
+            "group": "IceJumper_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Kapro/ARKOLOGY_MegaKaprosuchus_Character_BP.ARKOLOGY_MegaKaprosuchus_Character_BP_C",
+            "group": "Kaprosuchus_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Leed/ARKOLOGY_Alpha_Leedsichthys_Character_BP.ARKOLOGY_Alpha_Leedsichthys_Character_BP_C",
+            "group": "Leedsichthys_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Mammoth/ARKOLOGY_MegaMammoth_Character_BP.ARKOLOGY_MegaMammoth_Character_BP_C",
+            "group": "Mammoth_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Mantis/ARKOLOGY_MegaMantis_Character_BP.ARKOLOGY_MegaMantis_Character_BP_C",
+            "group": "Mantis_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Megalania/ARKOLOGY_MegaMegalania_Character_BP.ARKOLOGY_MegaMegalania_Character_BP_C",
+            "group": "Megalania_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Megalodon/ARKOLOGY_MEgaMegalodon_Character_BP.ARKOLOGY_MEgaMegalodon_Character_BP_C",
+            "group": "Megalodon_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Megalosaurus/ARKOLOGY_MegaMegalosaurus_Character_BP.ARKOLOGY_MegaMegalosaurus_Character_BP_C",
+            "group": "Megalosaurus_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Megatherium/ARKOLOGY_MegaMegatherium_Character_BP.ARKOLOGY_MegaMegatherium_Character_BP_C",
+            "group": "Megatherium_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Mosa/ARKOLOGY_Mosa_Character_BP_Mega.ARKOLOGY_Mosa_Character_BP_Mega_C",
+            "group": "Mosa_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Mosa/ARKOLOGY_Mosa_Character_BP_Mega_Cave.ARKOLOGY_Mosa_Character_BP_Mega_Cave_C",
+            "group": "Mosa_Character_BP_Cave_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Nameless/ARKOLOGY_MegaXenomorph_Character_BP_Female.ARKOLOGY_MegaXenomorph_Character_BP_Female_C",
+            "group": "Xenomorph_Character_BP_Female_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Nameless/ARKOLOGY_MegaXenomorph_Character_BP_Male_Surface.ARKOLOGY_MegaXenomorph_Character_BP_Male_Surface_C",
+            "group": "Xenomorph_Character_BP_Male_Surface_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Quetzal/ARKOLOGY_MegaQuetz_Character_BP.ARKOLOGY_MegaQuetz_Character_BP_C",
+            "group": "Quetz_Character_BP_C"
+        },
+        {
             "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Raptor/ARKOLOGY_MegaRaptor_Character_BP.ARKOLOGY_MegaRaptor_Character_BP_C",
             "group": "Raptor_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Rex/ARKOLOGY_MegaRex_Character_BP.ARKOLOGY_MegaRex_Character_BP_C",
+            "group": "Rex_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Rhynio/ARKOLOGY_MegaRhynio_Character_BP.ARKOLOGY_MegaRhynio_Character_BP_C",
+            "group": "Rhynio_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/RockDrake/ARKOLOGY_MegaRockDrake_Character_BP.ARKOLOGY_MegaRockDrake_Character_BP_C",
+            "group": "RockDrake_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/RockGolem/ARKOLOGY_MegaRockGolem_Character_BP.ARKOLOGY_MegaRockGolem_Character_BP_C",
+            "group": "RockGolem_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Scorpion/ARKOLOGY_MegaScorpion_Character_BP.ARKOLOGY_MegaScorpion_Character_BP_C",
+            "group": "Scorpion_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Shasta/ARKOLOGY_MegaShastasaurus_Character_BP.ARKOLOGY_MegaShastasaurus_Character_BP_C",
+            "group": "Shastasaurus_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Spindles/ARKOLOGY_MegaSpindles_Character_BP.ARKOLOGY_MegaSpindles_Character_BP_C",
+            "group": "Spindles_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Spino/ARKOLOGY_MegaSpino_Character_BP.ARKOLOGY_MegaSpino_Character_BP_C",
+            "group": "Spino_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Therizino/ARKOLOGY_MegaTherizino_Character_BP.ARKOLOGY_MegaTherizino_Character_BP_C",
+            "group": "Therizino_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Titanosaur/Arkology_MegaTitanosaur_Character_BP.Arkology_MegaTitanosaur_Character_BP_C",
+            "group": "Titanosaur_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Trike/ARKOLOGY_MegaTrike_Character_BP.ARKOLOGY_MegaTrike_Character_BP_C",
+            "group": "Trike_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Tuso/ARKOLOGY_Mega_Tusoteuthis_Character_BP.ARKOLOGY_Mega_Tusoteuthis_Character_BP_C",
+            "group": "Tusoteuthis_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Wyvern/ARKOLOGY_MegaWyvern_Character_BP_Fire.ARKOLOGY_MegaWyvern_Character_BP_Fire_C",
+            "group": "Wyvern_Character_BP_Fire_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Xiphactinus/ARKOLOGY_MegaXiphactinus_Character_BP_ASA.ARKOLOGY_MegaXiphactinus_Character_BP_ASA_C",
+            "group": "Xiphactinus_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/YiLing/ARKOLOGY_MegaYiLing_Character_BP.ARKOLOGY_MegaYiLing_Character_BP_C",
+            "group": "YiLing_Character_BP_C"
+        },
+        {
+            "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Yuty/ARKOLOGY_MegaYutyrannus_Character_BP.ARKOLOGY_MegaYutyrannus_Character_BP_C",
+            "group": "Yutyrannus_Character_BP_C"
         }
     ]
 }

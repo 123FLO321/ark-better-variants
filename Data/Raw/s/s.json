@@ -1,0 +1,160 @@
+{
+    "variantName": "s",
+    "weight": 0.25,
+    "mods": [
+        {
+            "id": 912815,
+            "name": "SDinoVariants"
+        }
+    ],
+    "dinos": [
+        {
+            "class": "/SDinoVariants/S-Allosaurus/S-Allo_Character_BP.S-Allo_Character_BP_C",
+            "group": "Allo_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Ankylosaurus/S-Ankylo_Character_BP.S-Ankylo_Character_BP_C",
+            "group": "Ankylo_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Basilosaurus/S-Basilosaurus_Character_BP.S-Basilosaurus_Character_BP_C",
+            "group": "Basilosaurus_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-BeeQueen/S-Bee_Queen_Character_BP.S-Bee_Queen_Character_BP_C",
+            "group": "Bee_Queen_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Carcha/S-Carcha_Character_BP.S-Carcha_Character_BP_C",
+            "group": "Carcha_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Cerato/S-Ceratosaurus_Character_BP_ASA.S-Ceratosaurus_Character_BP_ASA_C",
+            "group": "Ceratosaurus_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Daeodon/S-Daeodon_Character_BP.S-Daeodon_Character_BP_C",
+            "group": "Daeodon_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Deinonychus/S-Deinonychus_Character_BP.S-Deinonychus_Character_BP_C",
+            "group": "Deinonychus_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Deinosuchus/S-DeinosuchusASA_Character_BP.S-DeinosuchusASA_Character_BP_C",
+            "group": "Deinosuchus_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Direbear/S-Direbear_Character_BP.S-Direbear_Character_BP_C",
+            "group": "Direbear_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Doedicurus/S-Doed_Character_BP.S-Doed_Character_BP_C",
+            "group": "Doed_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Dunkleosteus/S-Dunkle_Character_BP.S-Dunkle_Character_BP_C",
+            "group": "Dunkle_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Fasolasuchus/S-Fasola_Character_BP.S-Fasola_Character_BP_C",
+            "group": "Fasola_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Fenrir/S-Fenrir_Character_BP.S-Fenrir_Character_BP_C",
+            "group": "Fenrir_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Maeguana/S-Maelizard_Character_BP.S-Maelizard_Character_BP_C",
+            "group": "Maelizard_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Maewing/S-MilkGlider_Character_BP.S-MilkGlider_Character_BP_C",
+            "group": "MilkGlider_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Mantis/S-Mantis_Character_BP.S-Mantis_Character_BP_C",
+            "group": "Mantis_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Megalodon/S-Megalodon_Character_BP.S-Megalodon_Character_BP_C",
+            "group": "Megalodon_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Megalosaurus/S-Megalosaurus_Character_BP.S-Megalosaurus_Character_BP_C",
+            "group": "Megalosaurus_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Mosa/S-Mosa_Character_BP.S-Mosa_Character_BP_C",
+            "group": "Mosa_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Otter/S-Otter_Character_BP.S-Otter_Character_BP_C",
+            "group": "Otter_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Plesiosaur/S-Plesiosaur_Character_BP.S-Plesiosaur_Character_BP_C",
+            "group": "Plesiosaur_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Reaper/S-Xenomorph_Character_BP_Female.S-Xenomorph_Character_BP_Female_C",
+            "group": "Xenomorph_Character_BP_Female_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Reaper/S-Xenomorph_Character_BP_Male_Tamed.S-Xenomorph_Character_BP_Male_Tamed_C",
+            "group": "Xenomorph_Character_BP_Male_Tamed_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Rex/S-Rex_Character_BP.S-Rex_Character_BP_C",
+            "group": "Rex_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Rockdrake/S-RockDrake_Character_BP.S-RockDrake_Character_BP_C",
+            "group": "RockDrake_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Shinehorn/S-LanternGoat_Character_BP.S-LanternGoat_Character_BP_C",
+            "group": "LanternGoat_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-SnowOwl/S-Owl_Character_BP.S-Owl_Character_BP_C",
+            "group": "Owl_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Spinosaurus/S-Spino_Character_BP.S-Spino_Character_BP_C",
+            "group": "Spino_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Therizinosaur/S-Therizino_Character_BP.S-Therizino_Character_BP_C",
+            "group": "Therizino_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Thylacoleo/S-Thylacoleo_Character_BP.S-Thylacoleo_Character_BP_C",
+            "group": "Thylacoleo_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Trike/S-Trike_Character_BP.S-Trike_Character_BP_C",
+            "group": "Trike_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Unicorn/S-Equus_Character_BP_Unicorn.S-Equus_Character_BP_Unicorn_C",
+            "group": "Equus_Character_BP_Unicorn_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Velonasaur/S-Spindles_Character_BP.S-Spindles_Character_BP_C",
+            "group": "Spindles_Character_BP_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Fire.S-Wyvern_Character_BP_Fire_C",
+            "group": "Wyvern_Character_BP_Fire_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Lightning.S-Wyvern_Character_BP_Lightning_C",
+            "group": "Wyvern_Character_BP_Lightning_C"
+        },
+        {
+            "class": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Poison.S-Wyvern_Character_BP_Poison_C",
+            "group": "Wyvern_Character_BP_Poison_C"
+        }
+    ]
+}

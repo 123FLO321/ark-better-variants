@@ -10,8 +10,64 @@
     "maps": [],
     "dinos": [
         {
+            "class": "/PA_Ascension/Bosses/Barbatos/Barbatos_Character_BP.Barbatos_Character_BP_C",
+            "group": "Barbatos_Character_BP_C"
+        },
+        {
+            "class": "/PA_Ascension/Dinos/GreaterYuty/Paleo_Yutyrannus_Character_BP.Paleo_Yutyrannus_Character_BP_C",
+            "group": "Yutyrannus_Character_BP_C"
+        },
+        {
+            "class": "/PA_Ascension/Dinos/PaleoCarcha/Paleo_Carcha_Character_BP.Paleo_Carcha_Character_BP_C",
+            "group": "Carcha_Character_BP_C"
+        },
+        {
+            "class": "/PA_Ascension/Dinos/PaleoFasola/Paleo_Fasola_Character_BP.Paleo_Fasola_Character_BP_C",
+            "group": "Fasola_Character_BP_C"
+        },
+        {
+            "class": "/PA_Ascension/Dinos/PaleoGigantoraptor/Paleo_Gigantoraptor_Character_BP.Paleo_Gigantoraptor_Character_BP_C",
+            "group": "Gigantoraptor_Character_BP_C"
+        },
+        {
+            "class": "/PA_Ascension/Dinos/PaleoKentro/Paleo_Kentro_Character_BP.Paleo_Kentro_Character_BP_C",
+            "group": "Kentro_Character_BP_C"
+        },
+        {
+            "class": "/PA_Ascension/Dinos/PaleoMegalosaur/Paleo_Megalosaurus_Character_BP.Paleo_Megalosaurus_Character_BP_C",
+            "group": "Megalosaurus_Character_BP_C"
+        },
+        {
+            "class": "/PA_Ascension/Dinos/PaleoMoschops/Paleo_Moschops_Character_BP.Paleo_Moschops_Character_BP_C",
+            "group": "Moschops_Character_BP_C"
+        },
+        {
+            "class": "/PA_Ascension/Dinos/PaleoPurlovia/Paleo_Purlovia_Character_BP.Paleo_Purlovia_Character_BP_C",
+            "group": "Purlovia_Character_BP_C"
+        },
+        {
             "class": "/PA_Ascension/Dinos/PaleoRaptor/Paleo_Raptor_Character_BP.Paleo_Raptor_Character_BP_C",
             "group": "Raptor_Character_BP_C"
+        },
+        {
+            "class": "/PA_Ascension/Dinos/PaleoSarco/Paleo_Sarco_Character_BP.Paleo_Sarco_Character_BP_C",
+            "group": "Sarco_Character_BP_C"
+        },
+        {
+            "class": "/PA_Ascension/Dinos/PaleoSpino/Paleo_Spino_Character_BP.Paleo_Spino_Character_BP_C",
+            "group": "Spino_Character_BP_C"
+        },
+        {
+            "class": "/PA_Ascension/Dinos/PaleoStego/Paleo_Stego_Character_BP.Paleo_Stego_Character_BP_C",
+            "group": "Stego_Character_BP_C"
+        },
+        {
+            "class": "/PA_Ascension/Dinos/PaleoThyla/Paleo_Thylacoleo_Character_BP.Paleo_Thylacoleo_Character_BP_C",
+            "group": "Thylacoleo_Character_BP_C"
+        },
+        {
+            "class": "/PA_Ascension/Dinos/PaleoTrike/Paleo_Trike_Character_BP.Paleo_Trike_Character_BP_C",
+            "group": "Trike_Character_BP_C"
         }
     ]
 }

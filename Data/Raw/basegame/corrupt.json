@@ -1,0 +1,77 @@
+{
+    "variantName": "corrupt",
+    "weight": 1,
+    "mods": [],
+    "maps": [
+        {
+            "type": "disallowed",
+            "name": "Astraeos_WP"
+        }
+    ],
+    "dinos": [
+        {
+            "class": "/Game/Extinction/Dinos/Corrupt/Arthropluera/Arthro_Character_BP_Corrupt.Arthro_Character_BP_Corrupt_C",
+            "group": "Arthro_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Game/Extinction/Dinos/Corrupt/Carno/Carno_Character_BP_Corrupt.Carno_Character_BP_Corrupt_C",
+            "group": "Carno_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Game/Extinction/Dinos/Corrupt/Chalicotherium/Chalico_Character_BP_Corrupt.Chalico_Character_BP_Corrupt_C",
+            "group": "Chalico_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Game/Extinction/Dinos/Corrupt/Dilo/Dilo_Character_BP_Corrupt.Dilo_Character_BP_Corrupt_C",
+            "group": "Dilo_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Game/Extinction/Dinos/Corrupt/Dimorphodon/Dimorph_Character_BP_Corrupt.Dimorph_Character_BP_Corrupt_C",
+            "group": "Dimorph_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Game/Extinction/Dinos/Corrupt/Giganotosaurus/Gigant_Character_BP_Corrupt.Gigant_Character_BP_Corrupt_C",
+            "group": "Gigant_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Game/Extinction/Dinos/Corrupt/Nameless/Xenomorph_Character_BP_Male_Tamed_Corrupt.Xenomorph_Character_BP_Male_Tamed_Corrupt_C",
+            "group": "Xenomorph_Character_BP_Male_Tamed_Corrupt_C"
+        },
+        {
+            "class": "/Game/Extinction/Dinos/Corrupt/Paraceratherium/Paracer_Character_BP_Corrupt.Paracer_Character_BP_Corrupt_C",
+            "group": "Paracer_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Game/Extinction/Dinos/Corrupt/Ptero/Ptero_Character_BP_Corrupt.Ptero_Character_BP_Corrupt_C",
+            "group": "Ptero_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Game/Extinction/Dinos/Corrupt/Raptor/Raptor_Character_BP_Corrupt.Raptor_Character_BP_Corrupt_C",
+            "group": "Raptor_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Game/Extinction/Dinos/Corrupt/Rex/Rex_Character_BP_Corrupt.Rex_Character_BP_Corrupt_C",
+            "group": "Rex_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Game/Extinction/Dinos/Corrupt/RockDrake/RockDrake_Character_BP_Corrupt.RockDrake_Character_BP_Corrupt_C",
+            "group": "RockDrake_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Game/Extinction/Dinos/Corrupt/Spino/Spino_Character_BP_Corrupt.Spino_Character_BP_Corrupt_C",
+            "group": "Spino_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Game/Extinction/Dinos/Corrupt/Stego/Stego_Character_BP_Corrupt.Stego_Character_BP_Corrupt_C",
+            "group": "Stego_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Game/Extinction/Dinos/Corrupt/Trike/Trike_Character_BP_Corrupt.Trike_Character_BP_Corrupt_C",
+            "group": "Trike_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Game/Extinction/Dinos/Corrupt/Wyvern/Wyvern_Character_BP_Fire_Corrupt.Wyvern_Character_BP_Fire_Corrupt_C",
+            "group": "Wyvern_Character_BP_Fire_Corrupt_C"
+        }
+    ]
+}
