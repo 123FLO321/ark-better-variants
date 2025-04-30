@@ -7,63 +7,68 @@
             "name": "ARKOLOGY_NEWENCOUNTERS"
         }
     ],
-    "maps": [],
+    "maps": [
+        {
+            "type": "disallowed",
+            "name": "Astraeos_WP"
+        }
+    ],
     "dinos": [
         {
             "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Arthro_Character_BP_Corrupt.ARKOLOGY_Arthro_Character_BP_Corrupt_C",
-            "group": "Arthro_Character_BP_C"
+            "group": "Arthro_Character_BP_Corrupt_C"
         },
         {
             "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Carno_Character_BP_Corrupt.ARKOLOGY_Carno_Character_BP_Corrupt_C",
-            "group": "Carno_Character_BP_C"
+            "group": "Carno_Character_BP_Corrupt_C"
         },
         {
             "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Chalico_Character_BP_Corrupt.ARKOLOGY_Chalico_Character_BP_Corrupt_C",
-            "group": "Chalico_Character_BP_C"
+            "group": "Chalico_Character_BP_Corrupt_C"
         },
         {
             "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Dilo_Character_BP_Corrupt.ARKOLOGY_Dilo_Character_BP_Corrupt_C",
-            "group": "Dilo_Character_BP_C"
+            "group": "Dilo_Character_BP_Corrupt_C"
         },
         {
             "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Dimorph_Character_BP_Corrupt.ARKOLOGY_Dimorph_Character_BP_Corrupt_C",
-            "group": "Dimorph_Character_BP_C"
+            "group": "Dimorph_Character_BP_Corrupt_C"
         },
         {
             "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Gigant_Character_BP_Corrupt.ARKOLOGY_Gigant_Character_BP_Corrupt_C",
-            "group": "Gigant_Character_BP_C"
+            "group": "Gigant_Character_BP_Corrupt_C"
         },
         {
             "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Paracer_Character_BP_Corrupt.ARKOLOGY_Paracer_Character_BP_Corrupt_C",
-            "group": "Paracer_Character_BP_C"
+            "group": "Paracer_Character_BP_Corrupt_C"
         },
         {
             "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Ptero_Character_BP_Corrupt.ARKOLOGY_Ptero_Character_BP_Corrupt_C",
-            "group": "Ptero_Character_BP_C"
+            "group": "Ptero_Character_BP_Corrupt_C"
         },
         {
             "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Raptor_Character_BP_Corrupt.ARKOLOGY_Raptor_Character_BP_Corrupt_C",
-            "group": "Raptor_Character_BP_C"
+            "group": "Raptor_Character_BP_Corrupt_C"
         },
         {
             "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Rex_Character_BP_Corrupt.ARKOLOGY_Rex_Character_BP_Corrupt_C",
-            "group": "Rex_Character_BP_C"
+            "group": "Rex_Character_BP_Corrupt_C"
         },
         {
             "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_RockDrake_Character_BP_Corrupt.ARKOLOGY_RockDrake_Character_BP_Corrupt_C",
-            "group": "RockDrake_Character_BP_C"
+            "group": "RockDrake_Character_BP_Corrupt_C"
         },
         {
             "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Spino_Character_BP_Corrupt.ARKOLOGY_Spino_Character_BP_Corrupt_C",
-            "group": "Spino_Character_BP_C"
+            "group": "Spino_Character_BP_Corrupt_C"
         },
         {
             "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Stego_Character_BP_Corrupt.ARKOLOGY_Stego_Character_BP_Corrupt_C",
-            "group": "Stego_Character_BP_C"
+            "group": "Stego_Character_BP_Corrupt_C"
         },
         {
             "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Trike_Character_BP_Corrupt.ARKOLOGY_Trike_Character_BP_Corrupt_C",
-            "group": "Trike_Character_BP_C"
+            "group": "Trike_Character_BP_Corrupt_C"
         },
         {
             "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Wyvern_Character_BP_Fire_Corrupt.ARKOLOGY_Wyvern_Character_BP_Fire_Corrupt_C",
