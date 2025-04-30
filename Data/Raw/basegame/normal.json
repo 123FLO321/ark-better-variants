@@ -417,10 +417,6 @@
             "group": "Galli_Character_BP_C"
         },
         {
-            "class": "/Game/PrimalEarth/Dinos/Giganotosaurus/Bone_Gigant_Character_BP.Bone_Gigant_Character_BP_C",
-            "group": "Bone_Gigant_Character_BP_C"
-        },
-        {
             "class": "/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP_C",
             "group": "Gigant_Character_BP_C"
         },
@@ -489,6 +485,26 @@
             "group": "Manta_Character_BP_C"
         },
         {
+            "class": "/Game/PrimalEarth/Dinos/Megalania/Megalania_Character_BP.Megalania_Character_BP_C",
+            "group": "Megalania_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Megalodon/Megalodon_Character_BP.Megalodon_Character_BP_C",
+            "group": "Megalodon_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Megalosaurus/Megalosaurus_Character_BP.Megalosaurus_Character_BP_C",
+            "group": "Megalosaurus_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Megalosaurus/Megalosaurus_Character_BP_TekCave.Megalosaurus_Character_BP_TekCave_C",
+            "group": "Megalosaurus_Character_BP_TekCave_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Megatherium/Megatherium_Character_BP.Megatherium_Character_BP_C",
+            "group": "Megatherium_Character_BP_C"
+        },
+        {
             "class": "/Game/PrimalEarth/Dinos/Microraptor/Microraptor_Character_BP.Microraptor_Character_BP_C",
             "group": "Microraptor_Character_BP_C"
         },
@@ -515,6 +531,14 @@
         {
             "class": "/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP_Cave.Mosa_Character_BP_Cave_C",
             "group": "Mosa_Character_BP_Cave_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP_Mega.Mosa_Character_BP_Mega_C",
+            "group": "Mosa_Character_BP_Mega_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP_Mega_Cave.Mosa_Character_BP_Mega_Cave_C",
+            "group": "Mosa_Character_BP_Mega_Cave_C"
         },
         {
             "class": "/Game/PrimalEarth/Dinos/Moschops/Moschops_Character_BP.Moschops_Character_BP_C",
@@ -593,10 +617,6 @@
             "group": "Purlovia_Character_BP_Polar_C"
         },
         {
-            "class": "/Game/PrimalEarth/Dinos/Quetzalcoatlus/Bone_Quetz_Character_BP.Bone_Quetz_Character_BP_C",
-            "group": "Bone_Quetz_Character_BP_C"
-        },
-        {
             "class": "/Game/PrimalEarth/Dinos/Quetzalcoatlus/Quetz_Character_BP.Quetz_Character_BP_C",
             "group": "Quetz_Character_BP_C"
         },
@@ -629,10 +649,6 @@
             "group": "Sarco_Character_BP_C"
         },
         {
-            "class": "/Game/PrimalEarth/Dinos/Sauropod/Bone_Sauropod_Character_BP.Bone_Sauropod_Character_BP_C",
-            "group": "Bone_Sauropod_Character_BP_C"
-        },
-        {
             "class": "/Game/PrimalEarth/Dinos/Sauropod/Sauropod_Character_BP.Sauropod_Character_BP_C",
             "group": "Sauropod_Character_BP_C"
         },
@@ -655,10 +671,6 @@
         {
             "class": "/Game/PrimalEarth/Dinos/Stag/Stag_Character_BP.Stag_Character_BP_C",
             "group": "Stag_Character_BP_C"
-        },
-        {
-            "class": "/Game/PrimalEarth/Dinos/Stego/Bone_Stego_Character_BP.Bone_Stego_Character_BP_C",
-            "group": "Bone_Stego_Character_BP_C"
         },
         {
             "class": "/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP_C",
@@ -687,10 +699,6 @@
         {
             "class": "/Game/PrimalEarth/Dinos/Toad/Toad_Character_BP.Toad_Character_BP_C",
             "group": "Toad_Character_BP_C"
-        },
-        {
-            "class": "/Game/PrimalEarth/Dinos/Trike/Bone_Trike_Character_BP.Bone_Trike_Character_BP_C",
-            "group": "Bone_Trike_Character_BP_C"
         },
         {
             "class": "/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP.Trike_Character_BP_C",
@@ -731,10 +739,6 @@
         {
             "class": "/Game/ScorchedEarth/Dinos/Deathworm/Deathworm_Character_BP.Deathworm_Character_BP_C",
             "group": "Deathworm_Character_BP_C"
-        },
-        {
-            "class": "/Game/ScorchedEarth/Dinos/Jerboa/Bone_Jerboa_Character_BP.Bone_Jerboa_Character_BP_C",
-            "group": "Bone_Jerboa_Character_BP_C"
         },
         {
             "class": "/Game/ScorchedEarth/Dinos/Jerboa/Jerboa_Character_BP.Jerboa_Character_BP_C",
