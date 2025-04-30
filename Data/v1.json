@@ -1079,6 +1079,15 @@
           "mapsExcluded": []
         },
         {
+          "class": "/Game/Aberration/Dinos/Basilisk/MegaBasilisk_Character_BP.MegaBasilisk_Character_BP_C",
+          "variant": "alpha",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
           "class": "/Game/Aberration/Dinos/Basilisk/Basilisk_Character_BP.Basilisk_Character_BP_C",
           "variant": "normal",
           "mods": [],
@@ -1217,6 +1226,24 @@
             "ARKOLOGY_NEWENCOUNTERS"
           ],
           "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Game/PrimalEarth/Dinos/Carno/MegaCarno_Character_BP.MegaCarno_Character_BP_C",
+          "variant": "alpha",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Carno/AstralCarno_Character_BP.AstralCarno_Character_BP_C",
+          "variant": "astral",
+          "mods": [],
+          "maps": [
+            "Astraeos_WP"
+          ],
           "mapsExcluded": []
         },
         {
@@ -1370,6 +1397,15 @@
           "mapsExcluded": []
         },
         {
+          "class": "/Game/Aberration/Dinos/Crab/MegaCrab_Character_BP.MegaCrab_Character_BP_C",
+          "variant": "alpha",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
           "class": "/Game/Aberration/Dinos/Crab/Crab_Character_BP.Crab_Character_BP_C",
           "variant": "normal",
           "mods": [],
@@ -1411,6 +1447,15 @@
           "mapsExcluded": []
         },
         {
+          "class": "/Game/ScorchedEarth/Dinos/Deathworm/MegaDeathworm_Character_BP.MegaDeathworm_Character_BP_C",
+          "variant": "alpha",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
           "class": "/Game/ScorchedEarth/Dinos/Deathworm/Deathworm_Character_BP.Deathworm_Character_BP_C",
           "variant": "normal",
           "mods": [],
@@ -1440,6 +1485,15 @@
             "ARKOLOGY_NEWENCOUNTERS"
           ],
           "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Deinosuchus/AstralDeinosuchusASA_Character_BP.AstralDeinosuchusASA_Character_BP_C",
+          "variant": "astral",
+          "mods": [],
+          "maps": [
+            "Astraeos_WP"
+          ],
           "mapsExcluded": []
         },
         {
@@ -1976,12 +2030,10 @@
         },
         {
           "class": "/Game/PrimalEarth/Dinos/Megalania/Megalania_Character_BP.Megalania_Character_BP_C",
-          "variant": "alpha",
+          "variant": "normal",
           "mods": [],
           "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
+          "mapsExcluded": []
         },
         {
           "class": "/Ark-EerieDinos/EerieVariants/EerieMegalania/ASAMegalania_Character_BP_EerieDinos.ASAMegalania_Character_BP_EerieDinos_C",
@@ -2027,13 +2079,29 @@
           "mapsExcluded": []
         },
         {
-          "class": "/Game/PrimalEarth/Dinos/Megalodon/Megalodon_Character_BP.Megalodon_Character_BP_C",
+          "class": "/Game/PrimalEarth/Dinos/Megalodon/MEgaMegalodon_Character_BP.MegaMegalodon_Character_BP_C",
           "variant": "alpha",
           "mods": [],
           "maps": [],
           "mapsExcluded": [
             "Astraeos_WP"
           ]
+        },
+        {
+          "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Megalodon/AstralMegalodon_Character_BP.AstralMegalodon_Character_BP_C",
+          "variant": "astral",
+          "mods": [],
+          "maps": [
+            "Astraeos_WP"
+          ],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Game/PrimalEarth/Dinos/Megalodon/Megalodon_Character_BP.Megalodon_Character_BP_C",
+          "variant": "normal",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
         },
         {
           "class": "/Ark-EerieDinos/EerieVariants/EerieMegalodon/ASAMegalodon_Character_BP_EerieDinos.ASAMegalodon_Character_BP_EerieDinos_C",
@@ -2098,12 +2166,10 @@
         },
         {
           "class": "/Game/PrimalEarth/Dinos/Megalosaurus/Megalosaurus_Character_BP.Megalosaurus_Character_BP_C",
-          "variant": "alpha",
+          "variant": "normal",
           "mods": [],
           "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
+          "mapsExcluded": []
         },
         {
           "class": "/Ark-EerieDinos/EerieVariants/EerieMegalosaurus/ASAMegalosaurus_Character_BP_EerieDinos.ASAMegalosaurus_Character_BP_EerieDinos_C",
@@ -2159,12 +2225,10 @@
         },
         {
           "class": "/Game/PrimalEarth/Dinos/Megatherium/Megatherium_Character_BP.Megatherium_Character_BP_C",
-          "variant": "alpha",
+          "variant": "normal",
           "mods": [],
           "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
+          "mapsExcluded": []
         },
         {
           "class": "/Ark-EerieDinos/EerieVariants/EerieMegatherium/ASAMegatherium_Character_BP_EerieDinos.ASAMegatherium_Character_BP_EerieDinos_C",
@@ -2208,15 +2272,6 @@
           ],
           "maps": [],
           "mapsExcluded": []
-        },
-        {
-          "class": "/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP_Mega.Mosa_Character_BP_Mega_C",
-          "variant": "alpha",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
         },
         {
           "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Mosasaurus/Astral_Mosa_Character_BP.Astral_Mosa_Character_BP_C",
@@ -2294,15 +2349,6 @@
           ],
           "maps": [],
           "mapsExcluded": []
-        },
-        {
-          "class": "/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP_Mega_Cave.Mosa_Character_BP_Mega_Cave_C",
-          "variant": "alpha",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
         },
         {
           "class": "/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP_Cave.Mosa_Character_BP_Cave_C",
@@ -2387,6 +2433,15 @@
           "mapsExcluded": []
         },
         {
+          "class": "/Game/Aberration/Dinos/Nameless/MegaXenomorph_Character_BP_Male_Surface.MegaXenomorph_Character_BP_Male_Surface_C",
+          "variant": "alpha",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
           "class": "/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Male_Surface.Xenomorph_Character_BP_Male_Surface_C",
           "variant": "normal",
           "mods": [],
@@ -2460,6 +2515,24 @@
           "mapsExcluded": []
         },
         {
+          "class": "/Game/PrimalEarth/Dinos/Raptor/MegaRaptor_Character_BP.MegaRaptor_Character_BP_C",
+          "variant": "alpha",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Raptor/AstralRaptor_Character_BP.AstralRaptor_Character_BP_C",
+          "variant": "astral",
+          "mods": [],
+          "maps": [
+            "Astraeos_WP"
+          ],
+          "mapsExcluded": []
+        },
+        {
           "class": "/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP_C",
           "variant": "normal",
           "mods": [],
@@ -2527,6 +2600,24 @@
             "ARKOLOGY_NEWENCOUNTERS"
           ],
           "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Game/PrimalEarth/Dinos/Rex/MegaRex_Character_BP.MegaRex_Character_BP_C",
+          "variant": "alpha",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Rex/AstralRex_Character_BP.AstralRex_Character_BP_C",
+          "variant": "astral",
+          "mods": [],
+          "maps": [
+            "Astraeos_WP"
+          ],
           "mapsExcluded": []
         },
         {
@@ -3062,6 +3153,15 @@
           "mapsExcluded": []
         },
         {
+          "class": "/Game/PrimalEarth/Dinos/Tusoteuthis/Mega_Tusoteuthis_Character_BP.Mega_Tusoteuthis_Character_BP_C",
+          "variant": "alpha",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
           "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Tusoteuthis/Astral_Tusoteuthis_Character_BP.Astral_Tusoteuthis_Character_BP_C",
           "variant": "astral",
           "mods": [],
@@ -3132,6 +3232,15 @@
           ],
           "maps": [],
           "mapsExcluded": []
+        },
+        {
+          "class": "/Game/ScorchedEarth/Dinos/Wyvern/MegaWyvern_Character_BP_Fire.MegaWyvern_Character_BP_Fire_C",
+          "variant": "alpha",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
         },
         {
           "class": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire_C",
@@ -4061,6 +4170,15 @@
             "ARKOLOGY_NEWENCOUNTERS"
           ],
           "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Argentavis/AstralArgent_Character_BP.AstralArgent_Character_BP_C",
+          "variant": "astral",
+          "mods": [],
+          "maps": [
+            "Astraeos_WP"
+          ],
           "mapsExcluded": []
         },
         {
@@ -6532,300 +6650,6 @@
       ]
     },
     {
-      "name": "MegaBasilisk_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/Aberration/Dinos/Basilisk/MegaBasilisk_Character_BP.MegaBasilisk_Character_BP_C",
-          "variant": "alpha",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "MegaCrab_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/Aberration/Dinos/Crab/MegaCrab_Character_BP.MegaCrab_Character_BP_C",
-          "variant": "alpha",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "MegaXenomorph_Character_BP_Male_Surface_C",
-      "dinos": [
-        {
-          "class": "/Game/Aberration/Dinos/Nameless/MegaXenomorph_Character_BP_Male_Surface.MegaXenomorph_Character_BP_Male_Surface_C",
-          "variant": "alpha",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "AstralMegalodon_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Megalodon/AstralMegalodon_Character_BP.AstralMegalodon_Character_BP_C",
-          "variant": "alpha",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "BoneCarno_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Carno/Bone_MegaCarno_Character_BP.Bone_MegaCarno_Character_BP_C",
-          "variant": "alpha",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "MegaCarno_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Carno/MegaCarno_Character_BP.MegaCarno_Character_BP_C",
-          "variant": "alpha",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "MegaMegalodon_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Megalodon/MEgaMegalodon_Character_BP.MegaMegalodon_Character_BP_C",
-          "variant": "alpha",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Megalosaurus_Character_BP_TekCave_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Megalosaurus/Megalosaurus_Character_BP_TekCave.Megalosaurus_Character_BP_TekCave_C",
-          "variant": "alpha",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "BoneRaptor_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Raptor/Bone_MegaRaptor_Character_BP.Bone_MegaRaptor_Character_BP_C",
-          "variant": "alpha",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "MegaRaptor_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Raptor/MegaRaptor_Character_BP.MegaRaptor_Character_BP_C",
-          "variant": "alpha",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "BoneRex_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Rex/Bone_MegaRex_Character_BP.Bone_MegaRex_Character_BP_C",
-          "variant": "alpha",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "MegaRex_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Rex/MegaRex_Character_BP.MegaRex_Character_BP_C",
-          "variant": "alpha",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Mega_Tusoteuthis_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Tusoteuthis/Mega_Tusoteuthis_Character_BP.Mega_Tusoteuthis_Character_BP_C",
-          "variant": "alpha",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "MegaDeathworm_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/ScorchedEarth/Dinos/Deathworm/MegaDeathworm_Character_BP.MegaDeathworm_Character_BP_C",
-          "variant": "alpha",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "BoneWyvern_Character_BP_Fire_C",
-      "dinos": [
-        {
-          "class": "/Game/ScorchedEarth/Dinos/Wyvern/Bone_MegaWyvern_Character_BP_Fire.Bone_MegaWyvern_Character_BP_Fire_C",
-          "variant": "alpha",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "MegaWyvern_Character_BP_Fire_C",
-      "dinos": [
-        {
-          "class": "/Game/ScorchedEarth/Dinos/Wyvern/MegaWyvern_Character_BP_Fire.MegaWyvern_Character_BP_Fire_C",
-          "variant": "alpha",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "AstralArgent_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Argentavis/AstralArgent_Character_BP.AstralArgent_Character_BP_C",
-          "variant": "astral",
-          "mods": [],
-          "maps": [
-            "Astraeos_WP"
-          ],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
-      "name": "AstralCarno_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Carno/AstralCarno_Character_BP.AstralCarno_Character_BP_C",
-          "variant": "astral",
-          "mods": [],
-          "maps": [
-            "Astraeos_WP"
-          ],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
-      "name": "AstralDeinosuchusASA_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Deinosuchus/AstralDeinosuchusASA_Character_BP.AstralDeinosuchusASA_Character_BP_C",
-          "variant": "astral",
-          "mods": [],
-          "maps": [
-            "Astraeos_WP"
-          ],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
-      "name": "AstralRaptor_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Raptor/AstralRaptor_Character_BP.AstralRaptor_Character_BP_C",
-          "variant": "astral",
-          "mods": [],
-          "maps": [
-            "Astraeos_WP"
-          ],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
-      "name": "AstralRex_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Rex/AstralRex_Character_BP.AstralRex_Character_BP_C",
-          "variant": "astral",
-          "mods": [],
-          "maps": [
-            "Astraeos_WP"
-          ],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
       "name": "Xenomorph_Character_BP_Male_Tamed_Corrupt_C",
       "dinos": [
         {
@@ -7861,18 +7685,6 @@
       ]
     },
     {
-      "name": "Bone_Gigant_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Giganotosaurus/Bone_Gigant_Character_BP.Bone_Gigant_Character_BP_C",
-          "variant": "normal",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
       "name": "Gigant_Character_BP_TekCave_C",
       "dinos": [
         {
@@ -7990,6 +7802,18 @@
       ]
     },
     {
+      "name": "Megalosaurus_Character_BP_TekCave_C",
+      "dinos": [
+        {
+          "class": "/Game/PrimalEarth/Dinos/Megalosaurus/Megalosaurus_Character_BP_TekCave.Megalosaurus_Character_BP_TekCave_C",
+          "variant": "normal",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
       "name": "Microraptor_Character_BP_C",
       "dinos": [
         {
@@ -8039,6 +7863,30 @@
       "dinos": [
         {
           "class": "/Game/PrimalEarth/Dinos/Monkey/Monkey_Character_BP_Aggressive_Med.Monkey_Character_BP_Aggressive_Med_C",
+          "variant": "normal",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
+      "name": "Mosa_Character_BP_Mega_C",
+      "dinos": [
+        {
+          "class": "/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP_Mega.Mosa_Character_BP_Mega_C",
+          "variant": "normal",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
+      "name": "Mosa_Character_BP_Mega_Cave_C",
+      "dinos": [
+        {
+          "class": "/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP_Mega_Cave.Mosa_Character_BP_Mega_Cave_C",
           "variant": "normal",
           "mods": [],
           "maps": [],
@@ -8236,18 +8084,6 @@
       ]
     },
     {
-      "name": "Bone_Quetz_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Quetzalcoatlus/Bone_Quetz_Character_BP.Bone_Quetz_Character_BP_C",
-          "variant": "normal",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
       "name": "Ghost_Rex_Character_BP_C",
       "dinos": [
         {
@@ -8290,18 +8126,6 @@
       ]
     },
     {
-      "name": "Bone_Sauropod_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Sauropod/Bone_Sauropod_Character_BP.Bone_Sauropod_Character_BP_C",
-          "variant": "normal",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
       "name": "Stag_Character_BP_C",
       "dinos": [
         {
@@ -8323,18 +8147,6 @@
       ]
     },
     {
-      "name": "Bone_Stego_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Stego/Bone_Stego_Character_BP.Bone_Stego_Character_BP_C",
-          "variant": "normal",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
       "name": "Tapejara_Character_BP_C",
       "dinos": [
         {
@@ -8350,18 +8162,6 @@
           "mods": [
             "Ark-EerieDinos"
           ],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
-      "name": "Bone_Trike_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Trike/Bone_Trike_Character_BP.Bone_Trike_Character_BP_C",
-          "variant": "normal",
-          "mods": [],
           "maps": [],
           "mapsExcluded": []
         }
@@ -8413,18 +8213,6 @@
           "mods": [
             "Ark-EerieDinos"
           ],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
-      "name": "Bone_Jerboa_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/ScorchedEarth/Dinos/Jerboa/Bone_Jerboa_Character_BP.Bone_Jerboa_Character_BP_C",
-          "variant": "normal",
-          "mods": [],
           "maps": [],
           "mapsExcluded": []
         }
