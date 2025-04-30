@@ -1,6 +1,332 @@
 {
   "groups": [
     {
+      "name": "Wyvern_Character_BP_Fire_C",
+      "dinos": [
+        {
+          "class": "/AmissaAdditions/Assets/Dinos/Amissa_Wyverns/WyvernVariants/AmissaWyvern_Character_BP_Fire.AmissaWyvern_Character_BP_Fire_C",
+          "allowBaby": false,
+          "variant": "amissa",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Wyvern/ARKOLOGY_MegaWyvern_Character_BP_Fire.ARKOLOGY_MegaWyvern_Character_BP_Fire_C",
+          "allowBaby": false,
+          "variant": "arkology-alpha",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_MegaWyvern_Character_BP_Fire_Corrupt.ARKOLOGY_MegaWyvern_Character_BP_Fire_Corrupt_C",
+          "allowBaby": false,
+          "variant": "arkology-corrupt-alpha",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Wyvern_Character_BP_Fire_Corrupt.ARKOLOGY_Wyvern_Character_BP_Fire_Corrupt_C",
+          "allowBaby": false,
+          "variant": "arkology-corrupt",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Wyvern/ARKOLOGY_Wyvern_Character_BP_Fire.ARKOLOGY_Wyvern_Character_BP_Fire_C",
+          "allowBaby": true,
+          "variant": "arkology",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Game/ScorchedEarth/Dinos/Wyvern/MegaWyvern_Character_BP_Fire.MegaWyvern_Character_BP_Fire_C",
+          "allowBaby": false,
+          "variant": "alpha",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire_C",
+          "allowBaby": true,
+          "variant": "normal",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieWyvern/ASAWyvern_Character_BP_Fire_EerieDinos.ASAWyvern_Character_BP_Fire_EerieDinos_C",
+          "allowBaby": true,
+          "variant": "eerie",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Fire.S-Wyvern_Character_BP_Fire_C",
+          "allowBaby": true,
+          "variant": "s",
+          "mods": [
+            "SDinoVariants"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
+      "name": "Wyvern_Character_BP_Ice_C",
+      "dinos": [
+        {
+          "class": "/AmissaAdditions/Assets/Dinos/Amissa_Wyverns/WyvernVariants/AmissaWyvern_Character_BP_Ice.AmissaWyvern_Character_BP_Ice_C",
+          "allowBaby": false,
+          "variant": "amissa",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
+      "name": "Wyvern_Character_BP_Lightning_C",
+      "dinos": [
+        {
+          "class": "/AmissaAdditions/Assets/Dinos/Amissa_Wyverns/WyvernVariants/AmissaWyvern_Character_BP_Lightning2.AmissaWyvern_Character_BP_Lightning2_C",
+          "allowBaby": false,
+          "variant": "amissa",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning_C",
+          "allowBaby": true,
+          "variant": "normal",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieWyvern/ASAWyvern_Character_BP_Lightning_EerieDinos.ASAWyvern_Character_BP_Lightning_EerieDinos_C",
+          "allowBaby": true,
+          "variant": "eerie",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Lightning.S-Wyvern_Character_BP_Lightning_C",
+          "allowBaby": true,
+          "variant": "s",
+          "mods": [
+            "SDinoVariants"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
+      "name": "Wyvern_Character_BP_Mountain_C",
+      "dinos": [
+        {
+          "class": "/AmissaAdditions/Assets/Dinos/Amissa_Wyverns/WyvernVariants/AmissaWyvern_Character_BP_Mountain.AmissaWyvern_Character_BP_Mountain_C",
+          "allowBaby": false,
+          "variant": "amissa",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
+      "name": "Wyvern_Character_BP_Poison_C",
+      "dinos": [
+        {
+          "class": "/AmissaAdditions/Assets/Dinos/Amissa_Wyverns/WyvernVariants/AmissaWyvern_Character_BP_Poison.AmissaWyvern_Character_BP_Poison_C",
+          "allowBaby": false,
+          "variant": "amissa",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Character_BP_Poison_C",
+          "allowBaby": true,
+          "variant": "normal",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieWyvern/ASAWyvern_Character_BP_Poison_EerieDinos.ASAWyvern_Character_BP_Poison_EerieDinos_C",
+          "allowBaby": true,
+          "variant": "eerie",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Poison.S-Wyvern_Character_BP_Poison_C",
+          "allowBaby": true,
+          "variant": "s",
+          "mods": [
+            "SDinoVariants"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
+      "name": "Wyvern_Character_BP_Shadow_C",
+      "dinos": [
+        {
+          "class": "/AmissaAdditions/Assets/Dinos/Amissa_Wyverns/WyvernVariants/AmissaWyvern_Character_BP_ShadowWyvern.AmissaWyvern_Character_BP_ShadowWyvern_C",
+          "allowBaby": false,
+          "variant": "amissa",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
+      "name": "Chicken_Character_BP_C",
+      "dinos": [
+        {
+          "class": "/AmissaAdditions/Assets/Dinos/Chicken/AmissaChicken_Character_BP.AmissaChicken_Character_BP_C",
+          "allowBaby": false,
+          "variant": "amissa",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
+      "name": "Argent_Character_BP_C",
+      "dinos": [
+        {
+          "class": "/AmissaAdditions/Assets/Dinos/MaracawArged/Maracaw_Argent_Character_BP.Maracaw_Argent_Character_BP_C",
+          "allowBaby": false,
+          "variant": "amissa",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Argentavis/ARKOLOGY_Argent_Character_BP.ARKOLOGY_Argent_Character_BP_C",
+          "allowBaby": true,
+          "variant": "arkology",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Argentavis/AstralArgent_Character_BP.AstralArgent_Character_BP_C",
+          "allowBaby": false,
+          "variant": "astral",
+          "mods": [],
+          "maps": [
+            "Astraeos_WP"
+          ],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP_C",
+          "allowBaby": true,
+          "variant": "normal",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieArgentavis/ASAArgent_Character_BP_EerieDinos.ASAArgent_Character_BP_EerieDinos_C",
+          "allowBaby": true,
+          "variant": "eerie",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/overgrownvariants/variants/Argent/Argent_Character_BP_Insaluna.Argent_Character_BP_Insaluna_C",
+          "allowBaby": false,
+          "variant": "insaluna",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Z-DinoVariants/z-argentavis/Z_Argentavis_Character_BP.Z_Argentavis_Character_BP_C",
+          "allowBaby": true,
+          "variant": "z",
+          "mods": [
+            "Z-DinoVariants"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
+      "name": "Mummy_Character_BP_C",
+      "dinos": [
+        {
+          "class": "/AmissaAdditions/Assets/Dinos/MummyT/MummyT_Character_BP.MummyT_Character_BP_C",
+          "allowBaby": false,
+          "variant": "amissa",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
+      "name": "Parrot_Character_BP_C",
+      "dinos": [
+        {
+          "class": "/AmissaAdditions/Assets/Dinos/Parrot/AmissaParrot_Character_BP.AmissaParrot_Character_BP_C",
+          "allowBaby": false,
+          "variant": "amissa",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
       "name": "Achatina_Character_BP_Aberrant_C",
       "dinos": [
         {
@@ -1301,6 +1627,14 @@
           "mapsExcluded": []
         },
         {
+          "class": "/overgrownvariants/variants/carcha/Carcha_Character_BP_insaluna.Carcha_Character_BP_insaluna_C",
+          "allowBaby": false,
+          "variant": "insaluna",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
           "class": "/PA_Ascension/Dinos/PaleoCarcha/Paleo_Carcha_Character_BP.Paleo_Carcha_Character_BP_C",
           "allowBaby": true,
           "variant": "paleo",
@@ -1382,6 +1716,14 @@
           "mods": [
             "Ark-EerieDinos"
           ],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/overgrownvariants/variants/carno/Carno_Character_BP_insaluna.Carno_Character_BP_insaluna_C",
+          "allowBaby": false,
+          "variant": "insaluna",
+          "mods": [],
           "maps": [],
           "mapsExcluded": []
         }
@@ -1877,6 +2219,14 @@
           "mods": [
             "Ark-EerieDinos"
           ],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/overgrownvariants/variants/fasola/Fasola_Character_BP_insaluna.Fasola_Character_BP_insaluna_C",
+          "allowBaby": false,
+          "variant": "insaluna",
+          "mods": [],
           "maps": [],
           "mapsExcluded": []
         },
@@ -2801,6 +3151,14 @@
           "mapsExcluded": []
         },
         {
+          "class": "/overgrownvariants/variants/raptor/Raptor_Character_BP_insaluna.Raptor_Character_BP_insaluna_C",
+          "allowBaby": false,
+          "variant": "insaluna",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
           "class": "/PA_Ascension/Dinos/PaleoRaptor/Alpha/Paleo_AlphaRaptor_Character_BP.Paleo_AlphaRaptor_Character_BP_C",
           "allowBaby": false,
           "variant": "paleo-alpha",
@@ -2894,6 +3252,14 @@
           "mods": [
             "Ark-EerieDinos"
           ],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/overgrownvariants/variants/rex/Rex_Character_BP_insaluna.Rex_Character_BP_insaluna_C",
+          "allowBaby": false,
+          "variant": "insaluna",
+          "mods": [],
           "maps": [],
           "mapsExcluded": []
         },
@@ -2994,6 +3360,14 @@
           "mods": [
             "Ark-EerieDinos"
           ],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/overgrownvariants/variants/rockdrake/RockDrake_Character_BP_Insaluna.RockDrake_Character_BP_Insaluna_C",
+          "allowBaby": false,
+          "variant": "insaluna",
+          "mods": [],
           "maps": [],
           "mapsExcluded": []
         },
@@ -3243,6 +3617,14 @@
           "mapsExcluded": []
         },
         {
+          "class": "/overgrownvariants/variants/Spino/Spino_Character_BP_insaluna.Spino_Character_BP_insaluna_C",
+          "allowBaby": false,
+          "variant": "insaluna",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
           "class": "/PA_Ascension/Dinos/PaleoSpino/Paleo_Spino_Character_BP.Paleo_Spino_Character_BP_C",
           "allowBaby": true,
           "variant": "paleo",
@@ -3304,6 +3686,14 @@
           "mods": [
             "Ark-EerieDinos"
           ],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/overgrownvariants/variants/therizino/Therizino_Character_BP_Insaluna.Therizino_Character_BP_Insaluna_C",
+          "allowBaby": false,
+          "variant": "insaluna",
+          "mods": [],
           "maps": [],
           "mapsExcluded": []
         },
@@ -3418,6 +3808,14 @@
           "mapsExcluded": []
         },
         {
+          "class": "/overgrownvariants/variants/trike/Trike_Character_BP_Insaluna.Trike_Character_BP_Insaluna_C",
+          "allowBaby": false,
+          "variant": "insaluna",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
           "class": "/PA_Ascension/Dinos/PaleoTrike/Paleo_Trike_Character_BP.Paleo_Trike_Character_BP_C",
           "allowBaby": true,
           "variant": "paleo",
@@ -3498,95 +3896,6 @@
           "variant": "eerie",
           "mods": [
             "Ark-EerieDinos"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
-      "name": "Wyvern_Character_BP_Fire_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Wyvern/ARKOLOGY_MegaWyvern_Character_BP_Fire.ARKOLOGY_MegaWyvern_Character_BP_Fire_C",
-          "allowBaby": false,
-          "variant": "arkology-alpha",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_MegaWyvern_Character_BP_Fire_Corrupt.ARKOLOGY_MegaWyvern_Character_BP_Fire_Corrupt_C",
-          "allowBaby": false,
-          "variant": "arkology-corrupt-alpha",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Wyvern_Character_BP_Fire_Corrupt.ARKOLOGY_Wyvern_Character_BP_Fire_Corrupt_C",
-          "allowBaby": false,
-          "variant": "arkology-corrupt",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Wyvern/ARKOLOGY_Wyvern_Character_BP_Fire.ARKOLOGY_Wyvern_Character_BP_Fire_C",
-          "allowBaby": true,
-          "variant": "arkology",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/Game/ScorchedEarth/Dinos/Wyvern/MegaWyvern_Character_BP_Fire.MegaWyvern_Character_BP_Fire_C",
-          "allowBaby": false,
-          "variant": "alpha",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        },
-        {
-          "class": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire_C",
-          "allowBaby": true,
-          "variant": "normal",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieWyvern/ASAWyvern_Character_BP_Fire_EerieDinos.ASAWyvern_Character_BP_Fire_EerieDinos_C",
-          "allowBaby": true,
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Fire.S-Wyvern_Character_BP_Fire_C",
-          "allowBaby": true,
-          "variant": "s",
-          "mods": [
-            "SDinoVariants"
           ],
           "maps": [],
           "mapsExcluded": []
@@ -4568,59 +4877,6 @@
       ]
     },
     {
-      "name": "Argent_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Argentavis/ARKOLOGY_Argent_Character_BP.ARKOLOGY_Argent_Character_BP_C",
-          "allowBaby": true,
-          "variant": "arkology",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Argentavis/AstralArgent_Character_BP.AstralArgent_Character_BP_C",
-          "allowBaby": false,
-          "variant": "astral",
-          "mods": [],
-          "maps": [
-            "Astraeos_WP"
-          ],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP_C",
-          "allowBaby": true,
-          "variant": "normal",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieArgentavis/ASAArgent_Character_BP_EerieDinos.ASAArgent_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/Z-DinoVariants/z-argentavis/Z_Argentavis_Character_BP.Z_Argentavis_Character_BP_C",
-          "allowBaby": true,
-          "variant": "z",
-          "mods": [
-            "Z-DinoVariants"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
       "name": "Basilosaurus_Character_BP_C",
       "dinos": [
         {
@@ -5484,6 +5740,14 @@
           "mapsExcluded": []
         },
         {
+          "class": "/overgrownvariants/variants/Gigantoraptor/Gigantoraptor_Character_BP_Insaluna.Gigantoraptor_Character_BP_Insaluna_C",
+          "allowBaby": false,
+          "variant": "insaluna",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
           "class": "/PA_Ascension/Dinos/PaleoGigantoraptor/Paleo_Gigantoraptor_Character_BP.Paleo_Gigantoraptor_Character_BP_C",
           "allowBaby": true,
           "variant": "paleo",
@@ -5870,6 +6134,14 @@
           "mods": [
             "Ark-EerieDinos"
           ],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/overgrownvariants/variants/bulbdog/LanternPug_Character_BP_Insaluna.LanternPug_Character_BP_Insaluna_C",
+          "allowBaby": false,
+          "variant": "insaluna",
+          "mods": [],
           "maps": [],
           "mapsExcluded": []
         },
@@ -6506,6 +6778,14 @@
           "mapsExcluded": []
         },
         {
+          "class": "/overgrownvariants/variants/parasaur/Para_Character_BP_InsaLuna.Para_Character_BP_InsaLuna_C",
+          "allowBaby": false,
+          "variant": "insaluna",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
           "class": "/Z-DinoVariants/z-parasaur/Z_Parasaur_Character_BP.Z_Parasaur_Character_BP_C",
           "allowBaby": true,
           "variant": "z",
@@ -6940,6 +7220,14 @@
           "mapsExcluded": []
         },
         {
+          "class": "/overgrownvariants/variants/stego/Stego_Character_BP_insaluna.Stego_Character_BP_insaluna_C",
+          "allowBaby": false,
+          "variant": "insaluna",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
           "class": "/PA_Ascension/Dinos/PaleoStego/Paleo_Stego_Character_BP.Paleo_Stego_Character_BP_C",
           "allowBaby": true,
           "variant": "paleo",
@@ -7024,6 +7312,14 @@
           ],
           "maps": [],
           "mapsExcluded": []
+        },
+        {
+          "class": "/overgrownvariants/variants/ThornyDragon/SpineyLizard_Character_BP_Insaluna.SpineyLizard_Character_BP_Insaluna_C",
+          "allowBaby": false,
+          "variant": "insaluna",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
         }
       ]
     },
@@ -7055,6 +7351,14 @@
           "mods": [
             "Ark-EerieDinos"
           ],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/overgrownvariants/variants/thyla/Thylacoleo_Character_BP_insaluna.Thylacoleo_Character_BP_insaluna_C",
+          "allowBaby": false,
+          "variant": "insaluna",
+          "mods": [],
           "maps": [],
           "mapsExcluded": []
         },
@@ -7118,6 +7422,14 @@
           "mods": [
             "Ark-EerieDinos"
           ],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/overgrownvariants/variants/frog/Toad_Character_BP_insaluna.Toad_Character_BP_insaluna_C",
+          "allowBaby": false,
+          "variant": "insaluna",
+          "mods": [],
           "maps": [],
           "mapsExcluded": []
         }
@@ -8187,32 +8499,6 @@
       ]
     },
     {
-      "name": "Coel_Character_BP_VDay_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Coelacanth/Coel_Character_BP_VDay.Coel_Character_BP_VDay_C",
-          "allowBaby": true,
-          "variant": "normal",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
-      "name": "Coel_Character_BP_VDay_Ocean_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Coelacanth/Coel_Character_BP_VDay_Ocean.Coel_Character_BP_VDay_Ocean_C",
-          "allowBaby": true,
-          "variant": "normal",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
       "name": "Compy_Character_BP_C",
       "dinos": [
         {
@@ -9066,72 +9352,6 @@
       ]
     },
     {
-      "name": "Wyvern_Character_BP_Lightning_C",
-      "dinos": [
-        {
-          "class": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning_C",
-          "allowBaby": true,
-          "variant": "normal",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieWyvern/ASAWyvern_Character_BP_Lightning_EerieDinos.ASAWyvern_Character_BP_Lightning_EerieDinos_C",
-          "allowBaby": true,
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Lightning.S-Wyvern_Character_BP_Lightning_C",
-          "allowBaby": true,
-          "variant": "s",
-          "mods": [
-            "SDinoVariants"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
-      "name": "Wyvern_Character_BP_Poison_C",
-      "dinos": [
-        {
-          "class": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Character_BP_Poison_C",
-          "allowBaby": true,
-          "variant": "normal",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieWyvern/ASAWyvern_Character_BP_Poison_EerieDinos.ASAWyvern_Character_BP_Poison_EerieDinos_C",
-          "allowBaby": true,
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Poison.S-Wyvern_Character_BP_Poison_C",
-          "allowBaby": true,
-          "variant": "s",
-          "mods": [
-            "SDinoVariants"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
       "name": "Gigant_Character_BP_Bionic_C",
       "dinos": [
         {
@@ -9535,6 +9755,11 @@
   ],
   "variants": [
     {
+      "name": "amissa",
+      "weight": 0.25,
+      "weightConfigKey": "AmissaSpawnWeight"
+    },
+    {
       "name": "arkology-aberrant",
       "weight": 1,
       "weightConfigKey": "ArkologyAberrantSpawnWeight"
@@ -9613,6 +9838,11 @@
       "name": "eerie",
       "weight": 0.25,
       "weightConfigKey": "EerieSpawnWeight"
+    },
+    {
+      "name": "insaluna",
+      "weight": 0.25,
+      "weightConfigKey": "InsalunaSpawnWeight"
     },
     {
       "name": "paleo-alpha",
