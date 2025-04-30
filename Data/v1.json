@@ -979,24 +979,6 @@
           ]
         },
         {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_MegaArthro_Character_BP_Corrupt.ARKOLOGY_MegaArthro_Character_BP_Corrupt_C",
-          "variant": "arkology-corrupt-alpha",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Arthro_Character_BP_Corrupt.ARKOLOGY_Arthro_Character_BP_Corrupt_C",
-          "variant": "arkology-corrupt",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Arthro/ARKOLOGY_Arthro_Character_BP.ARKOLOGY_Arthro_Character_BP_C",
           "variant": "arkology",
           "mods": [
@@ -1227,24 +1209,6 @@
           "mapsExcluded": [
             "Astraeos_WP"
           ]
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_MegaCarno_Character_BP_Corrupt.ARKOLOGY_MegaCarno_Character_BP_Corrupt_C",
-          "variant": "arkology-corrupt-alpha",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Carno_Character_BP_Corrupt.ARKOLOGY_Carno_Character_BP_Corrupt_C",
-          "variant": "arkology-corrupt",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "maps": [],
-          "mapsExcluded": []
         },
         {
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Carno/ARKOLOGY_Carno_Character_BP.ARKOLOGY_Carno_Character_BP_C",
@@ -1529,24 +1493,6 @@
           ]
         },
         {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_MegaDilo_Character_BP_Corrupt.ARKOLOGY_MegaDilo_Character_BP_Corrupt_C",
-          "variant": "arkology-corrupt-alpha",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Dilo_Character_BP_Corrupt.ARKOLOGY_Dilo_Character_BP_Corrupt_C",
-          "variant": "arkology-corrupt",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Dilo/ARKOLOGY_Dilo_Character_BP.ARKOLOGY_Dilo_Character_BP_C",
           "variant": "arkology",
           "mods": [
@@ -1754,24 +1700,6 @@
           "mapsExcluded": [
             "Astraeos_WP"
           ]
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_MegaGigant_Character_BP_Corrupt.ARKOLOGY_MegaGigant_Character_BP_Corrupt_C",
-          "variant": "arkology-corrupt-alpha",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Gigant_Character_BP_Corrupt.ARKOLOGY_Gigant_Character_BP_Corrupt_C",
-          "variant": "arkology-corrupt",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "maps": [],
-          "mapsExcluded": []
         },
         {
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Giga/ARKOLOGY_Gigant_Character_BP.ARKOLOGY_Gigant_Character_BP_C",
@@ -2523,24 +2451,6 @@
           ]
         },
         {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_MegaRaptor_Character_BP_Corrupt.ARKOLOGY_MegaRaptor_Character_BP_Corrupt_C",
-          "variant": "arkology-corrupt-alpha",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Raptor_Character_BP_Corrupt.ARKOLOGY_Raptor_Character_BP_Corrupt_C",
-          "variant": "arkology-corrupt",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Raptor/ARKOLOGY_Raptor_Character_BP.ARKOLOGY_Raptor_Character_BP_C",
           "variant": "arkology",
           "mods": [
@@ -2609,15 +2519,6 @@
           "mapsExcluded": [
             "Astraeos_WP"
           ]
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Rex_Character_BP_Corrupt.ARKOLOGY_Rex_Character_BP_Corrupt_C",
-          "variant": "arkology-corrupt",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "maps": [],
-          "mapsExcluded": []
         },
         {
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Rex/ARKOLOGY_Rex_Character_BP.ARKOLOGY_Rex_Character_BP_C",
@@ -2709,24 +2610,6 @@
           "mapsExcluded": [
             "Astraeos_WP"
           ]
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_MegaRockDrake_Character_BP_Corrupt.ARKOLOGY_MegaRockDrake_Character_BP_Corrupt_C",
-          "variant": "arkology-corrupt-alpha",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_RockDrake_Character_BP_Corrupt.ARKOLOGY_RockDrake_Character_BP_Corrupt_C",
-          "variant": "arkology-corrupt",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "maps": [],
-          "mapsExcluded": []
         },
         {
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/RockDrake/ARKOLOGY_RockDrake_Character_BP.ARKOLOGY_RockDrake_Character_BP_C",
@@ -2952,24 +2835,6 @@
           ]
         },
         {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_MegaSpino_Character_BP_Corrupt.ARKOLOGY_MegaSpino_Character_BP_Corrupt_C",
-          "variant": "arkology-corrupt-alpha",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Spino_Character_BP_Corrupt.ARKOLOGY_Spino_Character_BP_Corrupt_C",
-          "variant": "arkology-corrupt",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Spino/ARKOLOGY_Spino_Character_BP.ARKOLOGY_Spino_Character_BP_C",
           "variant": "arkology",
           "mods": [
@@ -3129,15 +2994,6 @@
           ]
         },
         {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Trike_Character_BP_Corrupt.ARKOLOGY_Trike_Character_BP_Corrupt_C",
-          "variant": "arkology-corrupt",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Trike/ARKOLOGY_Trike_Character_BP.ARKOLOGY_Trike_Character_BP_C",
           "variant": "arkology",
           "mods": [
@@ -3253,7 +3109,9 @@
             "ARKOLOGY_NEWENCOUNTERS"
           ],
           "maps": [],
-          "mapsExcluded": []
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
         },
         {
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Wyvern_Character_BP_Fire_Corrupt.ARKOLOGY_Wyvern_Character_BP_Fire_Corrupt_C",
@@ -3262,7 +3120,9 @@
             "ARKOLOGY_NEWENCOUNTERS"
           ],
           "maps": [],
-          "mapsExcluded": []
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
         },
         {
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Wyvern/ARKOLOGY_Wyvern_Character_BP_Fire.ARKOLOGY_Wyvern_Character_BP_Fire_C",
@@ -3442,7 +3302,322 @@
       ]
     },
     {
-      "name": "Chalico_Character_BP_C",
+      "name": "Arthro_Character_BP_Corrupt_C",
+      "dinos": [
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_MegaArthro_Character_BP_Corrupt.ARKOLOGY_MegaArthro_Character_BP_Corrupt_C",
+          "variant": "arkology-corrupt-alpha",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Arthro_Character_BP_Corrupt.ARKOLOGY_Arthro_Character_BP_Corrupt_C",
+          "variant": "arkology-corrupt",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/Game/Extinction/Dinos/Corrupt/Arthropluera/Arthro_Character_BP_Corrupt.Arthro_Character_BP_Corrupt_C",
+          "variant": "corrupt",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieArthropleura/ASAArthro_Character_BP_Corrupt_EerieDinos.ASAArthro_Character_BP_Corrupt_EerieDinos_C",
+          "variant": "eerie",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
+      "name": "Carno_Character_BP_Corrupt_C",
+      "dinos": [
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_MegaCarno_Character_BP_Corrupt.ARKOLOGY_MegaCarno_Character_BP_Corrupt_C",
+          "variant": "arkology-corrupt-alpha",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Carno_Character_BP_Corrupt.ARKOLOGY_Carno_Character_BP_Corrupt_C",
+          "variant": "arkology-corrupt",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/Game/Extinction/Dinos/Corrupt/Carno/Carno_Character_BP_Corrupt.Carno_Character_BP_Corrupt_C",
+          "variant": "corrupt",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieCarnotaurus/ASACarno_Character_BP_Corrupt_EerieDinos.ASACarno_Character_BP_Corrupt_EerieDinos_C",
+          "variant": "eerie",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
+      "name": "Dilo_Character_BP_Corrupt_C",
+      "dinos": [
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_MegaDilo_Character_BP_Corrupt.ARKOLOGY_MegaDilo_Character_BP_Corrupt_C",
+          "variant": "arkology-corrupt-alpha",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Dilo_Character_BP_Corrupt.ARKOLOGY_Dilo_Character_BP_Corrupt_C",
+          "variant": "arkology-corrupt",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/Game/Extinction/Dinos/Corrupt/Dilo/Dilo_Character_BP_Corrupt.Dilo_Character_BP_Corrupt_C",
+          "variant": "corrupt",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieDilophosaur/ASADilo_Character_BP_Corrupt_EerieDinos.ASADilo_Character_BP_Corrupt_EerieDinos_C",
+          "variant": "eerie",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
+      "name": "Gigant_Character_BP_Corrupt_C",
+      "dinos": [
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_MegaGigant_Character_BP_Corrupt.ARKOLOGY_MegaGigant_Character_BP_Corrupt_C",
+          "variant": "arkology-corrupt-alpha",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Gigant_Character_BP_Corrupt.ARKOLOGY_Gigant_Character_BP_Corrupt_C",
+          "variant": "arkology-corrupt",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/Game/Extinction/Dinos/Corrupt/Giganotosaurus/Gigant_Character_BP_Corrupt.Gigant_Character_BP_Corrupt_C",
+          "variant": "corrupt",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieGiganotosaurus/ASAGigant_Character_BP_Corrupt_EerieDinos.ASAGigant_Character_BP_Corrupt_EerieDinos_C",
+          "variant": "eerie",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
+      "name": "Raptor_Character_BP_Corrupt_C",
+      "dinos": [
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_MegaRaptor_Character_BP_Corrupt.ARKOLOGY_MegaRaptor_Character_BP_Corrupt_C",
+          "variant": "arkology-corrupt-alpha",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Raptor_Character_BP_Corrupt.ARKOLOGY_Raptor_Character_BP_Corrupt_C",
+          "variant": "arkology-corrupt",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/Game/Extinction/Dinos/Corrupt/Raptor/Raptor_Character_BP_Corrupt.Raptor_Character_BP_Corrupt_C",
+          "variant": "corrupt",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieRaptor/ASARaptor_Character_BP_Corrupt_EerieDinos.ASARaptor_Character_BP_Corrupt_EerieDinos_C",
+          "variant": "eerie",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
+      "name": "RockDrake_Character_BP_Corrupt_C",
+      "dinos": [
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_MegaRockDrake_Character_BP_Corrupt.ARKOLOGY_MegaRockDrake_Character_BP_Corrupt_C",
+          "variant": "arkology-corrupt-alpha",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_RockDrake_Character_BP_Corrupt.ARKOLOGY_RockDrake_Character_BP_Corrupt_C",
+          "variant": "arkology-corrupt",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/Game/Extinction/Dinos/Corrupt/RockDrake/RockDrake_Character_BP_Corrupt.RockDrake_Character_BP_Corrupt_C",
+          "variant": "corrupt",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieRockDrake/ASARockDrake_Character_BP_Corrupt_EerieDinos.ASARockDrake_Character_BP_Corrupt_EerieDinos_C",
+          "variant": "eerie",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
+      "name": "Spino_Character_BP_Corrupt_C",
+      "dinos": [
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_MegaSpino_Character_BP_Corrupt.ARKOLOGY_MegaSpino_Character_BP_Corrupt_C",
+          "variant": "arkology-corrupt-alpha",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Spino_Character_BP_Corrupt.ARKOLOGY_Spino_Character_BP_Corrupt_C",
+          "variant": "arkology-corrupt",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/Game/Extinction/Dinos/Corrupt/Spino/Spino_Character_BP_Corrupt.Spino_Character_BP_Corrupt_C",
+          "variant": "corrupt",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieSpinosaurus/ASASpino_Character_BP_Corrupt_EerieDinos.ASASpino_Character_BP_Corrupt_EerieDinos_C",
+          "variant": "eerie",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
+      "name": "Chalico_Character_BP_Corrupt_C",
       "dinos": [
         {
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Chalico_Character_BP_Corrupt.ARKOLOGY_Chalico_Character_BP_Corrupt_C",
@@ -3451,26 +3626,21 @@
             "ARKOLOGY_NEWENCOUNTERS"
           ],
           "maps": [],
-          "mapsExcluded": []
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
         },
         {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Chalicotherium/ARKOLOGY_Chalico_Character_BP.ARKOLOGY_Chalico_Character_BP_C",
-          "variant": "arkology",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/Game/PrimalEarth/Dinos/Chalicotherium/Chalico_Character_BP.Chalico_Character_BP_C",
-          "variant": "normal",
+          "class": "/Game/Extinction/Dinos/Corrupt/Chalicotherium/Chalico_Character_BP_Corrupt.Chalico_Character_BP_Corrupt_C",
+          "variant": "corrupt",
           "mods": [],
           "maps": [],
-          "mapsExcluded": []
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
         },
         {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieChalicotherium/ASAChalico_Character_BP_EerieDinos.ASAChalico_Character_BP_EerieDinos_C",
+          "class": "/Ark-EerieDinos/EerieVariants/EerieChalicotherium/ASAChalico_Character_BP_Corrupt_EerieDinos.ASAChalico_Character_BP_Corrupt_EerieDinos_C",
           "variant": "eerie",
           "mods": [
             "Ark-EerieDinos"
@@ -3481,7 +3651,7 @@
       ]
     },
     {
-      "name": "Dimorph_Character_BP_C",
+      "name": "Dimorph_Character_BP_Corrupt_C",
       "dinos": [
         {
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Dimorph_Character_BP_Corrupt.ARKOLOGY_Dimorph_Character_BP_Corrupt_C",
@@ -3490,26 +3660,21 @@
             "ARKOLOGY_NEWENCOUNTERS"
           ],
           "maps": [],
-          "mapsExcluded": []
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
         },
         {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Dimorph/ARKOLOGY_Dimorph_Character_BP.ARKOLOGY_Dimorph_Character_BP_C",
-          "variant": "arkology",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/Game/PrimalEarth/Dinos/Dimorphodon/Dimorph_Character_BP.Dimorph_Character_BP_C",
-          "variant": "normal",
+          "class": "/Game/Extinction/Dinos/Corrupt/Dimorphodon/Dimorph_Character_BP_Corrupt.Dimorph_Character_BP_Corrupt_C",
+          "variant": "corrupt",
           "mods": [],
           "maps": [],
-          "mapsExcluded": []
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
         },
         {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieDimorphodon/ASADimorph_Character_BP_EerieDinos.ASADimorph_Character_BP_EerieDinos_C",
+          "class": "/Ark-EerieDinos/EerieVariants/EerieDimorphodon/ASADimorph_Character_BP_Corrupt_EerieDinos.ASADimorph_Character_BP_Corrupt_EerieDinos_C",
           "variant": "eerie",
           "mods": [
             "Ark-EerieDinos"
@@ -3520,7 +3685,7 @@
       ]
     },
     {
-      "name": "Paracer_Character_BP_C",
+      "name": "Paracer_Character_BP_Corrupt_C",
       "dinos": [
         {
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Paracer_Character_BP_Corrupt.ARKOLOGY_Paracer_Character_BP_Corrupt_C",
@@ -3529,26 +3694,21 @@
             "ARKOLOGY_NEWENCOUNTERS"
           ],
           "maps": [],
-          "mapsExcluded": []
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
         },
         {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Paracer/ARKOLOGY_Paracer_Character_BP.ARKOLOGY_Paracer_Character_BP_C",
-          "variant": "arkology",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/Game/PrimalEarth/Dinos/Paraceratherium/Paracer_Character_BP.Paracer_Character_BP_C",
-          "variant": "normal",
+          "class": "/Game/Extinction/Dinos/Corrupt/Paraceratherium/Paracer_Character_BP_Corrupt.Paracer_Character_BP_Corrupt_C",
+          "variant": "corrupt",
           "mods": [],
           "maps": [],
-          "mapsExcluded": []
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
         },
         {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieParaceratherium/ASAParacer_Character_BP_EerieDinos.ASAParacer_Character_BP_EerieDinos_C",
+          "class": "/Ark-EerieDinos/EerieVariants/EerieParaceratherium/ASAParacer_Character_BP_Corrupt_EerieDinos.ASAParacer_Character_BP_Corrupt_EerieDinos_C",
           "variant": "eerie",
           "mods": [
             "Ark-EerieDinos"
@@ -3559,7 +3719,7 @@
       ]
     },
     {
-      "name": "Ptero_Character_BP_C",
+      "name": "Ptero_Character_BP_Corrupt_C",
       "dinos": [
         {
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Ptero_Character_BP_Corrupt.ARKOLOGY_Ptero_Character_BP_Corrupt_C",
@@ -3568,26 +3728,21 @@
             "ARKOLOGY_NEWENCOUNTERS"
           ],
           "maps": [],
-          "mapsExcluded": []
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
         },
         {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Pteranodon/ARKOLOGY_Ptero_Character_BP.ARKOLOGY_Ptero_Character_BP_C",
-          "variant": "arkology",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/Game/PrimalEarth/Dinos/Ptero/Ptero_Character_BP.Ptero_Character_BP_C",
-          "variant": "normal",
+          "class": "/Game/Extinction/Dinos/Corrupt/Ptero/Ptero_Character_BP_Corrupt.Ptero_Character_BP_Corrupt_C",
+          "variant": "corrupt",
           "mods": [],
           "maps": [],
-          "mapsExcluded": []
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
         },
         {
-          "class": "/Ark-EerieDinos/EerieVariants/EeriePteranodon/ASAPtero_Character_BP_EerieDinos.ASAPtero_Character_BP_EerieDinos_C",
+          "class": "/Ark-EerieDinos/EerieVariants/EeriePteranodon/ASAPtero_Character_BP_Corrupt_EerieDinos.ASAPtero_Character_BP_Corrupt_EerieDinos_C",
           "variant": "eerie",
           "mods": [
             "Ark-EerieDinos"
@@ -3598,7 +3753,50 @@
       ]
     },
     {
-      "name": "Stego_Character_BP_C",
+      "name": "Rex_Character_BP_Corrupt_C",
+      "dinos": [
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Rex_Character_BP_Corrupt.ARKOLOGY_Rex_Character_BP_Corrupt_C",
+          "variant": "arkology-corrupt",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/Game/Extinction/Dinos/Corrupt/Rex/MegaRex_Character_BP_Corrupt.MegaRex_Character_BP_Corrupt_C",
+          "variant": "corrupt-alpha",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/Game/Extinction/Dinos/Corrupt/Rex/Rex_Character_BP_Corrupt.Rex_Character_BP_Corrupt_C",
+          "variant": "corrupt",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieRex/ASARex_Character_BP_Corrupt_EerieDinos.ASARex_Character_BP_Corrupt_EerieDinos_C",
+          "variant": "eerie",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
+      "name": "Stego_Character_BP_Corrupt_C",
       "dinos": [
         {
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Stego_Character_BP_Corrupt.ARKOLOGY_Stego_Character_BP_Corrupt_C",
@@ -3607,38 +3805,67 @@
             "ARKOLOGY_NEWENCOUNTERS"
           ],
           "maps": [],
-          "mapsExcluded": []
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
         },
         {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Stego/ARKOLOGY_Stego_Character_BP.ARKOLOGY_Stego_Character_BP_C",
-          "variant": "arkology",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP_C",
-          "variant": "normal",
+          "class": "/Game/Extinction/Dinos/Corrupt/Stego/Stego_Character_BP_Corrupt.Stego_Character_BP_Corrupt_C",
+          "variant": "corrupt",
           "mods": [],
           "maps": [],
-          "mapsExcluded": []
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
         },
         {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieStegosaurus/ASAStego_Character_BP_EerieDinos.ASAStego_Character_BP_EerieDinos_C",
+          "class": "/Ark-EerieDinos/EerieVariants/EerieStegosaurus/ASAStego_Character_BP_Corrupt_EerieDinos.ASAStego_Character_BP_Corrupt_EerieDinos_C",
           "variant": "eerie",
           "mods": [
             "Ark-EerieDinos"
           ],
           "maps": [],
           "mapsExcluded": []
+        }
+      ]
+    },
+    {
+      "name": "Trike_Character_BP_Corrupt_C",
+      "dinos": [
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Trike_Character_BP_Corrupt.ARKOLOGY_Trike_Character_BP_Corrupt_C",
+          "variant": "arkology-corrupt",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
         },
         {
-          "class": "/PA_Ascension/Dinos/PaleoStego/Paleo_Stego_Character_BP.Paleo_Stego_Character_BP_C",
-          "variant": "paleo",
+          "class": "/Game/Extinction/Dinos/Corrupt/Trike/MegaTrike_Character_BP_Corrupt.MegaTrike_Character_BP_Corrupt_C",
+          "variant": "corrupt-alpha",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/Game/Extinction/Dinos/Corrupt/Trike/Trike_Character_BP_Corrupt.Trike_Character_BP_Corrupt_C",
+          "variant": "corrupt",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieTriceratops/ASATrike_Character_BP_Corrupt_EerieDinos.ASATrike_Character_BP_Corrupt_EerieDinos_C",
+          "variant": "eerie",
           "mods": [
-            "PA_Ascension"
+            "Ark-EerieDinos"
           ],
           "maps": [],
           "mapsExcluded": []
@@ -3655,7 +3882,9 @@
             "ARKOLOGY_NEWENCOUNTERS"
           ],
           "maps": [],
-          "mapsExcluded": []
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ]
         },
         {
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Nameless/ARKOLOGY_Xenomorph_Character_BP_Male_Tamed.ARKOLOGY_Xenomorph_Character_BP_Male_Tamed_C",
@@ -4039,6 +4268,36 @@
       ]
     },
     {
+      "name": "Chalico_Character_BP_C",
+      "dinos": [
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Chalicotherium/ARKOLOGY_Chalico_Character_BP.ARKOLOGY_Chalico_Character_BP_C",
+          "variant": "arkology",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Game/PrimalEarth/Dinos/Chalicotherium/Chalico_Character_BP.Chalico_Character_BP_C",
+          "variant": "normal",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieChalicotherium/ASAChalico_Character_BP_EerieDinos.ASAChalico_Character_BP_EerieDinos_C",
+          "variant": "eerie",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
       "name": "ChupaCabra_Character_BP_C",
       "dinos": [
         {
@@ -4176,6 +4435,36 @@
           "variant": "z",
           "mods": [
             "Z-DinoVariants"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
+      "name": "Dimorph_Character_BP_C",
+      "dinos": [
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Dimorph/ARKOLOGY_Dimorph_Character_BP.ARKOLOGY_Dimorph_Character_BP_C",
+          "variant": "arkology",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Game/PrimalEarth/Dinos/Dimorphodon/Dimorph_Character_BP.Dimorph_Character_BP_C",
+          "variant": "normal",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieDimorphodon/ASADimorph_Character_BP_EerieDinos.ASADimorph_Character_BP_EerieDinos_C",
+          "variant": "eerie",
+          "mods": [
+            "Ark-EerieDinos"
           ],
           "maps": [],
           "mapsExcluded": []
@@ -5455,6 +5744,36 @@
       ]
     },
     {
+      "name": "Paracer_Character_BP_C",
+      "dinos": [
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Paracer/ARKOLOGY_Paracer_Character_BP.ARKOLOGY_Paracer_Character_BP_C",
+          "variant": "arkology",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Game/PrimalEarth/Dinos/Paraceratherium/Paracer_Character_BP.Paracer_Character_BP_C",
+          "variant": "normal",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieParaceratherium/ASAParacer_Character_BP_EerieDinos.ASAParacer_Character_BP_EerieDinos_C",
+          "variant": "eerie",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
       "name": "Para_Character_BP_C",
       "dinos": [
         {
@@ -5607,6 +5926,36 @@
           "variant": "s",
           "mods": [
             "SDinoVariants"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
+      "name": "Ptero_Character_BP_C",
+      "dinos": [
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Pteranodon/ARKOLOGY_Ptero_Character_BP.ARKOLOGY_Ptero_Character_BP_C",
+          "variant": "arkology",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Game/PrimalEarth/Dinos/Ptero/Ptero_Character_BP.Ptero_Character_BP_C",
+          "variant": "normal",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EeriePteranodon/ASAPtero_Character_BP_EerieDinos.ASAPtero_Character_BP_EerieDinos_C",
+          "variant": "eerie",
+          "mods": [
+            "Ark-EerieDinos"
           ],
           "maps": [],
           "mapsExcluded": []
@@ -5813,6 +6162,45 @@
           "variant": "eerie",
           "mods": [
             "Ark-EerieDinos"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
+      "name": "Stego_Character_BP_C",
+      "dinos": [
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Stego/ARKOLOGY_Stego_Character_BP.ARKOLOGY_Stego_Character_BP_C",
+          "variant": "arkology",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP_C",
+          "variant": "normal",
+          "mods": [],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieStegosaurus/ASAStego_Character_BP_EerieDinos.ASAStego_Character_BP_EerieDinos_C",
+          "variant": "eerie",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/PA_Ascension/Dinos/PaleoStego/Paleo_Stego_Character_BP.Paleo_Stego_Character_BP_C",
+          "variant": "paleo",
+          "mods": [
+            "PA_Ascension"
           ],
           "maps": [],
           "mapsExcluded": []
@@ -6438,208 +6826,6 @@
       ]
     },
     {
-      "name": "Rex_Character_BP_Corrupt_C",
-      "dinos": [
-        {
-          "class": "/Game/Extinction/Dinos/Corrupt/Rex/MegaRex_Character_BP_Corrupt.MegaRex_Character_BP_Corrupt_C",
-          "variant": "corrupt-alpha",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        },
-        {
-          "class": "/Game/Extinction/Dinos/Corrupt/Rex/Rex_Character_BP_Corrupt.Rex_Character_BP_Corrupt_C",
-          "variant": "corrupt",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieRex/ASARex_Character_BP_Corrupt_EerieDinos.ASARex_Character_BP_Corrupt_EerieDinos_C",
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
-      "name": "Trike_Character_BP_Corrupt_C",
-      "dinos": [
-        {
-          "class": "/Game/Extinction/Dinos/Corrupt/Trike/MegaTrike_Character_BP_Corrupt.MegaTrike_Character_BP_Corrupt_C",
-          "variant": "corrupt-alpha",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        },
-        {
-          "class": "/Game/Extinction/Dinos/Corrupt/Trike/Trike_Character_BP_Corrupt.Trike_Character_BP_Corrupt_C",
-          "variant": "corrupt",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieTriceratops/ASATrike_Character_BP_Corrupt_EerieDinos.ASATrike_Character_BP_Corrupt_EerieDinos_C",
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
-      "name": "Arthro_Character_BP_Corrupt_C",
-      "dinos": [
-        {
-          "class": "/Game/Extinction/Dinos/Corrupt/Arthropluera/Arthro_Character_BP_Corrupt.Arthro_Character_BP_Corrupt_C",
-          "variant": "corrupt",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieArthropleura/ASAArthro_Character_BP_Corrupt_EerieDinos.ASAArthro_Character_BP_Corrupt_EerieDinos_C",
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
-      "name": "Carno_Character_BP_Corrupt_C",
-      "dinos": [
-        {
-          "class": "/Game/Extinction/Dinos/Corrupt/Carno/Carno_Character_BP_Corrupt.Carno_Character_BP_Corrupt_C",
-          "variant": "corrupt",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieCarnotaurus/ASACarno_Character_BP_Corrupt_EerieDinos.ASACarno_Character_BP_Corrupt_EerieDinos_C",
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
-      "name": "Chalico_Character_BP_Corrupt_C",
-      "dinos": [
-        {
-          "class": "/Game/Extinction/Dinos/Corrupt/Chalicotherium/Chalico_Character_BP_Corrupt.Chalico_Character_BP_Corrupt_C",
-          "variant": "corrupt",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieChalicotherium/ASAChalico_Character_BP_Corrupt_EerieDinos.ASAChalico_Character_BP_Corrupt_EerieDinos_C",
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
-      "name": "Dilo_Character_BP_Corrupt_C",
-      "dinos": [
-        {
-          "class": "/Game/Extinction/Dinos/Corrupt/Dilo/Dilo_Character_BP_Corrupt.Dilo_Character_BP_Corrupt_C",
-          "variant": "corrupt",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieDilophosaur/ASADilo_Character_BP_Corrupt_EerieDinos.ASADilo_Character_BP_Corrupt_EerieDinos_C",
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
-      "name": "Dimorph_Character_BP_Corrupt_C",
-      "dinos": [
-        {
-          "class": "/Game/Extinction/Dinos/Corrupt/Dimorphodon/Dimorph_Character_BP_Corrupt.Dimorph_Character_BP_Corrupt_C",
-          "variant": "corrupt",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieDimorphodon/ASADimorph_Character_BP_Corrupt_EerieDinos.ASADimorph_Character_BP_Corrupt_EerieDinos_C",
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
-      "name": "Gigant_Character_BP_Corrupt_C",
-      "dinos": [
-        {
-          "class": "/Game/Extinction/Dinos/Corrupt/Giganotosaurus/Gigant_Character_BP_Corrupt.Gigant_Character_BP_Corrupt_C",
-          "variant": "corrupt",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieGiganotosaurus/ASAGigant_Character_BP_Corrupt_EerieDinos.ASAGigant_Character_BP_Corrupt_EerieDinos_C",
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
       "name": "Xenomorph_Character_BP_Male_Tamed_Corrupt_C",
       "dinos": [
         {
@@ -6653,144 +6839,6 @@
         },
         {
           "class": "/Ark-EerieDinos/EerieVariants/EerieReaper/EerieKing/Corrupt/ASAXenomorph_Character_BP_Male_Tamed_Corrupt_EerieDinos.ASAXenomorph_Character_BP_Male_Tamed_Corrupt_EerieDinos_C",
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
-      "name": "Paracer_Character_BP_Corrupt_C",
-      "dinos": [
-        {
-          "class": "/Game/Extinction/Dinos/Corrupt/Paraceratherium/Paracer_Character_BP_Corrupt.Paracer_Character_BP_Corrupt_C",
-          "variant": "corrupt",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieParaceratherium/ASAParacer_Character_BP_Corrupt_EerieDinos.ASAParacer_Character_BP_Corrupt_EerieDinos_C",
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
-      "name": "Ptero_Character_BP_Corrupt_C",
-      "dinos": [
-        {
-          "class": "/Game/Extinction/Dinos/Corrupt/Ptero/Ptero_Character_BP_Corrupt.Ptero_Character_BP_Corrupt_C",
-          "variant": "corrupt",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EeriePteranodon/ASAPtero_Character_BP_Corrupt_EerieDinos.ASAPtero_Character_BP_Corrupt_EerieDinos_C",
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
-      "name": "Raptor_Character_BP_Corrupt_C",
-      "dinos": [
-        {
-          "class": "/Game/Extinction/Dinos/Corrupt/Raptor/Raptor_Character_BP_Corrupt.Raptor_Character_BP_Corrupt_C",
-          "variant": "corrupt",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieRaptor/ASARaptor_Character_BP_Corrupt_EerieDinos.ASARaptor_Character_BP_Corrupt_EerieDinos_C",
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
-      "name": "RockDrake_Character_BP_Corrupt_C",
-      "dinos": [
-        {
-          "class": "/Game/Extinction/Dinos/Corrupt/RockDrake/RockDrake_Character_BP_Corrupt.RockDrake_Character_BP_Corrupt_C",
-          "variant": "corrupt",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieRockDrake/ASARockDrake_Character_BP_Corrupt_EerieDinos.ASARockDrake_Character_BP_Corrupt_EerieDinos_C",
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
-      "name": "Spino_Character_BP_Corrupt_C",
-      "dinos": [
-        {
-          "class": "/Game/Extinction/Dinos/Corrupt/Spino/Spino_Character_BP_Corrupt.Spino_Character_BP_Corrupt_C",
-          "variant": "corrupt",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieSpinosaurus/ASASpino_Character_BP_Corrupt_EerieDinos.ASASpino_Character_BP_Corrupt_EerieDinos_C",
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "maps": [],
-          "mapsExcluded": []
-        }
-      ]
-    },
-    {
-      "name": "Stego_Character_BP_Corrupt_C",
-      "dinos": [
-        {
-          "class": "/Game/Extinction/Dinos/Corrupt/Stego/Stego_Character_BP_Corrupt.Stego_Character_BP_Corrupt_C",
-          "variant": "corrupt",
-          "mods": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ]
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieStegosaurus/ASAStego_Character_BP_Corrupt_EerieDinos.ASAStego_Character_BP_Corrupt_EerieDinos_C",
           "variant": "eerie",
           "mods": [
             "Ark-EerieDinos"
