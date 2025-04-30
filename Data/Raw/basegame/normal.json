@@ -310,14 +310,6 @@
             "group": "Coel_Character_BP_Ocean_C"
         },
         {
-            "class": "/Game/PrimalEarth/Dinos/Coelacanth/Coel_Character_BP_VDay.Coel_Character_BP_VDay_C",
-            "group": "Coel_Character_BP_VDay_C"
-        },
-        {
-            "class": "/Game/PrimalEarth/Dinos/Coelacanth/Coel_Character_BP_VDay_Ocean.Coel_Character_BP_VDay_Ocean_C",
-            "group": "Coel_Character_BP_VDay_Ocean_C"
-        },
-        {
             "class": "/Game/PrimalEarth/Dinos/Compy/Compy_Character_BP.Compy_Character_BP_C",
             "group": "Compy_Character_BP_C"
         },
