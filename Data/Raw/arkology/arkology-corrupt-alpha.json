@@ -1,5 +1,6 @@
 {
     "variantName": "arkology-corrupt-alpha",
+    "allowBaby": false,
     "weight": 1,
     "mods": [
         {

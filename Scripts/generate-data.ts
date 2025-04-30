@@ -6,6 +6,7 @@ const RAW_DATA_PATH = "../Data/Raw";
 
 interface RawData {
     variantName: string;
+    allowBaby: boolean;
     weight: number;
     mods: RawDataMod[];
     maps: RawDataMap[];
@@ -39,6 +40,7 @@ interface ParsedDataGroup {
 
 interface ParsedDataDino {
     class: string;
+    allowBaby: boolean;
     variant: string;
     mods: string[];
     maps: string[];
@@ -108,6 +110,7 @@ for (const data of dataArray) {
         }
         group.dinos.push({
             class: dino.class,
+            allowBaby: data.allowBaby,
             variant: data.variantName,
             mods: Array.from(mods),
             maps: Array.from(maps),

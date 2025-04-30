@@ -1,5 +1,6 @@
 {
     "variantName": "normal",
+    "allowBaby": true,
     "weight": 1,
     "mods": [],
     "maps": [],

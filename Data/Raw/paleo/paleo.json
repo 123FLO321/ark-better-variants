@@ -1,5 +1,6 @@
 {
     "variantName": "paleo",
+    "allowBaby": true,
     "weight": 0.25,
     "mods": [
         {

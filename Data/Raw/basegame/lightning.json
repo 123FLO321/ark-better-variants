@@ -1,5 +1,6 @@
 {
     "variantName": "lightning",
+    "allowBaby": false,
     "weight": 1,
     "mods": [],
     "maps": [

@@ -1,5 +1,6 @@
 {
     "variantName": "arkology",
+    "allowBaby": true,
     "weight": 1,
     "mods": [
         {

@@ -1,5 +1,6 @@
 {
     "variantName": "z",
+    "allowBaby": true,
     "weight": 0.25,
     "mods": [
         {

@@ -1,5 +1,6 @@
 {
     "variantName": "corrupt",
+    "allowBaby": false,
     "weight": 1,
     "mods": [],
     "maps": [

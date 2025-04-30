@@ -1,5 +1,6 @@
 {
     "variantName": "astral",
+    "allowBaby": false,
     "weight": 0.05,
     "mods": [],
     "maps": [

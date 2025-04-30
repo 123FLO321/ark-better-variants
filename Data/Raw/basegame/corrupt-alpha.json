@@ -1,5 +1,6 @@
 {
     "variantName": "corrupt-alpha",
+    "allowBaby": false,
     "weight": 0.05,
     "mods": [],
     "maps": [

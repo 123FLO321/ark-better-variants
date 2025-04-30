@@ -1,5 +1,6 @@
 {
     "variantName": "eerie",
+    "allowBaby": true,
     "weight": 0.25,
     "mods": [
         {

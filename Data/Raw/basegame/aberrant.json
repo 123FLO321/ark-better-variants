@@ -1,5 +1,6 @@
 {
     "variantName": "aberrant",
+    "allowBaby": true,
     "weight": 1,
     "mods": [],
     "dinos": [
