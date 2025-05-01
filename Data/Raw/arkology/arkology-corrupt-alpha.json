@@ -2,7 +2,7 @@
     "variantName": "arkology-corrupt-alpha",
     "allowBaby": false,
     "levelMultiplier": 1.0,
-    "weight": 1.0,
+    "weight": 0.05,
     "mods": [
         {
             "id": 1013622,
