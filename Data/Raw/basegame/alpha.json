@@ -53,6 +53,14 @@
         {
             "class": "/Game/ScorchedEarth/Dinos/Wyvern/MegaWyvern_Character_BP_Fire.MegaWyvern_Character_BP_Fire_C",
             "group": "Wyvern_Character_BP_Fire_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP_Mega.Mosa_Character_BP_Mega_C",
+            "group": "Mosa_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP_Mega_Cave.Mosa_Character_BP_Mega_Cave_C",
+            "group": "Mosa_Character_BP_Cave_C"
         }
     ]
 }

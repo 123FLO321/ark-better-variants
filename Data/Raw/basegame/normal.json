@@ -362,10 +362,6 @@
             "group": "Direwolf_Character_BP_C"
         },
         {
-            "class": "/Game/PrimalEarth/Dinos/Direwolf/Ghost_Direwolf_Character_BP.Ghost_Direwolf_Character_BP_C",
-            "group": "Ghost_Direwolf_Character_BP_C"
-        },
-        {
             "class": "/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP.Dodo_Character_BP_C",
             "group": "Dodo_Character_BP_C"
         },
@@ -526,14 +522,6 @@
             "group": "Mosa_Character_BP_Cave_C"
         },
         {
-            "class": "/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP_Mega.Mosa_Character_BP_Mega_C",
-            "group": "Mosa_Character_BP_Mega_C"
-        },
-        {
-            "class": "/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP_Mega_Cave.Mosa_Character_BP_Mega_Cave_C",
-            "group": "Mosa_Character_BP_Mega_Cave_C"
-        },
-        {
             "class": "/Game/PrimalEarth/Dinos/Moschops/Moschops_Character_BP.Moschops_Character_BP_C",
             "group": "Moschops_Character_BP_C"
         },
@@ -616,10 +604,6 @@
         {
             "class": "/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP_C",
             "group": "Raptor_Character_BP_C"
-        },
-        {
-            "class": "/Game/PrimalEarth/Dinos/Rex/Ghost_Rex_Character_BP.Ghost_Rex_Character_BP_C",
-            "group": "Ghost_Rex_Character_BP_C"
         },
         {
             "class": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP_C",
@@ -748,10 +732,6 @@
         {
             "class": "/Game/ScorchedEarth/Dinos/JugBug/Jugbug_Water_Character_BP.Jugbug_Water_Character_BP_C",
             "group": "Jugbug_Water_Character_BP_C"
-        },
-        {
-            "class": "/Game/ScorchedEarth/Dinos/Mantis/Ghost_Mantis_Character_BP.Ghost_Mantis_Character_BP_C",
-            "group": "Ghost_Mantis_Character_BP_C"
         },
         {
             "class": "/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP_C",
