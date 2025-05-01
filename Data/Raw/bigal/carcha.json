@@ -1,0 +1,21 @@
+{
+    "variantName": "normal",
+    "allowBaby": true,
+    "levelMultiplier": 1.0,
+    "weight": 1.0,
+    "mods": [
+        {
+            "id": 981013,
+            "name": "CarchaTLC",
+            "type": "required"
+        }
+    ],
+    "maps": [],
+    "dinos": [
+        {
+            "class": "/CarchaTLC/Carcha/TLCCarchaBA_Character_BP.TLCCarchaBA_Character_BP_C",
+            "replaceClass": "/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP_C",
+            "group": "Carcha_Character_BP_C"
+        }
+    ]
+}
