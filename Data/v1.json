@@ -10089,18 +10089,6 @@
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Fasola/ARKOLOGY_Fasola_Character_BP.ARKOLOGY_Fasola_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
         }
       ]
     },
@@ -10113,18 +10101,6 @@
           "levelMultiplier": 1,
           "variant": "aberrant",
           "mods": [],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Gigantoraptor/ARKOLOGY_Gigantoraptor_Character_BP.ARKOLOGY_Gigantoraptor_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
@@ -10143,18 +10119,6 @@
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Achatina/ARKOLOGY_Achatina_Character_BP.ARKOLOGY_Achatina_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
         }
       ]
     },
@@ -10167,18 +10131,6 @@
           "levelMultiplier": 1,
           "variant": "aberrant",
           "mods": [],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Angler/ARKOLOGY_Angler_Character_BP.ARKOLOGY_Angler_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
@@ -10197,18 +10149,6 @@
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Anky/Arkology_Ankylo_Character_BP.Arkology_Ankylo_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
         }
       ]
     },
@@ -10224,18 +10164,6 @@
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Arthro/ARKOLOGY_Arthro_Character_BP.ARKOLOGY_Arthro_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
         }
       ]
     },
@@ -10248,18 +10176,6 @@
           "levelMultiplier": 1,
           "variant": "aberrant",
           "mods": [],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Baryonyx/ARKOLOGY_Baryonyx_Character_BP.ARKOLOGY_Baryonyx_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
@@ -10305,18 +10221,6 @@
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Boa/ARKOLOGY_BoaFrill_Character_BP.ARKOLOGY_BoaFrill_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
         }
       ]
     },
@@ -10329,18 +10233,6 @@
           "levelMultiplier": 1,
           "variant": "aberrant",
           "mods": [],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Carno/ARKOLOGY_Carno_Character_BP.ARKOLOGY_Carno_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
@@ -10359,18 +10251,6 @@
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Cnidaria/ARKOLOGY_Cnidaria_Character_BP.ARKOLOGY_Cnidaria_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
         }
       ]
     },
@@ -10386,18 +10266,6 @@
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Coel/ARKOLOGY_Coel_Character_BP.ARKOLOGY_Coel_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
         }
       ]
     },
@@ -10410,18 +10278,6 @@
           "levelMultiplier": 1,
           "variant": "aberrant",
           "mods": [],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Dimetro/ARKOLOGY_Dimetro_Character_BP.ARKOLOGY_Dimetro_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
@@ -10452,18 +10308,6 @@
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Dimorph/ARKOLOGY_Dimorph_Character_BP.ARKOLOGY_Dimorph_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
         }
       ]
     },
@@ -10476,18 +10320,6 @@
           "levelMultiplier": 1,
           "variant": "aberrant",
           "mods": [],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Diplocaulus/ARKOLOGY_Diplocaulus_Character_BP.ARKOLOGY_Diplocaulus_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
@@ -10521,18 +10353,6 @@
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/DireBear/ARKOLOGY_Direbear_Character_BP.ARKOLOGY_Direbear_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
         }
       ]
     },
@@ -10545,18 +10365,6 @@
           "levelMultiplier": 1,
           "variant": "aberrant",
           "mods": [],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Dodo/ARKOLOGY_Dodo_Character_BP.ARKOLOGY_Dodo_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
@@ -10575,18 +10383,6 @@
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Doedic/ARKOLOGY_Doed_Character_BP.ARKOLOGY_Doed_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
         }
       ]
     },
@@ -10599,18 +10395,6 @@
           "levelMultiplier": 1,
           "variant": "aberrant",
           "mods": [],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Dragonfly/ARKOLOGY_Dragonfly_Character_BP.ARKOLOGY_Dragonfly_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
@@ -10629,18 +10413,6 @@
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/DungBeetle/ARKOLOGY_DungBeetle_Character_BP.ARKOLOGY_DungBeetle_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
         }
       ]
     },
@@ -10653,18 +10425,6 @@
           "levelMultiplier": 1,
           "variant": "aberrant",
           "mods": [],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Eel/ARKOLOGY_Eel_Character_BP.ARKOLOGY_Eel_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
@@ -10695,18 +10455,6 @@
           "levelMultiplier": 1,
           "variant": "aberrant",
           "mods": [],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Iguanodon/Arkology_Iguanodon_Character_BP.Arkology_Iguanodon_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
@@ -10752,18 +10500,6 @@
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Manta/ARKOLOGY_Manta_Character_BP.ARKOLOGY_Manta_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
         }
       ]
     },
@@ -10779,18 +10515,6 @@
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Megalania/ARKOLOGY_Megalania_Character_BP.ARKOLOGY_Megalania_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
         }
       ]
     },
@@ -10803,18 +10527,6 @@
           "levelMultiplier": 1,
           "variant": "aberrant",
           "mods": [],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Megalosaurus/ARKOLOGY_Megalosaurus_Character_BP.ARKOLOGY_Megalosaurus_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
@@ -10845,18 +10557,6 @@
           "levelMultiplier": 1,
           "variant": "aberrant",
           "mods": [],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Otter/ARKOLOGY_Otter_Character_BP.ARKOLOGY_Otter_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
@@ -10914,18 +10614,6 @@
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Parasaur/ARKOLOGY_Para_Character_BP.ARKOLOGY_Para_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
         }
       ]
     },
@@ -10941,18 +10629,6 @@
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Paracer/ARKOLOGY_Paracer_Character_BP.ARKOLOGY_Paracer_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
         }
       ]
     },
@@ -10965,18 +10641,6 @@
           "levelMultiplier": 1,
           "variant": "aberrant",
           "mods": [],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Piranha/ARKOLOGY_Piranha_Character_BP.ARKOLOGY_Piranha_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
@@ -11010,18 +10674,6 @@
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Raptor/ARKOLOGY_Raptor_Character_BP.ARKOLOGY_Raptor_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
         }
       ]
     },
@@ -11052,18 +10704,6 @@
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Sarco/ARKOLOGY_Sarco_Character_BP.ARKOLOGY_Sarco_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
         }
       ]
     },
@@ -11076,18 +10716,6 @@
           "levelMultiplier": 1,
           "variant": "aberrant",
           "mods": [],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Scorpion/ARKOLOGY_Scorpion_Character_BP.ARKOLOGY_Scorpion_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
@@ -11106,18 +10734,6 @@
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Sheep/ARKOLOGY_Sheep_Character_BP.ARKOLOGY_Sheep_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
         }
       ]
     },
@@ -11130,18 +10746,6 @@
           "levelMultiplier": 1,
           "variant": "aberrant",
           "mods": [],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Spider/ARKOLOGY_SpiderS_Character_BP.ARKOLOGY_SpiderS_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
@@ -11160,18 +10764,6 @@
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Spino/ARKOLOGY_Spino_Character_BP.ARKOLOGY_Spino_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
         }
       ]
     },
@@ -11184,18 +10776,6 @@
           "levelMultiplier": 1,
           "variant": "aberrant",
           "mods": [],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Stego/ARKOLOGY_Stego_Character_BP.ARKOLOGY_Stego_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
@@ -11214,18 +10794,6 @@
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Toad/ARKOLOGY_Toad_Character_BP.ARKOLOGY_Toad_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
         }
       ]
     },
@@ -11238,18 +10806,6 @@
           "levelMultiplier": 1,
           "variant": "aberrant",
           "mods": [],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Trike/ARKOLOGY_Trike_Character_BP.ARKOLOGY_Trike_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
@@ -11268,18 +10824,6 @@
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Trilobite/ARKOLOGY_Trilobite_Character.ARKOLOGY_Trilobite_Character_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
         }
       ]
     },
@@ -11292,18 +10836,6 @@
           "levelMultiplier": 1,
           "variant": "aberrant",
           "mods": [],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Carboemys/ARKOLOGY_Turtle_Character_BP.ARKOLOGY_Turtle_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
@@ -11867,11 +11399,6 @@
       "name": "amissa",
       "weight": 0.25,
       "weightConfigKey": "AmissaSpawnWeight"
-    },
-    {
-      "name": "arkology-aberrant",
-      "weight": 1,
-      "weightConfigKey": "ArkologyAberrantSpawnWeight"
     },
     {
       "name": "arkology-alpha",
