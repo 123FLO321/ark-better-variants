@@ -1,0 +1,20 @@
+{
+    "variantName": "synn-karnis",
+    "allowBaby": true,
+    "levelMultiplier": 1.0,
+    "weight": 1.0,
+    "mods": [
+        {
+            "id": 1244703,
+            "name": "NikkiCarChar",
+            "type": "required"
+        }
+    ],
+    "maps": [],
+    "dinos": [
+        {
+            "class": "/NikkiCarChar/Dinos/Carchar/SynnKarnis_Carcha_Character_BP.SynnKarnis_Carcha_Character_BP_C",
+            "group": "Carcha_Character_BP_C"
+        }
+    ]
+}
