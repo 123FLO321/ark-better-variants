@@ -3054,7 +3054,9 @@
           "levelMultiplier": 1,
           "variant": "normal",
           "mods": [],
-          "modsExcluded": [],
+          "modsExcluded": [
+            "CarchaTLC"
+          ],
           "maps": [],
           "mapsExcluded": []
         },
@@ -3079,6 +3081,18 @@
           "variant": "arkology",
           "mods": [
             "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/CarchaTLC/Carcha/TLCCarchaBA_Character_BP.TLCCarchaBA_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "normal",
+          "mods": [
+            "CarchaTLC"
           ],
           "modsExcluded": [],
           "maps": [],
