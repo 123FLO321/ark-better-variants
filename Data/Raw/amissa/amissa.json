@@ -2,7 +2,13 @@
     "variantName": "amissa",
     "allowBaby": false,
     "weight": 0.25,
-    "mods": [],
+    "mods": [
+        {
+            "id": 1007416,
+            "name": "AmissaAdditions",
+            "type": "required"
+        }
+    ],
     "maps": [],
     "dinos": [
         {

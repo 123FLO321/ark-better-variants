@@ -5,7 +5,8 @@
     "mods": [
         {
             "id": 935916,
-            "name": "Ark-EerieDinos"
+            "name": "Ark-EerieDinos",
+            "type": "required"
         }
     ],
     "maps": [],

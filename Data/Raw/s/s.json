@@ -5,7 +5,8 @@
     "mods": [
         {
             "id": 912815,
-            "name": "SDinoVariants"
+            "name": "SDinoVariants",
+            "type": "required"
         }
     ],
     "dinos": [

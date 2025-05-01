@@ -5,7 +5,8 @@
     "mods": [
         {
             "id": 986540,
-            "name": "PA_Ascension"
+            "name": "PA_Ascension",
+            "type": "required"
         }
     ],
     "maps": [

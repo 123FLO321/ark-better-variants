@@ -2,7 +2,13 @@
     "variantName": "insaluna",
     "allowBaby": false,
     "weight": 0.25,
-    "mods": [],
+    "mods": [
+        {
+            "id": 944539,
+            "name": "overgrownvariants",
+            "type": "required"
+        }
+    ],
     "maps": [],
     "dinos": [
         {

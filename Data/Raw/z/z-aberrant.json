@@ -5,7 +5,8 @@
     "mods": [
         {
             "id": 971318,
-            "name": "Z-DinoVariants"
+            "name": "Z-DinoVariants",
+            "type": "required"
         }
     ],
     "dinos": [

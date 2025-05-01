@@ -5,7 +5,8 @@
     "mods": [
         {
             "id": 974812,
-            "name": "Z_VariantsOceanLife"
+            "name": "Z_VariantsOceanLife",
+            "type": "required"
         }
     ],
     "dinos": [

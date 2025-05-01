@@ -14,6 +14,7 @@ interface RawData {
 }
 
 interface RawDataMod {
+    type: "required" | "disallowed";
     id: number;
     name: string;
 }
@@ -43,6 +44,7 @@ interface ParsedDataDino {
     allowBaby: boolean;
     variant: string;
     mods: string[];
+    modsExcluded: string[];
     maps: string[];
     mapsExcluded: string[];
 }
@@ -94,10 +96,15 @@ for (const data of dataArray) {
             dinos: []
         }
         const mods = new Set<string>();
+        const modsExcluded = new Set<string>();
         for (const requirement of data.mods || []) {
             const modName = modsMap.get(requirement.id);
             if (!modName) throw new Error(`Unknown mod: ${modName}`);
-            mods.add(modName);
+            if (requirement.type === "disallowed") {
+                modsExcluded.add(modName);
+            } else {
+                mods.add(modName);
+            }
         }
         const maps = new Set<string>();
         const mapsExcluded = new Set<string>();
@@ -113,6 +120,7 @@ for (const data of dataArray) {
             allowBaby: data.allowBaby,
             variant: data.variantName,
             mods: Array.from(mods),
+            modsExcluded: Array.from(modsExcluded),
             maps: Array.from(maps),
             mapsExcluded: Array.from(mapsExcluded)
         })

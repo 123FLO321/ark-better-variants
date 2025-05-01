@@ -2,7 +2,13 @@
     "variantName": "eerie-tek",
     "allowBaby": true,
     "weight": 1,
-    "mods": [],
+    "mods": [
+        {
+            "id": 935916,
+            "name": "Ark-EerieDinos",
+            "type": "required"
+        }
+    ],
     "maps": [],
     "dinos": [
         {

@@ -5,7 +5,8 @@
     "mods": [
         {
             "id": 1013622,
-            "name": "ARKOLOGY_NEWENCOUNTERS"
+            "name": "ARKOLOGY_NEWENCOUNTERS",
+            "type": "required"
         }
     ],
     "maps": [],

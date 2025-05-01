@@ -5,7 +5,8 @@
     "mods": [
         {
             "id": 1177331,
-            "name": "SDinoVariantsFantasticTames"
+            "name": "SDinoVariantsFantasticTames",
+            "type": "required"
         }
     ],
     "dinos": [
