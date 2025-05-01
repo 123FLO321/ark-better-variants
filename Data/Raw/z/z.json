@@ -76,10 +76,6 @@
             "group": "GalaxyUnicorn_Character_BP_C"
         },
         {
-            "class": "/Z-DinoVariants/z-gigantoraptor/Z_Gigantoraptor_Character_BP.Z_Gigantoraptor_Character_BP_C",
-            "group": "Gigantoraptor_Character_BP_C"
-        },
-        {
             "class": "/Z-DinoVariants/z-glowtail/Z_Glowtail_Character_BP.Z_Glowtail_Character_BP_C",
             "group": "LanternLizard_Character_BP_C"
         },
