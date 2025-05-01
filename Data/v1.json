@@ -10974,14 +10974,12 @@
           "class": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Tarbo/EVO_Alpha_Tarbo_Character_BP.EVO_Alpha_Tarbo_Character_BP_C",
           "allowBaby": false,
           "levelMultiplier": 1,
-          "variant": "legacy-alpha",
+          "variant": "tarbo-alpha",
           "mods": [
             "PA_EVO_Pack_01"
           ],
           "modsExcluded": [],
-          "maps": [
-            "ScorchedEarth_WP"
-          ],
+          "maps": [],
           "mapsExcluded": []
         },
         {
@@ -10993,9 +10991,7 @@
             "PA_EVO_Pack_01"
           ],
           "modsExcluded": [],
-          "maps": [
-            "ScorchedEarth_WP"
-          ],
+          "maps": [],
           "mapsExcluded": []
         }
       ]
@@ -11012,9 +11008,7 @@
             "PA_EVO_Pack_01"
           ],
           "modsExcluded": [],
-          "maps": [
-            "Extinction_WP"
-          ],
+          "maps": [],
           "mapsExcluded": []
         }
       ]
@@ -11478,6 +11472,11 @@
       "name": "legacy",
       "weight": 0.25,
       "weightConfigKey": "LegacySpawnWeight"
+    },
+    {
+      "name": "tarbo-alpha",
+      "weight": 0.05,
+      "weightConfigKey": "TarboAlphaSpawnWeight"
     },
     {
       "name": "tarbo",
