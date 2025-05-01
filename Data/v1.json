@@ -3111,6 +3111,18 @@
           "mapsExcluded": []
         },
         {
+          "class": "/NikkiCarChar/Dinos/Carchar/SynnKarnis_Carcha_Character_BP.SynnKarnis_Carcha_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "synn-karnis",
+          "mods": [
+            "NikkiCarChar"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
           "class": "/overgrownvariants/variants/carcha/Carcha_Character_BP_insaluna.Carcha_Character_BP_insaluna_C",
           "allowBaby": false,
           "levelMultiplier": 1,
@@ -11431,6 +11443,11 @@
       "name": "eerie",
       "weight": 0.25,
       "weightConfigKey": "EerieSpawnWeight"
+    },
+    {
+      "name": "synn-karnis",
+      "weight": 1,
+      "weightConfigKey": "SynnKarnisSpawnWeight"
     },
     {
       "name": "insaluna",
