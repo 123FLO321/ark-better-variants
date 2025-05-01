@@ -1,6 +1,7 @@
 {
     "variantName": "paleo",
     "allowBaby": true,
+    "levelMultiplier": 1.0,
     "weight": 0.25,
     "mods": [
         {

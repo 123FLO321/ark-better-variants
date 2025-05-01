@@ -7,6 +7,7 @@ const RAW_DATA_PATH = "../Data/Raw";
 interface RawData {
     variantName: string;
     allowBaby: boolean;
+    levelMultiplier: number;
     weight: number;
     mods: RawDataMod[];
     maps: RawDataMap[];
@@ -26,6 +27,7 @@ interface RawDataMap {
 
 interface RawDataDino {
     class: string;
+    replaceClass: string | null;
     group: string | null;
 }
 
@@ -43,6 +45,7 @@ interface ParsedDataDino {
     class: string;
     allowBaby: boolean;
     variant: string;
+    levelMultiplier: number;
     mods: string[];
     modsExcluded: string[];
     maps: string[];
@@ -72,10 +75,15 @@ for (const folder of await readdir(RAW_DATA_PATH)) {
                 modsMap.set(requirement.id, requirement.name);
             }
         }
-        dataArray.push(data);
+        if (folder === "basegame") {
+            dataArray.unshift(data);
+        } else {
+            dataArray.push(data);
+        }
     }
 }
 
+const classMap = new Map<string, ParsedDataDino>();
 for (const data of dataArray) {
     console.log(`Parsing variant ${data.variantName} with ${data.dinos.length} dinos...`);
 
@@ -115,15 +123,26 @@ for (const data of dataArray) {
                 maps.add(map.name);
             }
         }
-        group.dinos.push({
+
+        if (dino.replaceClass) {
+            const existing = classMap.get(dino.replaceClass);
+            if (existing) {
+                existing.modsExcluded.push(...Array.from(mods));
+            }
+        }
+
+        const paredDino = {
             class: dino.class,
             allowBaby: data.allowBaby,
+            levelMultiplier: data.levelMultiplier,
             variant: data.variantName,
             mods: Array.from(mods),
             modsExcluded: Array.from(modsExcluded),
             maps: Array.from(maps),
             mapsExcluded: Array.from(mapsExcluded)
-        })
+        }
+        classMap.set(dino.class, paredDino);
+        group.dinos.push(paredDino)
         groupMap.set(dino.group, group);
     }
 }
