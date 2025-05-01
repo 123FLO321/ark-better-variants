@@ -28,10 +28,6 @@
             "group": "Otter_Character_BP_C"
         },
         {
-            "class": "/Z-VariantsOtterAdditions/z_aberrantotter/Z_Aberrant_Otter_Character_BP_ASA.Z_Aberrant_Otter_Character_BP_ASA_C",
-            "group": "Otter_Character_BP_C"
-        },
-        {
             "class": "/Z-VariantsOtterAdditions/z_ferretotter/Z_FerretOtter_Character_BP_ASA.Z_FerretOtter_Character_BP_ASA_C",
             "group": "Otter_Character_BP_C"
         },
