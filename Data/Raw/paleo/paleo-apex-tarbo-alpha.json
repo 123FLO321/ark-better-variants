@@ -1,5 +1,5 @@
 {
-    "variantName": "legacy-alpha",
+    "variantName": "tarbo-alpha",
     "allowBaby": false,
     "levelMultiplier": 1.0,
     "weight": 0.05,
@@ -10,12 +10,7 @@
             "type": "required"
         }
     ],
-    "maps": [
-        {
-            "type": "required",
-            "name": "ScorchedEarth_WP"
-        }
-    ],
+    "maps": [],
     "dinos": [
         {
             "class": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Tarbo/EVO_Alpha_Tarbo_Character_BP.EVO_Alpha_Tarbo_Character_BP_C",
