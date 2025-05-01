@@ -5792,18 +5792,6 @@
           "mapsExcluded": []
         },
         {
-          "class": "/Z-VariantsOtterAdditions/z_aberrantotter/Z_Aberrant_Otter_Character_BP_ASA.Z_Aberrant_Otter_Character_BP_ASA_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "z",
-          "mods": [
-            "Z-VariantsOtterAdditions"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
-        },
-        {
           "class": "/Z-VariantsOtterAdditions/z_ferretotter/Z_FerretOtter_Character_BP_ASA.Z_FerretOtter_Character_BP_ASA_C",
           "allowBaby": true,
           "levelMultiplier": 1,
@@ -10556,6 +10544,18 @@
           "variant": "z-aberrant",
           "mods": [
             "Z-DinoVariants"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/Z-VariantsOtterAdditions/z_aberrantotter/Z_Aberrant_Otter_Character_BP_ASA.Z_Aberrant_Otter_Character_BP_ASA_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "z-aberrant",
+          "mods": [
+            "Z-VariantsOtterAdditions"
           ],
           "modsExcluded": [],
           "maps": [],
