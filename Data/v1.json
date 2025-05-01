@@ -11421,7 +11421,7 @@
     },
     {
       "name": "arkology-corrupt-alpha",
-      "weight": 1,
+      "weight": 0.05,
       "weightConfigKey": "ArkologyCorruptAlphaSpawnWeight"
     },
     {
