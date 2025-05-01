@@ -4375,20 +4375,6 @@
           "mapsExcluded": []
         },
         {
-          "class": "/PA_EVO_Pack_01/Dinos/EVO_Giga/Extinction/EVO_Wasteland_Giga_Character_BP.EVO_Wasteland_Giga_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "wasteland",
-          "mods": [
-            "PA_EVO_Pack_01"
-          ],
-          "modsExcluded": [],
-          "maps": [
-            "Extinction_WP"
-          ],
-          "mapsExcluded": []
-        },
-        {
           "class": "/PA_EVO_Pack_01/Dinos/EVO_Giga/EVO_Giga_Character_BP.EVO_Giga_Character_BP_C",
           "allowBaby": true,
           "levelMultiplier": 1,
@@ -6876,34 +6862,6 @@
           ],
           "modsExcluded": [],
           "maps": [],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Tarbo/EVO_Alpha_Tarbo_Character_BP.EVO_Alpha_Tarbo_Character_BP_C",
-          "allowBaby": false,
-          "levelMultiplier": 1,
-          "variant": "legacy-alpha",
-          "mods": [
-            "PA_EVO_Pack_01"
-          ],
-          "modsExcluded": [],
-          "maps": [
-            "ScorchedEarth_WP"
-          ],
-          "mapsExcluded": []
-        },
-        {
-          "class": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Tarbo/EVO_Tarbo_Character_BP.EVO_Tarbo_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "tarbo",
-          "mods": [
-            "PA_EVO_Pack_01"
-          ],
-          "modsExcluded": [],
-          "maps": [
-            "ScorchedEarth_WP"
-          ],
           "mapsExcluded": []
         },
         {
@@ -11005,6 +10963,58 @@
           ],
           "modsExcluded": [],
           "maps": [],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
+      "name": "Rex_Character_BP_Tarbo_C",
+      "dinos": [
+        {
+          "class": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Tarbo/EVO_Alpha_Tarbo_Character_BP.EVO_Alpha_Tarbo_Character_BP_C",
+          "allowBaby": false,
+          "levelMultiplier": 1,
+          "variant": "legacy-alpha",
+          "mods": [
+            "PA_EVO_Pack_01"
+          ],
+          "modsExcluded": [],
+          "maps": [
+            "ScorchedEarth_WP"
+          ],
+          "mapsExcluded": []
+        },
+        {
+          "class": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Tarbo/EVO_Tarbo_Character_BP.EVO_Tarbo_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "tarbo",
+          "mods": [
+            "PA_EVO_Pack_01"
+          ],
+          "modsExcluded": [],
+          "maps": [
+            "ScorchedEarth_WP"
+          ],
+          "mapsExcluded": []
+        }
+      ]
+    },
+    {
+      "name": "Gigant_Character_BP_Wasteland_C",
+      "dinos": [
+        {
+          "class": "/PA_EVO_Pack_01/Dinos/EVO_Giga/Extinction/EVO_Wasteland_Giga_Character_BP.EVO_Wasteland_Giga_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "wasteland",
+          "mods": [
+            "PA_EVO_Pack_01"
+          ],
+          "modsExcluded": [],
+          "maps": [
+            "Extinction_WP"
+          ],
           "mapsExcluded": []
         }
       ]
