@@ -19,7 +19,7 @@
     "dinos": [
         {
             "class": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Tarbo/EVO_Tarbo_Character_BP.EVO_Tarbo_Character_BP_C",
-            "group": "Rex_Character_BP_C"
+            "group": "Rex_Character_BP_Tarbo_C"
         }
     ]
 }

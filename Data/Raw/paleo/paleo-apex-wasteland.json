@@ -19,7 +19,7 @@
     "dinos": [
         {
             "class": "/PA_EVO_Pack_01/Dinos/EVO_Giga/Extinction/EVO_Wasteland_Giga_Character_BP.EVO_Wasteland_Giga_Character_BP_C",
-            "group": "Gigant_Character_BP_C"
+            "group": "Gigant_Character_BP_Wasteland_C"
         }
     ]
 }
