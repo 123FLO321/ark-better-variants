@@ -706,18 +706,6 @@
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": []
-        },
-        {
-          "class": "/Z-DinoVariants/z-gigantoraptor/Z_Gigantoraptor_Character_BP.Z_Gigantoraptor_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "z",
-          "mods": [
-            "Z-DinoVariants"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": []
         }
       ]
     },
