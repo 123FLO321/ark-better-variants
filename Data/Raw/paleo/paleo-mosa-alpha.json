@@ -1,0 +1,31 @@
+{
+    "variantName": "alpha",
+    "allowBaby": false,
+    "levelMultiplier": 1.0,
+    "weight": 0.05,
+    "mods": [
+        {
+            "id": 1105106,
+            "name": "PA_EVO_Pack_02",
+            "type": "required"
+        }
+    ],
+    "maps": [
+        {
+            "type": "disallowed",
+            "name": "Astraeos_WP"
+        }
+    ],
+    "dinos": [
+        {
+            "class": "/PA_EVO_Pack_02/Dinos/EVO_Mosa/Alpha/EVO_Alpha_Mosa_Character_BP.EVO_Alpha_Mosa_Character_BP_C",
+            "replaceClass": "/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP_Mega.Mosa_Character_BP_Mega_C",
+            "group": "Mosa_Character_BP_C"
+        },
+        {
+            "class": "/PA_EVO_Pack_02/Dinos/EVO_Mosa/Alpha/EVO_Cave_Alpha_Mosa_Character_BP.EVO_Cave_Alpha_Mosa_Character_BP_C",
+            "replaceClass": "/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP_Mega_Cave.Mosa_Character_BP_Mega_Cave_C",
+            "group": "Mosa_Character_BP_Cave_C"
+        }
+    ]
+}

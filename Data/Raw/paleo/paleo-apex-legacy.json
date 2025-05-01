@@ -1,0 +1,20 @@
+{
+    "variantName": "legacy",
+    "allowBaby": true,
+    "levelMultiplier": 1.2,
+    "weight": 0.25,
+    "mods": [
+        {
+            "id": 970540,
+            "name": "PA_EVO_Pack_01",
+            "type": "required"
+        }
+    ],
+    "maps": [],
+    "dinos": [
+        {
+            "class":"/PA_EVO_Pack_01/Dinos/EVO_Rex/Legacy/EVO_Legacy_Rex_Character_BP.EVO_Legacy_Rex_Character_BP_C",
+            "group": "Rex_Character_BP_C"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "variantName": "paleo",
+    "allowBaby": true,
+    "levelMultiplier": 1.0,
+    "weight": 0.25,
+    "mods": [
+        {
+            "id": 972484,
+            "name": "PA_Plus_Pack_01",
+            "type": "required"
+        },
+        {
+            "id": 986540,
+            "name": "PA_Ascension",
+            "type": "required"
+        }
+    ],
+    "maps": [],
+    "dinos": [
+        {
+            "class": "/PA_Plus_Pack_01/Dinos/Cryptoclidus/Paleo/PA_Paleo_Cryptoclidus_Character_BP.PA_Paleo_Cryptoclidus_Character_BP_C",
+            "group": "Cryptoclidus_Character_BP_C"
+        }
+    ]
+}
