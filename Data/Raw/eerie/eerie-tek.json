@@ -1,8 +1,8 @@
 {
     "variantName": "eerie-tek",
     "allowBaby": true,
-    "levelMultiplier": 1.0,
-    "weight": 1.2,
+    "levelMultiplier": 1.2,
+    "weight": 0.05,
     "mods": [
         {
             "id": 935916,
@@ -10,27 +10,36 @@
             "type": "required"
         }
     ],
-    "maps": [],
+    "maps": [
+        {
+            "type": "required",
+            "name": "Extinction_WP"
+        },
+        {
+            "type": "required",
+            "name": "Astraeos_WP"
+        }
+    ],
     "dinos": [
         {
             "class": "/Ark-EerieDinos/EerieVariants/EerieParasaur/ASABionicPara_Character_BP_EerieDinos.ASABionicPara_Character_BP_EerieDinos_C",
-            "group": "Para_Character_BP_Bionic_C"
+            "group": "Para_Character_BP_C"
         },
         {
             "class": "/Ark-EerieDinos/EerieVariants/EerieQuetzal/ASABionicQuetz_Character_BP_EerieDinos.ASABionicQuetz_Character_BP_EerieDinos_C",
-            "group": "Quetz_Character_BP_Bionic_C"
+            "group": "Quetz_Character_BP_C"
         },
         {
             "class": "/Ark-EerieDinos/EerieVariants/EerieRaptor/ASABionicRaptor_Character_BP_EerieDinos.ASABionicRaptor_Character_BP_EerieDinos_C",
-            "group": "Raptor_Character_BP_Bionic_C"
+            "group": "Raptor_Character_BP_C"
         },
         {
             "class": "/Ark-EerieDinos/EerieVariants/EerieRex/ASABionicRex_Character_BP_EerieDinos.ASABionicRex_Character_BP_EerieDinos_C",
-            "group": "Rex_Character_BP_Bionic_C"
+            "group": "Rex_Character_BP_C"
         },
         {
             "class": "/Ark-EerieDinos/EerieVariants/EerieStegosaurus/ASABionicStego_Character_BP_EerieDinos.ASABionicStego_Character_BP_EerieDinos_C",
-            "group": "Stego_Character_BP_Bionic_C"
+            "group": "Stego_Character_BP_C"
         }
     ]
 }

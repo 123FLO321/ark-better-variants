@@ -2,7 +2,7 @@
     "variantName": "tek",
     "allowBaby": true,
     "levelMultiplier": 1.2,
-    "weight": 1.0,
+    "weight": 0.05,
     "mods": [
         {
             "id": 970540,
@@ -10,12 +10,21 @@
             "type": "required"
         }
     ],
-    "maps": [],
+    "maps": [
+        {
+            "type": "required",
+            "name": "Extinction_WP"
+        },
+        {
+            "type": "required",
+            "name": "Astraeos_WP"
+        }
+    ],
     "dinos": [
         {
             "class": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Bionic/EVO_Tek_Rex_Character_BP.EVO_Tek_Rex_Character_BP_C",
             "replaceClass": "/Game/PrimalEarth/Dinos/Rex/BionicRex_Character_BP.BionicRex_Character_BP_C",
-            "group": "Rex_Character_BP_Bionic_C"
+            "group": "Rex_Character_BP_C"
         }
     ]
 }
