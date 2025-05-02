@@ -50,12 +50,14 @@ interface ParsedDataDino {
     modsExcluded: string[];
     maps: string[];
     mapsExcluded: string[];
+    configKey: string;
 }
 
 interface ParsedDataVariant {
     name: string;
     weight: number;
-    weightConfigKey: string;
+    configKey: string;
+    weightConfigKey: string; // legacy - remove in the future
 }
 
 
@@ -88,11 +90,12 @@ for (const data of dataArray) {
     console.log(`Parsing variant ${data.variantName} with ${data.dinos.length} dinos...`);
 
     if (!variantMap.has(data.variantName)) {
-        const weightConfigKey = data.variantName.replace(/-([a-z])/g, (_, char) => char.toUpperCase()).replace(/^[a-z]/, (char) => char.toUpperCase()) + "SpawnWeight";
+        const configKey = data.variantName.replace(/-([a-z])/g, (_, char) => char.toUpperCase()).replace(/^[a-z]/, (char) => char.toUpperCase());
         variantMap.set(data.variantName, {
             name: data.variantName,
             weight: data.weight,
-            weightConfigKey,
+            configKey: configKey,
+            weightConfigKey: `${configKey}SpawnWeight`,
         });
     }
 
@@ -131,6 +134,7 @@ for (const data of dataArray) {
             }
         }
 
+        const configKey = dino.class.split(".").pop().replace(/[_\-\s]/g, "").replace(/-([a-z])/g, (_, char) => char.toUpperCase()).replace(/^[a-z]/, (char) => char.toUpperCase());
         const paredDino = {
             class: dino.class,
             allowBaby: data.allowBaby,
@@ -139,7 +143,8 @@ for (const data of dataArray) {
             mods: Array.from(mods),
             modsExcluded: Array.from(modsExcluded),
             maps: Array.from(maps),
-            mapsExcluded: Array.from(mapsExcluded)
+            mapsExcluded: Array.from(mapsExcluded),
+            configKey: configKey
         }
         classMap.set(dino.class, paredDino);
         group.dinos.push(paredDino)
