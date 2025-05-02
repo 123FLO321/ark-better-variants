@@ -1,7 +1,7 @@
 {
   "groups": [
     {
-      "name": "Gigant_Character_BP_Bionic_C",
+      "name": "Gigant_Character_BP_C",
       "dinos": [
         {
           "class": "/Game/PrimalEarth/Dinos/Giganotosaurus/BionicGigant_Character_BP.BionicGigant_Character_BP_C",
@@ -10,14 +10,84 @@
           "variant": "tek",
           "mods": [],
           "modsExcluded": [],
-          "maps": [],
+          "maps": [
+            "Extinction_WP",
+            "Astraeos_WP"
+          ],
           "mapsExcluded": [],
           "configKey": "BionicGigantCharacterBPC"
+        },
+        {
+          "class": "/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "normal",
+          "mods": [],
+          "modsExcluded": [
+            "PA_EVO_Pack_01"
+          ],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "GigantCharacterBPC"
+        },
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Giga/ARKOLOGY_MegaGigant_Character_BP.ARKOLOGY_MegaGigant_Character_BP_C",
+          "allowBaby": false,
+          "levelMultiplier": 1,
+          "variant": "arkology-alpha",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ],
+          "configKey": "ARKOLOGYMegaGigantCharacterBPC"
+        },
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Giga/ARKOLOGY_Gigant_Character_BP.ARKOLOGY_Gigant_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "arkology",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "ARKOLOGYGigantCharacterBPC"
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieGiganotosaurus/ASAGigant_Character_BP_EerieDinos.ASAGigant_Character_BP_EerieDinos_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "eerie",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "ASAGigantCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/PA_EVO_Pack_01/Dinos/EVO_Giga/EVO_Giga_Character_BP.EVO_Giga_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "normal",
+          "mods": [
+            "PA_EVO_Pack_01"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "EVOGigaCharacterBPC"
         }
       ]
     },
     {
-      "name": "Para_Character_BP_Bionic_C",
+      "name": "Para_Character_BP_C",
       "dinos": [
         {
           "class": "/Game/PrimalEarth/Dinos/Para/BionicPara_Character_BP.BionicPara_Character_BP_C",
@@ -26,27 +96,96 @@
           "variant": "tek",
           "mods": [],
           "modsExcluded": [],
-          "maps": [],
+          "maps": [
+            "Extinction_WP",
+            "Astraeos_WP"
+          ],
           "mapsExcluded": [],
           "configKey": "BionicParaCharacterBPC"
         },
         {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieParasaur/ASABionicPara_Character_BP_EerieDinos.ASABionicPara_Character_BP_EerieDinos_C",
+          "class": "/Game/PrimalEarth/Dinos/Para/Para_Character_BP.Para_Character_BP_C",
           "allowBaby": true,
           "levelMultiplier": 1,
+          "variant": "normal",
+          "mods": [],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "ParaCharacterBPC"
+        },
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Parasaur/ARKOLOGY_Para_Character_BP.ARKOLOGY_Para_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "arkology",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "ARKOLOGYParaCharacterBPC"
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieParasaur/ASABionicPara_Character_BP_EerieDinos.ASABionicPara_Character_BP_EerieDinos_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
           "variant": "eerie-tek",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "modsExcluded": [],
+          "maps": [
+            "Extinction_WP",
+            "Astraeos_WP"
+          ],
+          "mapsExcluded": [],
+          "configKey": "ASABionicParaCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieParasaur/ASAPara_Character_BP_EerieDinos.ASAPara_Character_BP_EerieDinos_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "eerie",
           "mods": [
             "Ark-EerieDinos"
           ],
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": [],
-          "configKey": "ASABionicParaCharacterBPEerieDinosC"
+          "configKey": "ASAParaCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/overgrownvariants/variants/parasaur/Para_Character_BP_InsaLuna.Para_Character_BP_InsaLuna_C",
+          "allowBaby": false,
+          "levelMultiplier": 1,
+          "variant": "insaluna",
+          "mods": [
+            "overgrownvariants"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "ParaCharacterBPInsaLunaC"
+        },
+        {
+          "class": "/Z-DinoVariants/z-parasaur/Z_Parasaur_Character_BP.Z_Parasaur_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "z",
+          "mods": [
+            "Z-DinoVariants"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "ZParasaurCharacterBPC"
         }
       ]
     },
     {
-      "name": "Quetz_Character_BP_Bionic_C",
+      "name": "Quetz_Character_BP_C",
       "dinos": [
         {
           "class": "/Game/PrimalEarth/Dinos/Quetzalcoatlus/BionicQuetz_Character_BP.BionicQuetz_Character_BP_C",
@@ -55,27 +194,85 @@
           "variant": "tek",
           "mods": [],
           "modsExcluded": [],
-          "maps": [],
+          "maps": [
+            "Extinction_WP",
+            "Astraeos_WP"
+          ],
           "mapsExcluded": [],
           "configKey": "BionicQuetzCharacterBPC"
         },
         {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieQuetzal/ASABionicQuetz_Character_BP_EerieDinos.ASABionicQuetz_Character_BP_EerieDinos_C",
+          "class": "/Game/PrimalEarth/Dinos/Quetzalcoatlus/Quetz_Character_BP.Quetz_Character_BP_C",
           "allowBaby": true,
           "levelMultiplier": 1,
+          "variant": "normal",
+          "mods": [],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "QuetzCharacterBPC"
+        },
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Quetzal/ARKOLOGY_MegaQuetz_Character_BP.ARKOLOGY_MegaQuetz_Character_BP_C",
+          "allowBaby": false,
+          "levelMultiplier": 1,
+          "variant": "arkology-alpha",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ],
+          "configKey": "ARKOLOGYMegaQuetzCharacterBPC"
+        },
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Quetzal/ARKOLOGY_Quetz_Character_BP.ARKOLOGY_Quetz_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "arkology",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "ARKOLOGYQuetzCharacterBPC"
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieQuetzal/ASABionicQuetz_Character_BP_EerieDinos.ASABionicQuetz_Character_BP_EerieDinos_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
           "variant": "eerie-tek",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "modsExcluded": [],
+          "maps": [
+            "Extinction_WP",
+            "Astraeos_WP"
+          ],
+          "mapsExcluded": [],
+          "configKey": "ASABionicQuetzCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieQuetzal/ASAQuetz_Character_BP_EerieDinos.ASAQuetz_Character_BP_EerieDinos_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "eerie",
           "mods": [
             "Ark-EerieDinos"
           ],
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": [],
-          "configKey": "ASABionicQuetzCharacterBPEerieDinosC"
+          "configKey": "ASAQuetzCharacterBPEerieDinosC"
         }
       ]
     },
     {
-      "name": "Raptor_Character_BP_Bionic_C",
+      "name": "Raptor_Character_BP_C",
       "dinos": [
         {
           "class": "/Game/PrimalEarth/Dinos/Raptor/BionicRaptor_Character_BP.BionicRaptor_Character_BP_C",
@@ -84,27 +281,165 @@
           "variant": "tek",
           "mods": [],
           "modsExcluded": [],
-          "maps": [],
+          "maps": [
+            "Extinction_WP",
+            "Astraeos_WP"
+          ],
           "mapsExcluded": [],
           "configKey": "BionicRaptorCharacterBPC"
         },
         {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieRaptor/ASABionicRaptor_Character_BP_EerieDinos.ASABionicRaptor_Character_BP_EerieDinos_C",
+          "class": "/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP_C",
           "allowBaby": true,
           "levelMultiplier": 1,
+          "variant": "normal",
+          "mods": [],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "RaptorCharacterBPC"
+        },
+        {
+          "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Raptor/AstralRaptor_Character_BP.AstralRaptor_Character_BP_C",
+          "allowBaby": false,
+          "levelMultiplier": 1,
+          "variant": "astral",
+          "mods": [],
+          "modsExcluded": [],
+          "maps": [
+            "Astraeos_WP"
+          ],
+          "mapsExcluded": [],
+          "configKey": "AstralRaptorCharacterBPC"
+        },
+        {
+          "class": "/Game/PrimalEarth/Dinos/Raptor/MegaRaptor_Character_BP.MegaRaptor_Character_BP_C",
+          "allowBaby": false,
+          "levelMultiplier": 1,
+          "variant": "alpha",
+          "mods": [],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ],
+          "configKey": "MegaRaptorCharacterBPC"
+        },
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Raptor/ARKOLOGY_MegaRaptor_Character_BP.ARKOLOGY_MegaRaptor_Character_BP_C",
+          "allowBaby": false,
+          "levelMultiplier": 1,
+          "variant": "arkology-alpha",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ],
+          "configKey": "ARKOLOGYMegaRaptorCharacterBPC"
+        },
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Raptor/ARKOLOGY_Raptor_Character_BP.ARKOLOGY_Raptor_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "arkology",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "ARKOLOGYRaptorCharacterBPC"
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieRaptor/ASABionicRaptor_Character_BP_EerieDinos.ASABionicRaptor_Character_BP_EerieDinos_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
           "variant": "eerie-tek",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "modsExcluded": [],
+          "maps": [
+            "Extinction_WP",
+            "Astraeos_WP"
+          ],
+          "mapsExcluded": [],
+          "configKey": "ASABionicRaptorCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieRaptor/ASARaptor_Character_BP_EerieDinos.ASARaptor_Character_BP_EerieDinos_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "eerie",
           "mods": [
             "Ark-EerieDinos"
           ],
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": [],
-          "configKey": "ASABionicRaptorCharacterBPEerieDinosC"
+          "configKey": "ASARaptorCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/overgrownvariants/variants/raptor/Raptor_Character_BP_insaluna.Raptor_Character_BP_insaluna_C",
+          "allowBaby": false,
+          "levelMultiplier": 1,
+          "variant": "insaluna",
+          "mods": [
+            "overgrownvariants"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "RaptorCharacterBPinsalunaC"
+        },
+        {
+          "class": "/PA_Ascension/Dinos/PaleoRaptor/Alpha/Paleo_AlphaRaptor_Character_BP.Paleo_AlphaRaptor_Character_BP_C",
+          "allowBaby": false,
+          "levelMultiplier": 1,
+          "variant": "paleo-alpha",
+          "mods": [
+            "PA_Ascension"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ],
+          "configKey": "PaleoAlphaRaptorCharacterBPC"
+        },
+        {
+          "class": "/PA_Ascension/Dinos/PaleoRaptor/Paleo_Raptor_Character_BP.Paleo_Raptor_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "paleo",
+          "mods": [
+            "PA_Ascension"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "PaleoRaptorCharacterBPC"
+        },
+        {
+          "class": "/Z-DinoVariants/z-raptor/Z_Raptor_Character_BP.Z_Raptor_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "z",
+          "mods": [
+            "Z-DinoVariants"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "ZRaptorCharacterBPC"
         }
       ]
     },
     {
-      "name": "Rex_Character_BP_Bionic_C",
+      "name": "Rex_Character_BP_C",
       "dinos": [
         {
           "class": "/Game/PrimalEarth/Dinos/Rex/BionicRex_Character_BP.BionicRex_Character_BP_C",
@@ -115,22 +450,180 @@
           "modsExcluded": [
             "PA_EVO_Pack_01"
           ],
-          "maps": [],
+          "maps": [
+            "Extinction_WP",
+            "Astraeos_WP"
+          ],
           "mapsExcluded": [],
           "configKey": "BionicRexCharacterBPC"
         },
         {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieRex/ASABionicRex_Character_BP_EerieDinos.ASABionicRex_Character_BP_EerieDinos_C",
+          "class": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP_C",
           "allowBaby": true,
           "levelMultiplier": 1,
+          "variant": "normal",
+          "mods": [],
+          "modsExcluded": [
+            "PA_EVO_Pack_01"
+          ],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "RexCharacterBPC"
+        },
+        {
+          "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Rex/AstralRex_Character_BP.AstralRex_Character_BP_C",
+          "allowBaby": false,
+          "levelMultiplier": 1,
+          "variant": "astral",
+          "mods": [],
+          "modsExcluded": [],
+          "maps": [
+            "Astraeos_WP"
+          ],
+          "mapsExcluded": [],
+          "configKey": "AstralRexCharacterBPC"
+        },
+        {
+          "class": "/Game/PrimalEarth/Dinos/Rex/MegaRex_Character_BP.MegaRex_Character_BP_C",
+          "allowBaby": false,
+          "levelMultiplier": 1,
+          "variant": "alpha",
+          "mods": [],
+          "modsExcluded": [
+            "PA_EVO_Pack_01"
+          ],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ],
+          "configKey": "MegaRexCharacterBPC"
+        },
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Rex/ARKOLOGY_MegaRex_Character_BP.ARKOLOGY_MegaRex_Character_BP_C",
+          "allowBaby": false,
+          "levelMultiplier": 1,
+          "variant": "arkology-alpha",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ],
+          "configKey": "ARKOLOGYMegaRexCharacterBPC"
+        },
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Rex/ARKOLOGY_Rex_Character_BP.ARKOLOGY_Rex_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "arkology",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "ARKOLOGYRexCharacterBPC"
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieRex/ASABionicRex_Character_BP_EerieDinos.ASABionicRex_Character_BP_EerieDinos_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
           "variant": "eerie-tek",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "modsExcluded": [],
+          "maps": [
+            "Extinction_WP",
+            "Astraeos_WP"
+          ],
+          "mapsExcluded": [],
+          "configKey": "ASABionicRexCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieRex/ASARex_Character_BP_EerieDinos.ASARex_Character_BP_EerieDinos_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "eerie",
           "mods": [
             "Ark-EerieDinos"
           ],
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": [],
-          "configKey": "ASABionicRexCharacterBPEerieDinosC"
+          "configKey": "ASARexCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/overgrownvariants/variants/rex/Rex_Character_BP_insaluna.Rex_Character_BP_insaluna_C",
+          "allowBaby": false,
+          "levelMultiplier": 1,
+          "variant": "insaluna",
+          "mods": [
+            "overgrownvariants"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "RexCharacterBPinsalunaC"
+        },
+        {
+          "class": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Alpha/EVO_Alpha_Rex_Character_BP.EVO_Alpha_Rex_Character_BP_C",
+          "allowBaby": false,
+          "levelMultiplier": 1,
+          "variant": "alpha",
+          "mods": [
+            "PA_EVO_Pack_01"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ],
+          "configKey": "EVOAlphaRexCharacterBPC"
+        },
+        {
+          "class": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Paleo/EVO_Paleo_Rex_Character_BP.EVO_Paleo_Rex_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "paleo",
+          "mods": [
+            "PA_EVO_Pack_01",
+            "PA_Ascension"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "EVOPaleoRexCharacterBPC"
+        },
+        {
+          "class": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Alpha/EVO_Alpha_Legacy_Rex_Character_BP.EVO_Alpha_Legacy_Rex_Character_BP_C",
+          "allowBaby": false,
+          "levelMultiplier": 1.2,
+          "variant": "legacy-alpha",
+          "mods": [
+            "PA_EVO_Pack_01"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ],
+          "configKey": "EVOAlphaLegacyRexCharacterBPC"
+        },
+        {
+          "class": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Legacy/EVO_Legacy_Rex_Character_BP.EVO_Legacy_Rex_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "legacy",
+          "mods": [
+            "PA_EVO_Pack_01"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "EVOLegacyRexCharacterBPC"
         },
         {
           "class": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Bionic/EVO_Tek_Rex_Character_BP.EVO_Tek_Rex_Character_BP_C",
@@ -141,14 +634,43 @@
             "PA_EVO_Pack_01"
           ],
           "modsExcluded": [],
-          "maps": [],
+          "maps": [
+            "Extinction_WP",
+            "Astraeos_WP"
+          ],
           "mapsExcluded": [],
           "configKey": "EVOTekRexCharacterBPC"
+        },
+        {
+          "class": "/PA_EVO_Pack_01/Dinos/EVO_Rex/EVO_Rex_Character_BP.EVO_Rex_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "normal",
+          "mods": [
+            "PA_EVO_Pack_01"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "EVORexCharacterBPC"
+        },
+        {
+          "class": "/SDinoVariants/S-Rex/S-Rex_Character_BP.S-Rex_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "s",
+          "mods": [
+            "SDinoVariants"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "SRexCharacterBPC"
         }
       ]
     },
     {
-      "name": "Stego_Character_BP_Bionic_C",
+      "name": "Stego_Character_BP_C",
       "dinos": [
         {
           "class": "/Game/PrimalEarth/Dinos/Stego/BionicStego_Character_BP.BionicStego_Character_BP_C",
@@ -157,27 +679,96 @@
           "variant": "tek",
           "mods": [],
           "modsExcluded": [],
-          "maps": [],
+          "maps": [
+            "Extinction_WP",
+            "Astraeos_WP"
+          ],
           "mapsExcluded": [],
           "configKey": "BionicStegoCharacterBPC"
         },
         {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieStegosaurus/ASABionicStego_Character_BP_EerieDinos.ASABionicStego_Character_BP_EerieDinos_C",
+          "class": "/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP_C",
           "allowBaby": true,
           "levelMultiplier": 1,
+          "variant": "normal",
+          "mods": [],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "StegoCharacterBPC"
+        },
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Stego/ARKOLOGY_Stego_Character_BP.ARKOLOGY_Stego_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "arkology",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "ARKOLOGYStegoCharacterBPC"
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieStegosaurus/ASABionicStego_Character_BP_EerieDinos.ASABionicStego_Character_BP_EerieDinos_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
           "variant": "eerie-tek",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "modsExcluded": [],
+          "maps": [
+            "Extinction_WP",
+            "Astraeos_WP"
+          ],
+          "mapsExcluded": [],
+          "configKey": "ASABionicStegoCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieStegosaurus/ASAStego_Character_BP_EerieDinos.ASAStego_Character_BP_EerieDinos_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "eerie",
           "mods": [
             "Ark-EerieDinos"
           ],
           "modsExcluded": [],
           "maps": [],
           "mapsExcluded": [],
-          "configKey": "ASABionicStegoCharacterBPEerieDinosC"
+          "configKey": "ASAStegoCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/overgrownvariants/variants/stego/Stego_Character_BP_insaluna.Stego_Character_BP_insaluna_C",
+          "allowBaby": false,
+          "levelMultiplier": 1,
+          "variant": "insaluna",
+          "mods": [
+            "overgrownvariants"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "StegoCharacterBPinsalunaC"
+        },
+        {
+          "class": "/PA_Ascension/Dinos/PaleoStego/Paleo_Stego_Character_BP.Paleo_Stego_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "paleo",
+          "mods": [
+            "PA_Ascension"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "PaleoStegoCharacterBPC"
         }
       ]
     },
     {
-      "name": "Trike_Character_BP_Bionic_C",
+      "name": "Trike_Character_BP_C",
       "dinos": [
         {
           "class": "/Game/PrimalEarth/Dinos/Trike/BionicTrike_Character_BP.BionicTrike_Character_BP_C",
@@ -186,9 +777,103 @@
           "variant": "tek",
           "mods": [],
           "modsExcluded": [],
-          "maps": [],
+          "maps": [
+            "Extinction_WP",
+            "Astraeos_WP"
+          ],
           "mapsExcluded": [],
           "configKey": "BionicTrikeCharacterBPC"
+        },
+        {
+          "class": "/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP.Trike_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "normal",
+          "mods": [],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "TrikeCharacterBPC"
+        },
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Trike/ARKOLOGY_MegaTrike_Character_BP.ARKOLOGY_MegaTrike_Character_BP_C",
+          "allowBaby": false,
+          "levelMultiplier": 1,
+          "variant": "arkology-alpha",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [
+            "Astraeos_WP"
+          ],
+          "configKey": "ARKOLOGYMegaTrikeCharacterBPC"
+        },
+        {
+          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Trike/ARKOLOGY_Trike_Character_BP.ARKOLOGY_Trike_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "arkology",
+          "mods": [
+            "ARKOLOGY_NEWENCOUNTERS"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "ARKOLOGYTrikeCharacterBPC"
+        },
+        {
+          "class": "/Ark-EerieDinos/EerieVariants/EerieTriceratops/ASATrike_Character_BP_EerieDinos.ASATrike_Character_BP_EerieDinos_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "eerie",
+          "mods": [
+            "Ark-EerieDinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "ASATrikeCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/overgrownvariants/variants/trike/Trike_Character_BP_Insaluna.Trike_Character_BP_Insaluna_C",
+          "allowBaby": false,
+          "levelMultiplier": 1,
+          "variant": "insaluna",
+          "mods": [
+            "overgrownvariants"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "TrikeCharacterBPInsalunaC"
+        },
+        {
+          "class": "/PA_Ascension/Dinos/PaleoTrike/Paleo_Trike_Character_BP.Paleo_Trike_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "paleo",
+          "mods": [
+            "PA_Ascension"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "PaleoTrikeCharacterBPC"
+        },
+        {
+          "class": "/SDinoVariants/S-Trike/S-Trike_Character_BP.S-Trike_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "s",
+          "mods": [
+            "SDinoVariants"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "STrikeCharacterBPC"
         }
       ]
     },
@@ -4651,78 +5336,6 @@
       ]
     },
     {
-      "name": "Gigant_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "normal",
-          "mods": [],
-          "modsExcluded": [
-            "PA_EVO_Pack_01"
-          ],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "GigantCharacterBPC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Giga/ARKOLOGY_MegaGigant_Character_BP.ARKOLOGY_MegaGigant_Character_BP_C",
-          "allowBaby": false,
-          "levelMultiplier": 1,
-          "variant": "arkology-alpha",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ],
-          "configKey": "ARKOLOGYMegaGigantCharacterBPC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Giga/ARKOLOGY_Gigant_Character_BP.ARKOLOGY_Gigant_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYGigantCharacterBPC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieGiganotosaurus/ASAGigant_Character_BP_EerieDinos.ASAGigant_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAGigantCharacterBPEerieDinosC"
-        },
-        {
-          "class": "/PA_EVO_Pack_01/Dinos/EVO_Giga/EVO_Giga_Character_BP.EVO_Giga_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "normal",
-          "mods": [
-            "PA_EVO_Pack_01"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "EVOGigaCharacterBPC"
-        }
-      ]
-    },
-    {
       "name": "Gigant_Character_BP_TekCave_C",
       "dinos": [
         {
@@ -6530,74 +7143,6 @@
       ]
     },
     {
-      "name": "Para_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Para/Para_Character_BP.Para_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "normal",
-          "mods": [],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ParaCharacterBPC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Parasaur/ARKOLOGY_Para_Character_BP.ARKOLOGY_Para_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYParaCharacterBPC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieParasaur/ASAPara_Character_BP_EerieDinos.ASAPara_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAParaCharacterBPEerieDinosC"
-        },
-        {
-          "class": "/overgrownvariants/variants/parasaur/Para_Character_BP_InsaLuna.Para_Character_BP_InsaLuna_C",
-          "allowBaby": false,
-          "levelMultiplier": 1,
-          "variant": "insaluna",
-          "mods": [
-            "overgrownvariants"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ParaCharacterBPInsaLunaC"
-        },
-        {
-          "class": "/Z-DinoVariants/z-parasaur/Z_Parasaur_Character_BP.Z_Parasaur_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "z",
-          "mods": [
-            "Z-DinoVariants"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ZParasaurCharacterBPC"
-        }
-      ]
-    },
-    {
       "name": "Paracer_Character_BP_C",
       "dinos": [
         {
@@ -7036,383 +7581,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "PurloviaCharacterBPPolarC"
-        }
-      ]
-    },
-    {
-      "name": "Quetz_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Quetzalcoatlus/Quetz_Character_BP.Quetz_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "normal",
-          "mods": [],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "QuetzCharacterBPC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Quetzal/ARKOLOGY_MegaQuetz_Character_BP.ARKOLOGY_MegaQuetz_Character_BP_C",
-          "allowBaby": false,
-          "levelMultiplier": 1,
-          "variant": "arkology-alpha",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ],
-          "configKey": "ARKOLOGYMegaQuetzCharacterBPC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Quetzal/ARKOLOGY_Quetz_Character_BP.ARKOLOGY_Quetz_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYQuetzCharacterBPC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieQuetzal/ASAQuetz_Character_BP_EerieDinos.ASAQuetz_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAQuetzCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Raptor_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "normal",
-          "mods": [],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "RaptorCharacterBPC"
-        },
-        {
-          "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Raptor/AstralRaptor_Character_BP.AstralRaptor_Character_BP_C",
-          "allowBaby": false,
-          "levelMultiplier": 1,
-          "variant": "astral",
-          "mods": [],
-          "modsExcluded": [],
-          "maps": [
-            "Astraeos_WP"
-          ],
-          "mapsExcluded": [],
-          "configKey": "AstralRaptorCharacterBPC"
-        },
-        {
-          "class": "/Game/PrimalEarth/Dinos/Raptor/MegaRaptor_Character_BP.MegaRaptor_Character_BP_C",
-          "allowBaby": false,
-          "levelMultiplier": 1,
-          "variant": "alpha",
-          "mods": [],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ],
-          "configKey": "MegaRaptorCharacterBPC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Raptor/ARKOLOGY_MegaRaptor_Character_BP.ARKOLOGY_MegaRaptor_Character_BP_C",
-          "allowBaby": false,
-          "levelMultiplier": 1,
-          "variant": "arkology-alpha",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ],
-          "configKey": "ARKOLOGYMegaRaptorCharacterBPC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Raptor/ARKOLOGY_Raptor_Character_BP.ARKOLOGY_Raptor_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYRaptorCharacterBPC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieRaptor/ASARaptor_Character_BP_EerieDinos.ASARaptor_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASARaptorCharacterBPEerieDinosC"
-        },
-        {
-          "class": "/overgrownvariants/variants/raptor/Raptor_Character_BP_insaluna.Raptor_Character_BP_insaluna_C",
-          "allowBaby": false,
-          "levelMultiplier": 1,
-          "variant": "insaluna",
-          "mods": [
-            "overgrownvariants"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "RaptorCharacterBPinsalunaC"
-        },
-        {
-          "class": "/PA_Ascension/Dinos/PaleoRaptor/Alpha/Paleo_AlphaRaptor_Character_BP.Paleo_AlphaRaptor_Character_BP_C",
-          "allowBaby": false,
-          "levelMultiplier": 1,
-          "variant": "paleo-alpha",
-          "mods": [
-            "PA_Ascension"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ],
-          "configKey": "PaleoAlphaRaptorCharacterBPC"
-        },
-        {
-          "class": "/PA_Ascension/Dinos/PaleoRaptor/Paleo_Raptor_Character_BP.Paleo_Raptor_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "paleo",
-          "mods": [
-            "PA_Ascension"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "PaleoRaptorCharacterBPC"
-        },
-        {
-          "class": "/Z-DinoVariants/z-raptor/Z_Raptor_Character_BP.Z_Raptor_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "z",
-          "mods": [
-            "Z-DinoVariants"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ZRaptorCharacterBPC"
-        }
-      ]
-    },
-    {
-      "name": "Rex_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "normal",
-          "mods": [],
-          "modsExcluded": [
-            "PA_EVO_Pack_01"
-          ],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "RexCharacterBPC"
-        },
-        {
-          "class": "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Astral_Creatures/Rex/AstralRex_Character_BP.AstralRex_Character_BP_C",
-          "allowBaby": false,
-          "levelMultiplier": 1,
-          "variant": "astral",
-          "mods": [],
-          "modsExcluded": [],
-          "maps": [
-            "Astraeos_WP"
-          ],
-          "mapsExcluded": [],
-          "configKey": "AstralRexCharacterBPC"
-        },
-        {
-          "class": "/Game/PrimalEarth/Dinos/Rex/MegaRex_Character_BP.MegaRex_Character_BP_C",
-          "allowBaby": false,
-          "levelMultiplier": 1,
-          "variant": "alpha",
-          "mods": [],
-          "modsExcluded": [
-            "PA_EVO_Pack_01"
-          ],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ],
-          "configKey": "MegaRexCharacterBPC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Rex/ARKOLOGY_MegaRex_Character_BP.ARKOLOGY_MegaRex_Character_BP_C",
-          "allowBaby": false,
-          "levelMultiplier": 1,
-          "variant": "arkology-alpha",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ],
-          "configKey": "ARKOLOGYMegaRexCharacterBPC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Rex/ARKOLOGY_Rex_Character_BP.ARKOLOGY_Rex_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYRexCharacterBPC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieRex/ASARex_Character_BP_EerieDinos.ASARex_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASARexCharacterBPEerieDinosC"
-        },
-        {
-          "class": "/overgrownvariants/variants/rex/Rex_Character_BP_insaluna.Rex_Character_BP_insaluna_C",
-          "allowBaby": false,
-          "levelMultiplier": 1,
-          "variant": "insaluna",
-          "mods": [
-            "overgrownvariants"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "RexCharacterBPinsalunaC"
-        },
-        {
-          "class": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Alpha/EVO_Alpha_Rex_Character_BP.EVO_Alpha_Rex_Character_BP_C",
-          "allowBaby": false,
-          "levelMultiplier": 1,
-          "variant": "alpha",
-          "mods": [
-            "PA_EVO_Pack_01"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ],
-          "configKey": "EVOAlphaRexCharacterBPC"
-        },
-        {
-          "class": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Paleo/EVO_Paleo_Rex_Character_BP.EVO_Paleo_Rex_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "paleo",
-          "mods": [
-            "PA_EVO_Pack_01",
-            "PA_Ascension"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "EVOPaleoRexCharacterBPC"
-        },
-        {
-          "class": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Alpha/EVO_Alpha_Legacy_Rex_Character_BP.EVO_Alpha_Legacy_Rex_Character_BP_C",
-          "allowBaby": false,
-          "levelMultiplier": 1.2,
-          "variant": "legacy-alpha",
-          "mods": [
-            "PA_EVO_Pack_01"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ],
-          "configKey": "EVOAlphaLegacyRexCharacterBPC"
-        },
-        {
-          "class": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Legacy/EVO_Legacy_Rex_Character_BP.EVO_Legacy_Rex_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1.2,
-          "variant": "legacy",
-          "mods": [
-            "PA_EVO_Pack_01"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "EVOLegacyRexCharacterBPC"
-        },
-        {
-          "class": "/PA_EVO_Pack_01/Dinos/EVO_Rex/EVO_Rex_Character_BP.EVO_Rex_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "normal",
-          "mods": [
-            "PA_EVO_Pack_01"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "EVORexCharacterBPC"
-        },
-        {
-          "class": "/SDinoVariants/S-Rex/S-Rex_Character_BP.S-Rex_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "s",
-          "mods": [
-            "SDinoVariants"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "SRexCharacterBPC"
         }
       ]
     },
@@ -7936,74 +8104,6 @@
       ]
     },
     {
-      "name": "Stego_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "normal",
-          "mods": [],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "StegoCharacterBPC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Stego/ARKOLOGY_Stego_Character_BP.ARKOLOGY_Stego_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYStegoCharacterBPC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieStegosaurus/ASAStego_Character_BP_EerieDinos.ASAStego_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAStegoCharacterBPEerieDinosC"
-        },
-        {
-          "class": "/overgrownvariants/variants/stego/Stego_Character_BP_insaluna.Stego_Character_BP_insaluna_C",
-          "allowBaby": false,
-          "levelMultiplier": 1,
-          "variant": "insaluna",
-          "mods": [
-            "overgrownvariants"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "StegoCharacterBPinsalunaC"
-        },
-        {
-          "class": "/PA_Ascension/Dinos/PaleoStego/Paleo_Stego_Character_BP.Paleo_Stego_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "paleo",
-          "mods": [
-            "PA_Ascension"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "PaleoStegoCharacterBPC"
-        }
-      ]
-    },
-    {
       "name": "Tapejara_Character_BP_C",
       "dinos": [
         {
@@ -8386,102 +8486,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ToadCharacterBPinsalunaC"
-        }
-      ]
-    },
-    {
-      "name": "Trike_Character_BP_C",
-      "dinos": [
-        {
-          "class": "/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP.Trike_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "normal",
-          "mods": [],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "TrikeCharacterBPC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Trike/ARKOLOGY_MegaTrike_Character_BP.ARKOLOGY_MegaTrike_Character_BP_C",
-          "allowBaby": false,
-          "levelMultiplier": 1,
-          "variant": "arkology-alpha",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [
-            "Astraeos_WP"
-          ],
-          "configKey": "ARKOLOGYMegaTrikeCharacterBPC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Trike/ARKOLOGY_Trike_Character_BP.ARKOLOGY_Trike_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYTrikeCharacterBPC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieTriceratops/ASATrike_Character_BP_EerieDinos.ASATrike_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASATrikeCharacterBPEerieDinosC"
-        },
-        {
-          "class": "/overgrownvariants/variants/trike/Trike_Character_BP_Insaluna.Trike_Character_BP_Insaluna_C",
-          "allowBaby": false,
-          "levelMultiplier": 1,
-          "variant": "insaluna",
-          "mods": [
-            "overgrownvariants"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "TrikeCharacterBPInsalunaC"
-        },
-        {
-          "class": "/PA_Ascension/Dinos/PaleoTrike/Paleo_Trike_Character_BP.Paleo_Trike_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "paleo",
-          "mods": [
-            "PA_Ascension"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "PaleoTrikeCharacterBPC"
-        },
-        {
-          "class": "/SDinoVariants/S-Trike/S-Trike_Character_BP.S-Trike_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "s",
-          "mods": [
-            "SDinoVariants"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "STrikeCharacterBPC"
         }
       ]
     },
@@ -12214,7 +12218,7 @@
   "variants": [
     {
       "name": "tek",
-      "weight": 1,
+      "weight": 0.05,
       "configKey": "Tek",
       "weightConfigKey": "TekSpawnWeight"
     },
@@ -12298,7 +12302,7 @@
     },
     {
       "name": "eerie-tek",
-      "weight": 1.2,
+      "weight": 0.05,
       "configKey": "EerieTek",
       "weightConfigKey": "EerieTekSpawnWeight"
     },
