@@ -2,7 +2,7 @@
     "variantName": "legacy-alpha",
     "allowBaby": false,
     "levelMultiplier": 1.2,
-    "weight": 0.05,
+    "weight": 0.01,
     "mods": [
         {
             "id": 970540,
