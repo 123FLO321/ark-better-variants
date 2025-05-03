@@ -2,7 +2,7 @@
     "variantName": "eerie-tek",
     "allowBaby": true,
     "levelMultiplier": 1.2,
-    "weight": 0.05,
+    "weight": 0.00125,
     "mods": [
         {
             "id": 935916,
