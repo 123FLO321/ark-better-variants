@@ -1,0 +1,27 @@
+{
+    "variantName": "v-common",
+    "allowBaby": true,
+    "levelMultiplier": 1.0,
+    "weight": 0.11111,
+    "mods": [
+        {
+            "id": 1003065,
+            "name": "V-Dinos",
+            "type": "required"
+        }
+    ],
+    "dinos": [
+        {
+            "class": "/V-Dinos/V-SpineyLizard/V-SpineyLizard_Character_BP.V-SpineyLizard_Character_BP_C",
+            "group": "SpineyLizard_Character_BP_C"
+        },
+        {
+            "class": "/V-Dinos/V-Gigantoraptor/V-Gigantoraptor_Character_BP.V-Gigantoraptor_Character_BP_C",
+            "group": "Gigantoraptor_Character_BP_C"
+        },
+        {
+            "class": "/V-Dinos/V-Otter/V-Otter_Character_BP.V-Otter_Character_BP_C",
+            "group": "Otter_Character_BP_C"
+        }
+    ]
+}

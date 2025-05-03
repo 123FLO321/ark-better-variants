@@ -1,0 +1,51 @@
+{
+    "variantName": "v-uncommon",
+    "allowBaby": true,
+    "levelMultiplier": 1.0,
+    "weight": 0.5263,
+    "mods": [
+        {
+            "id": 1003065,
+            "name": "V-Dinos",
+            "type": "required"
+        }
+    ],
+    "dinos": [
+        {
+            "class": "/V-Dinos/V-Microraptor/Macroraptor_Character_BP.Macroraptor_Character_BP_C",
+            "group": "Microraptor_Character_BP_C"
+        },
+        {
+            "class": "/V-Dinos/V-Pachy/V-Pachy_Character_BP.V-Pachy_Character_BP_C",
+            "group": "Pachy_Character_BP_C"
+        },
+        {
+            "class": "/V-Dinos/V-Managarmr/V-IceJumper_Character_BP.V-IceJumper_Character_BP_C",
+            "group": "IceJumper_Character_BP_C"
+        },
+        {
+            "class": "/V-Dinos/V-Kentro/V-Kentro_Character_BP.V-Kentro_Character_BP_C",
+            "group": "Kentro_Character_BP_C"
+        },
+        {
+            "class": "/V-Dinos/V-Lymantria/V-Moth_Character_BP.V-Moth_Character_BP_C",
+            "group": "Moth_Character_BP_C"
+        },
+        {
+            "class": "/V-Dinos/V-RockDrake/V-Rockdrake_Character_BP.V-Rockdrake_Character_BP_C",
+            "group": "RockDrake_Character_BP_C"
+        },
+        {
+            "class": "/V-Dinos/V-Jerboa/V-Jerboa_Character_BP.V-Jerboa_Character_BP_C",
+            "group": "Jerboa_Character_BP_C"
+        },
+        {
+            "class": "/V-Dinos/V-Velonasaur/V-Spindles_Character_BP.V-Spindles_Character_BP_C",
+            "group": "Spindles_Character_BP_C"
+        },
+        {
+            "class": "/V-Dinos/V-Spino/V-Spino_Character_BP.V-Spino_Character_BP_C",
+            "group": "Spino_Character_BP_C"
+        }
+    ]
+}
