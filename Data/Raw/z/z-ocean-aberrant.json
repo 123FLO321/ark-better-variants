@@ -10,6 +10,7 @@
             "type": "required"
         }
     ],
+    "maps": [],
     "dinos": [
         {
             "class": "/Z_VariantsOceanLife/z-dolphin/Z_Aberrant_Dolphin_Character_BP.Z_Aberrant_Dolphin_Character_BP_C",

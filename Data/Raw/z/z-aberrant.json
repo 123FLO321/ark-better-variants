@@ -10,6 +10,7 @@
             "type": "required"
         }
     ],
+    "maps": [],
     "dinos": [
         {
             "class": "/Z-DinoVariants/z-aberrantotter/Z_Aberrant_Otter_Character_BP.Z_Aberrant_Otter_Character_BP_C",

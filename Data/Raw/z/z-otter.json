@@ -10,6 +10,7 @@
             "type": "required"
         }
     ],
+    "maps": [],
     "dinos": [
         {
             "class": "/Z-VariantsOtterAdditions/z-cupidotter/Z_CupidOtter_Character_BP.Z_CupidOtter_Character_BP_C",

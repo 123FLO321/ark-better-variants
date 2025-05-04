@@ -10,6 +10,7 @@
             "type": "required"
         }
     ],
+    "maps": [],
     "dinos": [
         {
             "class": "/Z-DinoVariants/z-argentavis/Z_Argentavis_Character_BP.Z_Argentavis_Character_BP_C",
