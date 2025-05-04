@@ -10,7 +10,12 @@
             "type": "required"
         }
     ],
-    "maps": [],
+    "maps": [
+        {
+            "type": "required",
+            "name": "Amissa_WP"
+        }
+    ],
     "dinos": [
         {
             "class": "/AmissaAdditions/Assets/Dinos/Amissa_Wyverns/WyvernVariants/AmissaWyvern_Character_BP_Fire.AmissaWyvern_Character_BP_Fire_C",
