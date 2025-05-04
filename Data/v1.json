@@ -9,7 +9,9 @@
           "levelMultiplier": 1.2,
           "variant": "tek",
           "mods": [],
-          "modsExcluded": [],
+          "modsExcluded": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
           "maps": [
             "Extinction_WP",
             "Astraeos_WP"
@@ -83,6 +85,32 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "EVOGigaCharacterBPC"
+        },
+        {
+          "class": "/Zytharian_Critters_Feathered_Collection/Creatures/Feathered_Giga/Gigant_Character_BP_Feathered.Gigant_Character_BP_Feathered_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "feather",
+          "mods": [
+            "Zytharian_Critters_Feathered_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "GigantCharacterBPFeatheredC"
+        },
+        {
+          "class": "/Game/PrimalEarth/Dinos/Giganotosaurus/BionicGigant_Character_BP.BionicGigant_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "BionicGigantCharacterBPC"
         }
       ]
     },
@@ -95,7 +123,9 @@
           "levelMultiplier": 1.2,
           "variant": "tek",
           "mods": [],
-          "modsExcluded": [],
+          "modsExcluded": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
           "maps": [
             "Extinction_WP",
             "Astraeos_WP"
@@ -181,6 +211,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ZParasaurCharacterBPC"
+        },
+        {
+          "class": "/Game/PrimalEarth/Dinos/Para/BionicPara_Character_BP.BionicPara_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "BionicParaCharacterBPC"
         }
       ]
     },
@@ -193,7 +236,9 @@
           "levelMultiplier": 1.2,
           "variant": "tek",
           "mods": [],
-          "modsExcluded": [],
+          "modsExcluded": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
           "maps": [
             "Extinction_WP",
             "Astraeos_WP"
@@ -268,6 +313,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ASAQuetzCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/Game/PrimalEarth/Dinos/Quetzalcoatlus/BionicQuetz_Character_BP.BionicQuetz_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "BionicQuetzCharacterBPC"
         }
       ]
     },
@@ -280,7 +338,9 @@
           "levelMultiplier": 1.2,
           "variant": "tek",
           "mods": [],
-          "modsExcluded": [],
+          "modsExcluded": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
           "maps": [
             "Extinction_WP",
             "Astraeos_WP"
@@ -435,6 +495,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ZRaptorCharacterBPC"
+        },
+        {
+          "class": "/Game/PrimalEarth/Dinos/Raptor/BionicRaptor_Character_BP.BionicRaptor_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "BionicRaptorCharacterBPC"
         }
       ]
     },
@@ -448,7 +521,8 @@
           "variant": "tek",
           "mods": [],
           "modsExcluded": [
-            "PA_EVO_Pack_01"
+            "PA_EVO_Pack_01",
+            "Zytharian_Critters_Tek_Collection"
           ],
           "maps": [
             "Extinction_WP",
@@ -666,6 +740,32 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "SRexCharacterBPC"
+        },
+        {
+          "class": "/Zytharian_Critters_Feathered_Collection/Creatures/Feathered_Rex/Rex_Character_BP_Feathered.Rex_Character_BP_Feathered_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "feather",
+          "mods": [
+            "Zytharian_Critters_Feathered_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "RexCharacterBPFeatheredC"
+        },
+        {
+          "class": "/Game/PrimalEarth/Dinos/Rex/BionicRex_Character_BP.BionicRex_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "BionicRexCharacterBPC"
         }
       ]
     },
@@ -678,7 +778,9 @@
           "levelMultiplier": 1.2,
           "variant": "tek",
           "mods": [],
-          "modsExcluded": [],
+          "modsExcluded": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
           "maps": [
             "Extinction_WP",
             "Astraeos_WP"
@@ -764,6 +866,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "PaleoStegoCharacterBPC"
+        },
+        {
+          "class": "/Game/PrimalEarth/Dinos/Stego/BionicStego_Character_BP.BionicStego_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "BionicStegoCharacterBPC"
         }
       ]
     },
@@ -776,7 +891,9 @@
           "levelMultiplier": 1.2,
           "variant": "tek",
           "mods": [],
-          "modsExcluded": [],
+          "modsExcluded": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
           "maps": [
             "Extinction_WP",
             "Astraeos_WP"
@@ -874,6 +991,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "STrikeCharacterBPC"
+        },
+        {
+          "class": "/Game/PrimalEarth/Dinos/Trike/BionicTrike_Character_BP.BionicTrike_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "BionicTrikeCharacterBPC"
         }
       ]
     },
@@ -1004,6 +1134,19 @@
           "configKey": "SCeratosaurusCharacterBPASAC"
         },
         {
+          "class": "/V-Dinos/V-Cerato/V-Ceratosaurus_Character_BP_ASA.V-Ceratosaurus_Character_BP_ASA_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-rare",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VCeratosaurusCharacterBPASAC"
+        },
+        {
           "class": "/Z-DinoVariants/z-cera/Z_Ceratosaurus_Character_BP_ASA.Z_Ceratosaurus_Character_BP_ASA_C",
           "allowBaby": true,
           "levelMultiplier": 1,
@@ -1015,6 +1158,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ZCeratosaurusCharacterBPASAC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Cerato/Ceratosaurus_Character_BP_ASA_Tek.Ceratosaurus_Character_BP_ASA_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "CeratosaurusCharacterBPASATekC"
         }
       ]
     },
@@ -1445,6 +1601,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "PaleoGigantoraptorCharacterBPC"
+        },
+        {
+          "class": "/V-Dinos/V-Gigantoraptor/V-Gigantoraptor_Character_BP.V-Gigantoraptor_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-common",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VGigantoraptorCharacterBPC"
         }
       ]
     },
@@ -1728,6 +1897,32 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ASABasiliskCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/V-Dinos/V-Basilisk/V-Basilisk_Character_BP.V-Basilisk_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-rare",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VBasiliskCharacterBPC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Basilisk/Basilisk_Character_BP_Tek.Basilisk_Character_BP_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "BasiliskCharacterBPTekC"
         }
       ]
     },
@@ -1798,6 +1993,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ZRavagerCharacterBPC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Ravager/CaveWolf_Character_BP_Tek.CaveWolf_Character_BP_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "CaveWolfCharacterBPTekC"
         }
       ]
     },
@@ -1827,6 +2035,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ARKOLOGYChupaCabraCharacterBPC"
+        },
+        {
+          "class": "/V-Dinos/V-Nameless/V-Chupacabra_Character_Bp.V-Chupacabra_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-rare",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VChupacabraCharacterBPC"
         }
       ]
     },
@@ -1942,6 +2163,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ASACrabCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/V-Dinos/V-Karkinos/V-Crab_Character_BP.V-Crab_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-rare",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VCrabCharacterBPC"
         }
       ]
     },
@@ -2000,6 +2234,32 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ASALanternBirdCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/V-Dinos/V-Shinepets/V-Featherlight/V-Lanternbird_Character_BP.V-Lanternbird_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-rare",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VLanternbirdCharacterBPC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Featherlight/LanternBird_Character_BP_Tek.LanternBird_Character_BP_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "LanternBirdCharacterBPTekC"
         }
       ]
     },
@@ -2057,6 +2317,19 @@
           "configKey": "SLanternGoatCharacterBPC"
         },
         {
+          "class": "/V-Dinos/V-Shinepets/V-Shinehorn/V-Lanterngoat_Character_BP.V-Lanterngoat_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-rare",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VLanterngoatCharacterBPC"
+        },
+        {
           "class": "/Z-DinoVariants/z-shinehorn/Z_Shinehorn_Character_BP.Z_Shinehorn_Character_BP_C",
           "allowBaby": true,
           "levelMultiplier": 1,
@@ -2068,6 +2341,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ZShinehornCharacterBPC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Shinehorn/LanternGoat_Character_BP_Tek.LanternGoat_Character_BP_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "LanternGoatCharacterBPTekC"
         }
       ]
     },
@@ -2178,6 +2464,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "LanternPugCharacterBPInsalunaC"
+        },
+        {
+          "class": "/V-Dinos/V-Shinepets/V-Bulbdog/V-Lanternpug_Character_BP.V-Lanternpug_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-rare",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VLanternpugCharacterBPC"
         },
         {
           "class": "/Z-DinoVariants/z-bulbdog/Z_Bulbdog_Character_BP.Z_Bulbdog_Character_BP_C",
@@ -2332,6 +2631,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "SXenomorphCharacterBPFemaleC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Reaper/Xenomorph_Character_BP_Female_Tek.Xenomorph_Character_BP_Female_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "XenomorphCharacterBPFemaleTekC"
         }
       ]
     },
@@ -2475,6 +2787,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "SXenomorphCharacterBPMaleTamedC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Reaper/Xenomorph_Character_BP_Male_Tamed_Tek.Xenomorph_Character_BP_Male_Tamed_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "XenomorphCharacterBPMaleTamedTekC"
         }
       ]
     },
@@ -2504,6 +2829,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ARKOLOGYPteroteuthisCharBPC"
+        },
+        {
+          "class": "/V-Dinos/V-Seeker/V-Pteroteuthis_Character_BP.V-Pteroteuthis_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-rare",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VPteroteuthisCharacterBPC"
         }
       ]
     },
@@ -2616,6 +2954,45 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "SRockDrakeCharacterBPC"
+        },
+        {
+          "class": "/V-Dinos/V-RockDrake/V-Rockdrake_Character_BP.V-Rockdrake_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-uncommon",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VRockdrakeCharacterBPC"
+        },
+        {
+          "class": "/Zytharian_Critters_Skeletal_Collection/Creatures/Skeletal_RockDrake/RockDrake_Character_BP_Skeletal.RockDrake_Character_BP_Skeletal_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "skeletal",
+          "mods": [
+            "Zytharian_Critters_Skeletal_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "RockDrakeCharacterBPSkeletalC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_RockDrake/RockDrake_Character_BP_Tek.RockDrake_Character_BP_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "RockDrakeCharacterBPTekC"
         }
       ]
     },
@@ -2674,6 +3051,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ASAGachaCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Gacha/Gacha_Character_BP_Tek.Gacha_Character_BP_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "GachaCharacterBPTekC"
         }
       ]
     },
@@ -2760,6 +3150,32 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ASAIceJumperCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/V-Dinos/V-Managarmr/V-IceJumper_Character_BP.V-IceJumper_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-uncommon",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VIceJumperCharacterBPC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Mana/IceJumper_Character_BP_Tek.IceJumper_Character_BP_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "IceJumperCharacterBPTekC"
         }
       ]
     },
@@ -2818,6 +3234,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "SOwlCharacterBPC"
+        },
+        {
+          "class": "/V-Dinos/V-Owl/V-Owl_Character_BP.V-Owl_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-rare",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VOwlCharacterBPC"
         }
       ]
     },
@@ -2904,6 +3333,32 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "SSpindlesCharacterBPC"
+        },
+        {
+          "class": "/V-Dinos/V-Velonasaur/V-Spindles_Character_BP.V-Spindles_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-uncommon",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VSpindlesCharacterBPC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Velo/Spindles_Character_BP_Tek.Spindles_Character_BP_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "SpindlesCharacterBPTekC"
         }
       ]
     },
@@ -3110,6 +3565,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ASAAchatinaCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Achatina/Achatina_Character_BP_Tek.Achatina_Character_BP_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "AchatinaCharacterBPTekC"
         }
       ]
     },
@@ -3180,6 +3648,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "SAlloCharacterBPC"
+        },
+        {
+          "class": "/V-Dinos/V-Allo/V-Allo_Character_BP.V-Allo_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-rare",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VAlloCharacterBPC"
         }
       ]
     },
@@ -3347,6 +3828,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "SAnkyloCharacterBPC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Anky/Ankylo_Character_BP_Tek.Ankylo_Character_BP_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "AnkyloCharacterBPTekC"
         }
       ]
     },
@@ -3479,7 +3973,9 @@
             "AmissaAdditions"
           ],
           "modsExcluded": [],
-          "maps": [],
+          "maps": [
+            "Amissa_WP"
+          ],
           "mapsExcluded": [],
           "configKey": "MaracawArgentCharacterBPC"
         },
@@ -3534,6 +4030,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ZArgentavisCharacterBPC"
+        },
+        {
+          "class": "/Zytharian_Critters_Skeletal_Collection/Creatures/Skeletal_Argy/Argent_Character_BP_Skeletal.Argent_Character_BP_Skeletal_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "skeletal",
+          "mods": [
+            "Zytharian_Critters_Skeletal_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "ArgentCharacterBPSkeletalC"
         }
       ]
     },
@@ -3661,6 +4170,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ZBaryonyxCharacterBPC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Bary/Baryonyx_Character_BP_Tek.Baryonyx_Character_BP_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "BaryonyxCharacterBPTekC"
         }
       ]
     },
@@ -3784,6 +4306,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ASABatCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/V-Dinos/V-Bat/V-Bat_Character_BP.V-Bat_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-rare",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VBatCharacterBPC"
         }
       ]
     },
@@ -3842,6 +4377,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "BeeCharacterBPC"
+        },
+        {
+          "class": "/Zytharian_Critters_Skeletal_Collection/Creatures/Skeletal_Bee/Bee_Character_BP_Skeletal.Bee_Character_BP_Skeletal_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "skeletal",
+          "mods": [
+            "Zytharian_Critters_Skeletal_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "BeeCharacterBPSkeletalC"
         }
       ]
     },
@@ -3958,6 +4506,45 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ASABoaFrillCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/V-Dinos/V-Titanoboa/V-BoaFrill_Character_BP.V-BoaFrill_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-rare",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VBoaFrillCharacterBPC"
+        },
+        {
+          "class": "/Zytharian_Critters_Skeletal_Collection/Creatures/Skeletal_Boa/BoaFrill_Character_BP_Skeletal.BoaFrill_Character_BP_Skeletal_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "skeletal",
+          "mods": [
+            "Zytharian_Critters_Skeletal_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "BoaFrillCharacterBPSkeletalC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Boa/BoaFrill_Character_BP_Tek.BoaFrill_Character_BP_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "BoaFrillCharacterBPTekC"
         }
       ]
     },
@@ -4831,6 +5418,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ZDirewolfCharacterBPC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Direwolf/Direwolf_Character_BP_Tek.Direwolf_Character_BP_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "DirewolfCharacterBPTekC"
         }
       ]
     },
@@ -4886,6 +5486,32 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ZDodoCharacterBPC"
+        },
+        {
+          "class": "/Zytharian_Critters_Skeletal_Collection/Creatures/Skeletal_Dodo/Dodo_Character_BP_Skeletal.Dodo_Character_BP_Skeletal_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "skeletal",
+          "mods": [
+            "Zytharian_Critters_Skeletal_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "DodoCharacterBPSkeletalC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Dodo/Dodo_Character_BP_Tek.Dodo_Character_BP_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "DodoCharacterBPTekC"
         }
       ]
     },
@@ -5051,6 +5677,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ARKOLOGYDragonflyCharacterBPC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Dragonfly/Dragonfly_Character_BP_Tek.Dragonfly_Character_BP_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "DragonflyCharacterBPTekC"
         }
       ]
     },
@@ -5093,6 +5732,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ASADungBeetleCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/V-Dinos/V-DungBeetle/V-DungBeetle_Character_BP.V-DungBeetle_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-rare",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VDungBeetleCharacterBPC"
         }
       ]
     },
@@ -5232,6 +5884,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ZEquusCharacterBPC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Equus/Equus_Character_BP_Tek.Equus_Character_BP_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "EquusCharacterBPTekC"
         }
       ]
     },
@@ -5435,6 +6100,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ASAHyaenodonCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/V-Dinos/V-Hyena/V-Hyaenodon_Character_BP.V-Hyaenodon_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-rare",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VHyaenodonCharacterBPC"
         },
         {
           "class": "/Z-DinoVariants/z-hyaenodon/Z_Hyaenodon_Character_BP.Z_Hyaenodon_Character_BP_C",
@@ -5686,6 +6364,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "PaleoKentroCharacterBPC"
+        },
+        {
+          "class": "/V-Dinos/V-Kentro/V-Kentro_Character_BP.V-Kentro_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-uncommon",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VKentroCharacterBPC"
         }
       ]
     },
@@ -6163,6 +6854,32 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ZMegalodonCharacterBPC"
+        },
+        {
+          "class": "/Zytharian_Critters_Skeletal_Collection/Creatures/Skeletal_Megalodon/Megalodon_Character_BP_Skeletal.Megalodon_Character_BP_Skeletal_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "skeletal",
+          "mods": [
+            "Zytharian_Critters_Skeletal_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "MegalodonCharacterBPSkeletalC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Megalodon/Megalodon_Character_BP_Tek.Megalodon_Character_BP_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "MegalodonCharacterBPTekC"
         }
       ]
     },
@@ -6361,6 +7078,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ASAMicroraptorCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/V-Dinos/V-Microraptor/Macroraptor_Character_BP.Macroraptor_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-uncommon",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "MacroraptorCharacterBPC"
         }
       ]
     },
@@ -6807,6 +7537,19 @@
           "configKey": "SOtterCharacterBPC"
         },
         {
+          "class": "/V-Dinos/V-Otter/V-Otter_Character_BP.V-Otter_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-common",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VOtterCharacterBPC"
+        },
+        {
           "class": "/Z-VariantsOtterAdditions/z-cupidotter/Z_CupidOtter_Character_BP.Z_CupidOtter_Character_BP_C",
           "allowBaby": true,
           "levelMultiplier": 1,
@@ -7026,6 +7769,32 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ZSpottedOtterCharacterBPASAC"
+        },
+        {
+          "class": "/Zytharian_Critters_Skeletal_Collection/Creatures/Skeletal_Otter/Otter_Character_BP_Skeletal.Otter_Character_BP_Skeletal_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "skeletal",
+          "mods": [
+            "Zytharian_Critters_Skeletal_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "OtterCharacterBPSkeletalC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Otter/Otter_Character_BP_Tek.Otter_Character_BP_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "OtterCharacterBPTekC"
         }
       ]
     },
@@ -7097,6 +7866,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ASAPachyCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/V-Dinos/V-Pachy/V-Pachy_Character_BP.V-Pachy_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-uncommon",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VPachyCharacterBPC"
         }
       ]
     },
@@ -7210,6 +7992,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ASAPegomastaxCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Pego/Pegomastax_Character_BP_Tek.Pegomastax_Character_BP_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "PegomastaxCharacterBPTekC"
         }
       ]
     },
@@ -7638,6 +8433,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ASARhynioCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/V-Dinos/V-Rhynio/V-Rhynio_Character_BP.V-Rhynio_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-rare",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VRhynioCharacterBPC"
         }
       ]
     },
@@ -7667,6 +8475,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ASASaberCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/V-Dinos/V-Sabertooth/V-Saber_Character_BP.V-Saber_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-rare",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VSaberCharacterBPC"
         },
         {
           "class": "/Z-DinoVariants/z-saber/Z_Saber_Character_BP.Z_Saber_Character_BP_C",
@@ -8071,6 +8892,45 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "SSpinoCharacterBPC"
+        },
+        {
+          "class": "/V-Dinos/V-Spino/V-Spino_Character_BP.V-Spino_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-uncommon",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VSpinoCharacterBPC"
+        },
+        {
+          "class": "/Zytharian_Critters_Skeletal_Collection/Creatures/Skeletal_Spino/Spino_Character_BP_Skeletal.Spino_Character_BP_Skeletal_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "skeletal",
+          "mods": [
+            "Zytharian_Critters_Skeletal_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "SpinoCharacterBPSkeletalC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Spino/Spino_Character_BP_Tek.Spino_Character_BP_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "SpinoCharacterBPTekC"
         }
       ]
     },
@@ -8129,6 +8989,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ASATapejaraCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Tape/Tapejara_Character_BP_Tek.Tapejara_Character_BP_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "TapejaraCharacterBPTekC"
         }
       ]
     },
@@ -8280,6 +9153,32 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ZTherizinoCharacterBPC"
+        },
+        {
+          "class": "/Zytharian_Critters_Skeletal_Collection/Creatures/Skeletal_Theriz/Therizino_Character_BP_Skeletal.Therizino_Character_BP_Skeletal_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "skeletal",
+          "mods": [
+            "Zytharian_Critters_Skeletal_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "TherizinoCharacterBPSkeletalC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Therizino/Therizino_Character_BP_Tek.Therizino_Character_BP_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "TherizinoCharacterBPTekC"
         }
       ]
     },
@@ -8374,6 +9273,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ZThylacoleoCharacterBPC"
+        },
+        {
+          "class": "/Zytharian_Critters_Skeletal_Collection/Creatures/Skeletal_Thyla/Thylacoleo_Character_BP_Skeletal.Thylacoleo_Character_BP_Skeletal_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "skeletal",
+          "mods": [
+            "Zytharian_Critters_Skeletal_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "ThylacoleoCharacterBPSkeletalC"
         }
       ]
     },
@@ -8599,6 +9511,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ASATurtleCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Carbo/Turtle_Character_BP_Tek.Turtle_Character_BP_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "TurtleCharacterBPTekC"
         }
       ]
     },
@@ -8682,6 +9607,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ASATusoteuthisCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Tuso/Tusoteuthis_Character_BP_Tek.Tusoteuthis_Character_BP_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "TusoteuthisCharacterBPTekC"
         }
       ]
     },
@@ -8740,6 +9678,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ASARhinoCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Rhino/Rhino_Character_BP_Tek.Rhino_Character_BP_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "RhinoCharacterBPTekC"
         }
       ]
     },
@@ -8810,6 +9761,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "PaleoYutyrannusCharacterBPC"
+        },
+        {
+          "class": "/V-Dinos/V-Yuty/V-Yutyrannus_Character_BP.V-Yutyrannus_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-rare",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VYutyrannusCharacterBPC"
         },
         {
           "class": "/Z-DinoVariants/z-yutyrannus/Z_Yutyrannus_Character_BP.Z_Yutyrannus_Character_BP_C",
@@ -8964,6 +9928,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ASAJerboaCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/V-Dinos/V-Jerboa/V-Jerboa_Character_BP.V-Jerboa_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-uncommon",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VJerboaCharacterBPC"
         },
         {
           "class": "/Z-DinoVariants/z-jerboa/Z_Jerboa_Character_BP.Z_Jerboa_Character_BP_C",
@@ -9163,6 +10140,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ASAMothCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/V-Dinos/V-Lymantria/V-Moth_Character_BP.V-Moth_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-uncommon",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VMothCharacterBPC"
         }
       ]
     },
@@ -9249,6 +10239,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ASARockGolemCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/Zytharian_Critters_Skeletal_Collection/Creatures/Skeletal_Golem/RockGolem_Character_BP_Skeletal.RockGolem_Character_BP_Skeletal_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "skeletal",
+          "mods": [
+            "Zytharian_Critters_Skeletal_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "RockGolemCharacterBPSkeletalC"
         }
       ]
     },
@@ -9333,6 +10336,32 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "SpineyLizardCharacterBPInsalunaC"
+        },
+        {
+          "class": "/V-Dinos/V-SpineyLizard/V-SpineyLizard_Character_BP.V-SpineyLizard_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-common",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VSpineyLizardCharacterBPC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_ThornyDragon/SpineyLizard_Character_BP_Tek.SpineyLizard_Character_BP_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "SpineyLizardCharacterBPTekC"
         }
       ]
     },
@@ -9375,6 +10404,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ASAVultureCharacterBPEerieDinosC"
+        },
+        {
+          "class": "/V-Dinos/V-Vulture/V-Vulture_Character_BP.V-Vulture_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-rare",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VVultureCharacterBPC"
         }
       ]
     },
@@ -9414,7 +10456,9 @@
             "AmissaAdditions"
           ],
           "modsExcluded": [],
-          "maps": [],
+          "maps": [
+            "Amissa_WP"
+          ],
           "mapsExcluded": [],
           "configKey": "AmissaWyvernCharacterBPFireC"
         },
@@ -9501,6 +10545,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "SWyvernCharacterBPFireC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Wyvern/Wyvern_Character_BP_Fire_Tek.Wyvern_Character_BP_Fire_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "WyvernCharacterBPFireTekC"
         }
       ]
     },
@@ -9527,7 +10584,9 @@
             "AmissaAdditions"
           ],
           "modsExcluded": [],
-          "maps": [],
+          "maps": [
+            "Amissa_WP"
+          ],
           "mapsExcluded": [],
           "configKey": "AmissaWyvernCharacterBPLightning2C"
         },
@@ -9556,6 +10615,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "SWyvernCharacterBPLightningC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Wyvern/Wyvern_Character_BP_Lightning_Tek.Wyvern_Character_BP_Lightning_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "WyvernCharacterBPLightningTekC"
         }
       ]
     },
@@ -9582,7 +10654,9 @@
             "AmissaAdditions"
           ],
           "modsExcluded": [],
-          "maps": [],
+          "maps": [
+            "Amissa_WP"
+          ],
           "mapsExcluded": [],
           "configKey": "AmissaWyvernCharacterBPPoisonC"
         },
@@ -9611,6 +10685,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "SWyvernCharacterBPPoisonC"
+        },
+        {
+          "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Wyvern/Wyvern_Character_BP_Poison_Tek.Wyvern_Character_BP_Poison_Tek_C",
+          "allowBaby": true,
+          "levelMultiplier": 1.2,
+          "variant": "tek",
+          "mods": [
+            "Zytharian_Critters_Tek_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "WyvernCharacterBPPoisonTekC"
         }
       ]
     },
@@ -11641,7 +12728,9 @@
             "AmissaAdditions"
           ],
           "modsExcluded": [],
-          "maps": [],
+          "maps": [
+            "Amissa_WP"
+          ],
           "mapsExcluded": [],
           "configKey": "AmissaWyvernCharacterBPIceC"
         }
@@ -11659,7 +12748,9 @@
             "AmissaAdditions"
           ],
           "modsExcluded": [],
-          "maps": [],
+          "maps": [
+            "Amissa_WP"
+          ],
           "mapsExcluded": [],
           "configKey": "AmissaWyvernCharacterBPMountainC"
         }
@@ -11677,7 +12768,9 @@
             "AmissaAdditions"
           ],
           "modsExcluded": [],
-          "maps": [],
+          "maps": [
+            "Amissa_WP"
+          ],
           "mapsExcluded": [],
           "configKey": "AmissaWyvernCharacterBPShadowWyvernC"
         }
@@ -11695,7 +12788,9 @@
             "AmissaAdditions"
           ],
           "modsExcluded": [],
-          "maps": [],
+          "maps": [
+            "Amissa_WP"
+          ],
           "mapsExcluded": [],
           "configKey": "AmissaChickenCharacterBPC"
         }
@@ -11713,7 +12808,9 @@
             "AmissaAdditions"
           ],
           "modsExcluded": [],
-          "maps": [],
+          "maps": [
+            "Amissa_WP"
+          ],
           "mapsExcluded": [],
           "configKey": "MummyTCharacterBPC"
         }
@@ -11731,7 +12828,9 @@
             "AmissaAdditions"
           ],
           "modsExcluded": [],
-          "maps": [],
+          "maps": [
+            "Amissa_WP"
+          ],
           "mapsExcluded": [],
           "configKey": "AmissaParrotCharacterBPC"
         }
@@ -11999,6 +13098,24 @@
       ]
     },
     {
+      "name": "Lanternlizard_Character_BP_C",
+      "dinos": [
+        {
+          "class": "/V-Dinos/V-Shinepets/V-Glowtail/V-Lanternlizard_Character_BP.V-Lanternlizard_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "v-rare",
+          "mods": [
+            "V-Dinos"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VLanternlizardCharacterBPC"
+        }
+      ]
+    },
+    {
       "name": "Ceratosaurus_Character_BP_Aberrant_C",
       "dinos": [
         {
@@ -12213,12 +13330,228 @@
           "configKey": "ZWilddogHyaenodonCharacterBPC"
         }
       ]
+    },
+    {
+      "name": "Sauropod_Character_BP_Corrupt_C",
+      "dinos": [
+        {
+          "class": "/ZytharianCritters-CorruptedCollection/Creatures/Corrupted_Bronto/Sauropod_Character_BP_Corrupt.Sauropod_Character_BP_Corrupt_C",
+          "allowBaby": false,
+          "levelMultiplier": 1,
+          "variant": "corrupt",
+          "mods": [
+            "ZytharianCritters-CorruptedCollection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "SauropodCharacterBPCorruptC"
+        }
+      ]
+    },
+    {
+      "name": "Stego_Character_BP_Corrupt_Zy_C",
+      "dinos": [
+        {
+          "class": "/ZytharianCritters-CorruptedCollection/Creatures/Corrupted_Stego/Stego_Character_BP_Corrupt_Zy.Stego_Character_BP_Corrupt_Zy_C",
+          "allowBaby": false,
+          "levelMultiplier": 1,
+          "variant": "corrupt",
+          "mods": [
+            "ZytharianCritters-CorruptedCollection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "StegoCharacterBPCorruptZyC"
+        }
+      ]
+    },
+    {
+      "name": "Therizino_Character_BP_Corrupt_C",
+      "dinos": [
+        {
+          "class": "/ZytharianCritters-CorruptedCollection/Creatures/Corrupted_Theriz/Therizino_Character_BP_Corrupt.Therizino_Character_BP_Corrupt_C",
+          "allowBaby": false,
+          "levelMultiplier": 1,
+          "variant": "corrupt",
+          "mods": [
+            "ZytharianCritters-CorruptedCollection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "TherizinoCharacterBPCorruptC"
+        }
+      ]
+    },
+    {
+      "name": "Geode_Character_BP_C",
+      "dinos": [
+        {
+          "class": "/Zytharian_Critters_Custom_Collection/Creatures/Geode/Geode_Character_BP.Geode_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "normal",
+          "mods": [
+            "Zytharian_Critters_Custom_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "GeodeCharacterBPC"
+        }
+      ]
+    },
+    {
+      "name": "Geodog_Character_BP_C",
+      "dinos": [
+        {
+          "class": "/Zytharian_Critters_Custom_Collection/Creatures/Geodog/Geodog_Character_BP.Geodog_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "normal",
+          "mods": [
+            "Zytharian_Critters_Custom_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "GeodogCharacterBPC"
+        }
+      ]
+    },
+    {
+      "name": "Quadlodon_Character_BP_ZC_C",
+      "dinos": [
+        {
+          "class": "/Zytharian_Critters_Custom_Collection/Creatures/Quadlodon/Quadlodon_Character_BP_ZC.Quadlodon_Character_BP_ZC_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "normal",
+          "mods": [
+            "Zytharian_Critters_Custom_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "QuadlodonCharacterBPZCC"
+        }
+      ]
+    },
+    {
+      "name": "Skrill_Character_BP_C",
+      "dinos": [
+        {
+          "class": "/Zytharian_Critters_Custom_Collection/Creatures/Skrillsaur/Skrill_Character_BP.Skrill_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "normal",
+          "mods": [
+            "Zytharian_Critters_Custom_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "SkrillCharacterBPC"
+        }
+      ]
+    },
+    {
+      "name": "Trovant_Character_BP_C",
+      "dinos": [
+        {
+          "class": "/Zytharian_Critters_Custom_Collection/Creatures/Trovant/Trovant_Character_BP.Trovant_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "normal",
+          "mods": [
+            "Zytharian_Critters_Custom_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "TrovantCharacterBPC"
+        }
+      ]
+    },
+    {
+      "name": "Vepent2_Character_BP_C",
+      "dinos": [
+        {
+          "class": "/Zytharian_Critters_Custom_Collection/Creatures/Vepent/Vepent2_Character_BP.Vepent2_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "normal",
+          "mods": [
+            "Zytharian_Critters_Custom_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "Vepent2CharacterBPC"
+        }
+      ]
+    },
+    {
+      "name": "Vepent_Character_BP_C",
+      "dinos": [
+        {
+          "class": "/Zytharian_Critters_Custom_Collection/Creatures/Vepent/Vepent_Character_BP.Vepent_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "normal",
+          "mods": [
+            "Zytharian_Critters_Custom_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "VepentCharacterBPC"
+        }
+      ]
+    },
+    {
+      "name": "Wyvern_Character_BP_Metal_C",
+      "dinos": [
+        {
+          "class": "/Zytharian_Critters_Custom_Collection/Creatures/Wyvern_Metal/Wyvern_Character_BP_Metal.Wyvern_Character_BP_Metal_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "normal",
+          "mods": [
+            "Zytharian_Critters_Custom_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "WyvernCharacterBPMetalC"
+        }
+      ]
+    },
+    {
+      "name": "Wyvern_Character_BP_Plate_C",
+      "dinos": [
+        {
+          "class": "/Zytharian_Critters_Custom_Collection/Creatures/Wyvern_Plate/Wyvern_Character_BP_Plate.Wyvern_Character_BP_Plate_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "normal",
+          "mods": [
+            "Zytharian_Critters_Custom_Collection"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "WyvernCharacterBPPlateC"
+        }
+      ]
     }
   ],
   "variants": [
     {
       "name": "tek",
-      "weight": 0.05,
+      "weight": 0.05263,
       "configKey": "Tek",
       "weightConfigKey": "TekSpawnWeight"
     },
@@ -12236,7 +13569,7 @@
     },
     {
       "name": "lightning-alpha",
-      "weight": 0.05,
+      "weight": 0.05263,
       "configKey": "LightningAlpha",
       "weightConfigKey": "LightningAlphaSpawnWeight"
     },
@@ -12248,19 +13581,19 @@
     },
     {
       "name": "corrupt-alpha",
-      "weight": 0.05,
+      "weight": 0.05263,
       "configKey": "CorruptAlpha",
       "weightConfigKey": "CorruptAlphaSpawnWeight"
     },
     {
       "name": "astral",
-      "weight": 0.05,
+      "weight": 0.05263,
       "configKey": "Astral",
       "weightConfigKey": "AstralSpawnWeight"
     },
     {
       "name": "alpha",
-      "weight": 0.05,
+      "weight": 0.05263,
       "configKey": "Alpha",
       "weightConfigKey": "AlphaSpawnWeight"
     },
@@ -12272,19 +13605,19 @@
     },
     {
       "name": "amissa",
-      "weight": 0.25,
+      "weight": 0.33333,
       "configKey": "Amissa",
       "weightConfigKey": "AmissaSpawnWeight"
     },
     {
       "name": "arkology-alpha",
-      "weight": 0.05,
+      "weight": 0.05263,
       "configKey": "ArkologyAlpha",
       "weightConfigKey": "ArkologyAlphaSpawnWeight"
     },
     {
       "name": "arkology-corrupt-alpha",
-      "weight": 0.05,
+      "weight": 0.05263,
       "configKey": "ArkologyCorruptAlpha",
       "weightConfigKey": "ArkologyCorruptAlphaSpawnWeight"
     },
@@ -12302,13 +13635,13 @@
     },
     {
       "name": "eerie-tek",
-      "weight": 0.05,
+      "weight": 0.00125,
       "configKey": "EerieTek",
       "weightConfigKey": "EerieTekSpawnWeight"
     },
     {
       "name": "eerie",
-      "weight": 0.25,
+      "weight": 0.02564,
       "configKey": "Eerie",
       "weightConfigKey": "EerieSpawnWeight"
     },
@@ -12320,31 +13653,31 @@
     },
     {
       "name": "insaluna",
-      "weight": 0.25,
+      "weight": 0.11111,
       "configKey": "Insaluna",
       "weightConfigKey": "InsalunaSpawnWeight"
     },
     {
       "name": "paleo",
-      "weight": 0.25,
+      "weight": 0.33333,
       "configKey": "Paleo",
       "weightConfigKey": "PaleoSpawnWeight"
     },
     {
       "name": "legacy-alpha",
-      "weight": 0.01,
+      "weight": 0.00503,
       "configKey": "LegacyAlpha",
       "weightConfigKey": "LegacyAlphaSpawnWeight"
     },
     {
       "name": "legacy",
-      "weight": 0.1,
+      "weight": 0.11111,
       "configKey": "Legacy",
       "weightConfigKey": "LegacySpawnWeight"
     },
     {
       "name": "tarbo-alpha",
-      "weight": 0.05,
+      "weight": 0.05263,
       "configKey": "TarboAlpha",
       "weightConfigKey": "TarboAlphaSpawnWeight"
     },
@@ -12362,27 +13695,57 @@
     },
     {
       "name": "paleo-alpha",
-      "weight": 0.05,
+      "weight": 0.33333,
       "configKey": "PaleoAlpha",
       "weightConfigKey": "PaleoAlphaSpawnWeight"
     },
     {
       "name": "s",
-      "weight": 0.25,
+      "weight": 0.11111,
       "configKey": "S",
       "weightConfigKey": "SSpawnWeight"
     },
     {
+      "name": "v-common",
+      "weight": 0.11111,
+      "configKey": "VCommon",
+      "weightConfigKey": "VCommonSpawnWeight"
+    },
+    {
+      "name": "v-rare",
+      "weight": 0.02041,
+      "configKey": "VRare",
+      "weightConfigKey": "VRareSpawnWeight"
+    },
+    {
+      "name": "v-uncommon",
+      "weight": 0.5263,
+      "configKey": "VUncommon",
+      "weightConfigKey": "VUncommonSpawnWeight"
+    },
+    {
       "name": "z-aberrant",
-      "weight": 0.25,
+      "weight": 0.53846,
       "configKey": "ZAberrant",
       "weightConfigKey": "ZAberrantSpawnWeight"
     },
     {
       "name": "z",
-      "weight": 0.25,
+      "weight": 0.33333,
       "configKey": "Z",
       "weightConfigKey": "ZSpawnWeight"
+    },
+    {
+      "name": "feather",
+      "weight": 0.05263,
+      "configKey": "Feather",
+      "weightConfigKey": "FeatherSpawnWeight"
+    },
+    {
+      "name": "skeletal",
+      "weight": 0.05263,
+      "configKey": "Skeletal",
+      "weightConfigKey": "SkeletalSpawnWeight"
     }
   ]
 }
