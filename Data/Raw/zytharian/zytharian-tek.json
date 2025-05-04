@@ -1,0 +1,179 @@
+{
+    "variantName": "tek",
+    "allowBaby": true,
+    "levelMultiplier": 1.2,
+    "weight": 0.05263,
+    "mods": [
+        {
+            "id": 943455,
+            "name": "Zytharian_Critters_Tek_Collection",
+            "type": "required"
+        }
+    ],
+    "maps": [],
+    "dinos": [
+        {
+            "class": "/Game/PrimalEarth/Dinos/Giganotosaurus/BionicGigant_Character_BP.BionicGigant_Character_BP_C",
+            "replaceClass": "/Game/PrimalEarth/Dinos/Giganotosaurus/BionicGigant_Character_BP.BionicGigant_Character_BP_C",
+            "group": "Gigant_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Para/BionicPara_Character_BP.BionicPara_Character_BP_C",
+            "replaceClass": "/Game/PrimalEarth/Dinos/Para/BionicPara_Character_BP.BionicPara_Character_BP_C",
+            "group": "Para_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Quetzalcoatlus/BionicQuetz_Character_BP.BionicQuetz_Character_BP_C",
+            "replaceClass": "/Game/PrimalEarth/Dinos/Quetzalcoatlus/BionicQuetz_Character_BP.BionicQuetz_Character_BP_C",
+            "group": "Quetz_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Raptor/BionicRaptor_Character_BP.BionicRaptor_Character_BP_C",
+            "replaceClass": "/Game/PrimalEarth/Dinos/Raptor/BionicRaptor_Character_BP.BionicRaptor_Character_BP_C",
+            "group": "Raptor_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Rex/BionicRex_Character_BP.BionicRex_Character_BP_C",
+            "replaceClass": "/Game/PrimalEarth/Dinos/Rex/BionicRex_Character_BP.BionicRex_Character_BP_C",
+            "group": "Rex_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Stego/BionicStego_Character_BP.BionicStego_Character_BP_C",
+            "replaceClass": "/Game/PrimalEarth/Dinos/Stego/BionicStego_Character_BP.BionicStego_Character_BP_C",
+            "group": "Stego_Character_BP_C"
+        },
+        {
+            "class": "/Game/PrimalEarth/Dinos/Trike/BionicTrike_Character_BP.BionicTrike_Character_BP_C",
+            "replaceClass": "/Game/PrimalEarth/Dinos/Trike/BionicTrike_Character_BP.BionicTrike_Character_BP_C",
+            "group": "Trike_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Achatina/Achatina_Character_BP_Tek.Achatina_Character_BP_Tek_C",
+            "group": "Achatina_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Anky/Ankylo_Character_BP_Tek.Ankylo_Character_BP_Tek_C",
+            "group": "Ankylo_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Bary/Baryonyx_Character_BP_Tek.Baryonyx_Character_BP_Tek_C",
+            "group": "Baryonyx_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Basilisk/Basilisk_Character_BP_Tek.Basilisk_Character_BP_Tek_C",
+            "group": "Basilisk_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Boa/BoaFrill_Character_BP_Tek.BoaFrill_Character_BP_Tek_C",
+            "group": "BoaFrill_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Carbo/Turtle_Character_BP_Tek.Turtle_Character_BP_Tek_C",
+            "group": "Turtle_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Cerato/Ceratosaurus_Character_BP_ASA_Tek.Ceratosaurus_Character_BP_ASA_Tek_C",
+            "group": "Ceratosaurus_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Direwolf/Direwolf_Character_BP_Tek.Direwolf_Character_BP_Tek_C",
+            "group": "Direwolf_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Dodo/Dodo_Character_BP_Tek.Dodo_Character_BP_Tek_C",
+            "group": "Dodo_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Dragonfly/Dragonfly_Character_BP_Tek.Dragonfly_Character_BP_Tek_C",
+            "group": "Dragonfly_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Equus/Equus_Character_BP_Tek.Equus_Character_BP_Tek_C",
+            "group": "Equus_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Featherlight/LanternBird_Character_BP_Tek.LanternBird_Character_BP_Tek_C",
+            "group": "LanternBird_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Gacha/Gacha_Character_BP_Tek.Gacha_Character_BP_Tek_C",
+            "group": "Gacha_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Mana/IceJumper_Character_BP_Tek.IceJumper_Character_BP_Tek_C",
+            "group": "IceJumper_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Megalodon/Megalodon_Character_BP_Tek.Megalodon_Character_BP_Tek_C",
+            "group": "Megalodon_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Otter/Otter_Character_BP_Tek.Otter_Character_BP_Tek_C",
+            "group": "Otter_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Pego/Pegomastax_Character_BP_Tek.Pegomastax_Character_BP_Tek_C",
+            "group": "Pegomastax_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Ravager/CaveWolf_Character_BP_Tek.CaveWolf_Character_BP_Tek_C",
+            "group": "CaveWolf_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Reaper/Xenomorph_Character_BP_Female_Tek.Xenomorph_Character_BP_Female_Tek_C",
+            "group": "Xenomorph_Character_BP_Female_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Reaper/Xenomorph_Character_BP_Male_Tamed_Tek.Xenomorph_Character_BP_Male_Tamed_Tek_C",
+            "group": "Xenomorph_Character_BP_Male_Tamed_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Rhino/Rhino_Character_BP_Tek.Rhino_Character_BP_Tek_C",
+            "group": "Rhino_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_RockDrake/RockDrake_Character_BP_Tek.RockDrake_Character_BP_Tek_C",
+            "group": "RockDrake_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Shinehorn/LanternGoat_Character_BP_Tek.LanternGoat_Character_BP_Tek_C",
+            "group": "LanternGoat_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Spino/Spino_Character_BP_Tek.Spino_Character_BP_Tek_C",
+            "group": "Spino_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Tape/Tapejara_Character_BP_Tek.Tapejara_Character_BP_Tek_C",
+            "group": "Tapejara_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Therizino/Therizino_Character_BP_Tek.Therizino_Character_BP_Tek_C",
+            "group": "Therizino_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_ThornyDragon/SpineyLizard_Character_BP_Tek.SpineyLizard_Character_BP_Tek_C",
+            "group": "SpineyLizard_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Tuso/Tusoteuthis_Character_BP_Tek.Tusoteuthis_Character_BP_Tek_C",
+            "group": "Tusoteuthis_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Velo/Spindles_Character_BP_Tek.Spindles_Character_BP_Tek_C",
+            "group": "Spindles_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Wyvern/Wyvern_Character_BP_Fire_Tek.Wyvern_Character_BP_Fire_Tek_C",
+            "group": "Wyvern_Character_BP_Fire_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Wyvern/Wyvern_Character_BP_Lightning_Tek.Wyvern_Character_BP_Lightning_Tek_C",
+            "group": "Wyvern_Character_BP_Lightning_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Wyvern/Wyvern_Character_BP_Poison_Tek.Wyvern_Character_BP_Poison_Tek_C",
+            "group": "Wyvern_Character_BP_Poison_C"
+        }
+    ]
+}

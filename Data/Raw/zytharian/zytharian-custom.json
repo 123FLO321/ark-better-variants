@@ -1,0 +1,52 @@
+{
+    "variantName": "normal",
+    "allowBaby": true,
+    "levelMultiplier": 1.0,
+    "weight": 1.0,
+    "mods": [
+        {
+            "id": 948406,
+            "name": "Zytharian_Critters_Custom_Collection",
+            "type": "required"
+        }
+    ],
+    "maps": [],
+    "dinos": [
+        {
+            "class": "/Zytharian_Critters_Custom_Collection/Creatures/Geode/Geode_Character_BP.Geode_Character_BP_C",
+            "group": "Geode_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Custom_Collection/Creatures/Geodog/Geodog_Character_BP.Geodog_Character_BP_C",
+            "group": "Geodog_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Custom_Collection/Creatures/Quadlodon/Quadlodon_Character_BP_ZC.Quadlodon_Character_BP_ZC_C",
+            "group": "Quadlodon_Character_BP_ZC_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Custom_Collection/Creatures/Skrillsaur/Skrill_Character_BP.Skrill_Character_BP_C",
+            "group": "Skrill_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Custom_Collection/Creatures/Trovant/Trovant_Character_BP.Trovant_Character_BP_C",
+            "group": "Trovant_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Custom_Collection/Creatures/Vepent/Vepent2_Character_BP.Vepent2_Character_BP_C",
+            "group": "Vepent2_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Custom_Collection/Creatures/Vepent/Vepent_Character_BP.Vepent_Character_BP_C",
+            "group": "Vepent_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Custom_Collection/Creatures/Wyvern_Metal/Wyvern_Character_BP_Metal.Wyvern_Character_BP_Metal_C",
+            "group": "Wyvern_Character_BP_Metal_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Custom_Collection/Creatures/Wyvern_Plate/Wyvern_Character_BP_Plate.Wyvern_Character_BP_Plate_C",
+            "group": "Wyvern_Character_BP_Plate_C"
+        }
+    ]
+}

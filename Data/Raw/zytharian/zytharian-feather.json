@@ -1,0 +1,24 @@
+{
+    "variantName": "feather",
+    "allowBaby": true,
+    "levelMultiplier": 1.0,
+    "weight": 0.05263,
+    "mods": [
+        {
+            "id": 944627,
+            "name": "Zytharian_Critters_Feathered_Collection",
+            "type": "required"
+        }
+    ],
+    "maps": [],
+    "dinos": [
+        {
+            "class": "/Zytharian_Critters_Feathered_Collection/Creatures/Feathered_Giga/Gigant_Character_BP_Feathered.Gigant_Character_BP_Feathered_C",
+            "group": "Gigant_Character_BP_C"
+        },
+        {
+            "class": "/Zytharian_Critters_Feathered_Collection/Creatures/Feathered_Rex/Rex_Character_BP_Feathered.Rex_Character_BP_Feathered_C",
+            "group": "Rex_Character_BP_C"
+        }
+    ]
+}
