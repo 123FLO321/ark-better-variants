@@ -2085,19 +2085,6 @@
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Chupacabra/ARKOLOGY_ChupaCabra_Character_BP_Surface.ARKOLOGY_ChupaCabra_Character_BP_Surface_C",
           "allowBaby": true,
           "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYChupaCabraCharacterBPSurfaceC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Chupacabra/ARKOLOGY_ChupaCabra_Character_BP_Surface.ARKOLOGY_ChupaCabra_Character_BP_Surface_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
           "variant": "arkology",
           "mods": [
             "ARKOLOGY_NEWENCOUNTERS"
@@ -2524,19 +2511,6 @@
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/LightBug/ARKOLOGY_Lightbug_Character_BaseBP.ARKOLOGY_Lightbug_Character_BaseBP_C",
           "allowBaby": true,
           "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYLightbugCharacterBaseBPC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/LightBug/ARKOLOGY_Lightbug_Character_BaseBP.ARKOLOGY_Lightbug_Character_BaseBP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
           "variant": "arkology",
           "mods": [
             "ARKOLOGY_NEWENCOUNTERS"
@@ -2605,19 +2579,6 @@
           "configKey": "XenomorphCharacterBPFemaleC"
         },
         {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Nameless/ARKOLOGY_Xenomorph_Character_BP_Female.ARKOLOGY_Xenomorph_Character_BP_Female_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYXenomorphCharacterBPFemaleC"
-        },
-        {
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Nameless/ARKOLOGY_MegaXenomorph_Character_BP_Female.ARKOLOGY_MegaXenomorph_Character_BP_Female_C",
           "allowBaby": false,
           "levelMultiplier": 1,
@@ -2644,19 +2605,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ARKOLOGYXenomorphCharacterBPFemaleC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieReaper/EerieQueen/ASAXenomorph_Character_BP_Female_EerieDinos.ASAXenomorph_Character_BP_Female_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAXenomorphCharacterBPFemaleEerieDinosC"
         },
         {
           "class": "/Ark-EerieDinos/EerieVariants/EerieReaper/EerieQueen/ASAXenomorph_Character_BP_Female_EerieDinos.ASAXenomorph_Character_BP_Female_EerieDinos_C",
@@ -2743,19 +2691,6 @@
           "configKey": "MegaXenomorphCharacterBPMaleSurfaceC"
         },
         {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Nameless/ARKOLOGY_Xenomorph_Character_BP_Male_Surface.ARKOLOGY_Xenomorph_Character_BP_Male_Surface_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYXenomorphCharacterBPMaleSurfaceC"
-        },
-        {
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Nameless/ARKOLOGY_MegaXenomorph_Character_BP_Male_Surface.ARKOLOGY_MegaXenomorph_Character_BP_Male_Surface_C",
           "allowBaby": false,
           "levelMultiplier": 1,
@@ -2800,19 +2735,6 @@
           "configKey": "XenomorphCharacterBPMaleTamedC"
         },
         {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Nameless/ARKOLOGY_Xenomorph_Character_BP_Male_Tamed.ARKOLOGY_Xenomorph_Character_BP_Male_Tamed_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYXenomorphCharacterBPMaleTamedC"
-        },
-        {
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Corrupted/ARKOLOGY_Xenomorph_Character_BP_Male_Tamed_Corrupt.ARKOLOGY_Xenomorph_Character_BP_Male_Tamed_Corrupt_C",
           "allowBaby": false,
           "levelMultiplier": 1,
@@ -2839,19 +2761,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ARKOLOGYXenomorphCharacterBPMaleTamedC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieReaper/EerieKing/ASAXenomorph_Character_BP_Male_Tamed_EerieDinos.ASAXenomorph_Character_BP_Male_Tamed_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAXenomorphCharacterBPMaleTamedEerieDinosC"
         },
         {
           "class": "/Ark-EerieDinos/EerieVariants/EerieReaper/EerieKing/ASAXenomorph_Character_BP_Male_Tamed_EerieDinos.ASAXenomorph_Character_BP_Male_Tamed_EerieDinos_C",
@@ -2949,19 +2858,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "PteroteuthisCharBPSurfaceC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Pteroteuthis/ARKOLOGY_Pteroteuthis_Char_BP_Surface.ARKOLOGY_Pteroteuthis_Char_BP_Surface_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYPteroteuthisCharBPSurfaceC"
         },
         {
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Pteroteuthis/ARKOLOGY_Pteroteuthis_Char_BP_Surface.ARKOLOGY_Pteroteuthis_Char_BP_Surface_C",
@@ -3769,7 +3665,7 @@
       ]
     },
     {
-      "name": "Ammonite_Character_BP_C",
+      "name": "Ammonite_Character_C",
       "dinos": [
         {
           "class": "/Game/PrimalEarth/Dinos/Ammonite/Ammonite_Character.Ammonite_Character_C",
@@ -4990,19 +4886,6 @@
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Coel/ARKOLOGY_Coel_Character_BP_Ocean.ARKOLOGY_Coel_Character_BP_Ocean_C",
           "allowBaby": true,
           "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYCoelCharacterBPOceanC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Coel/ARKOLOGY_Coel_Character_BP_Ocean.ARKOLOGY_Coel_Character_BP_Ocean_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
           "variant": "arkology",
           "mods": [
             "ARKOLOGY_NEWENCOUNTERS"
@@ -5452,19 +5335,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "DirebearCharacterPolarC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/DireBear/ARKOLOGY_Direbear_Character_Polar.ARKOLOGY_Direbear_Character_Polar_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYDirebearCharacterPolarC"
         },
         {
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/DireBear/ARKOLOGY_Direbear_Character_Polar.ARKOLOGY_Direbear_Character_Polar_C",
@@ -6048,19 +5918,6 @@
           "class": "/Ark-EerieDinos/EerieVariants/EerieUnicorn/ASAEquus_Character_BP_Unicorn_EerieDinos.ASAEquus_Character_BP_Unicorn_EerieDinos_C",
           "allowBaby": true,
           "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAEquusCharacterBPUnicornEerieDinosC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieUnicorn/ASAEquus_Character_BP_Unicorn_EerieDinos.ASAEquus_Character_BP_Unicorn_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
           "variant": "eerie",
           "mods": [
             "Ark-EerieDinos"
@@ -6086,7 +5943,7 @@
       ]
     },
     {
-      "name": "Euryp_Character_BP_C",
+      "name": "Euryp_Character_C",
       "dinos": [
         {
           "class": "/Game/PrimalEarth/Dinos/Eurypterid/Euryp_Character.Euryp_Character_C",
@@ -6524,7 +6381,7 @@
       ]
     },
     {
-      "name": "Leech_Character_BP_C",
+      "name": "Leech_Character_C",
       "dinos": [
         {
           "class": "/Game/PrimalEarth/Dinos/Leech/Leech_Character.Leech_Character_C",
@@ -6565,19 +6422,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "LeechCharacterDiseasedC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Leech/ARKOLOGY_Leech_Character_Diseased.ARKOLOGY_Leech_Character_Diseased_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYLeechCharacterDiseasedC"
         },
         {
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Leech/ARKOLOGY_Leech_Character_Diseased.ARKOLOGY_Leech_Character_Diseased_C",
@@ -7538,19 +7382,6 @@
             "Astraeos_WP"
           ],
           "configKey": "MosaCharacterBPMegaCaveC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Mosa/ARKOLOGY_Mosa_Character_BP_Cave.ARKOLOGY_Mosa_Character_BP_Cave_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYMosaCharacterBPCaveC"
         },
         {
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Mosa/ARKOLOGY_Mosa_Character_BP_Mega_Cave.ARKOLOGY_Mosa_Character_BP_Mega_Cave_C",
@@ -9571,7 +9402,7 @@
       ]
     },
     {
-      "name": "Trilobite_Character_BP_C",
+      "name": "Trilobite_Character_C",
       "dinos": [
         {
           "class": "/Game/PrimalEarth/Dinos/Trilobite/Trilobite_Character.Trilobite_Character_C",
@@ -9805,19 +9636,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "TusoteuthisCharacterBPCavesC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Tuso/ARKOLOGY_Tusoteuthis_Character_BP_Caves.ARKOLOGY_Tusoteuthis_Character_BP_Caves_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYTusoteuthisCharacterBPCavesC"
         },
         {
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Tuso/ARKOLOGY_Tusoteuthis_Character_BP_Caves.ARKOLOGY_Tusoteuthis_Character_BP_Caves_C",
@@ -10645,19 +10463,6 @@
           "configKey": "AmissaWyvernCharacterBPFireC"
         },
         {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Wyvern/ARKOLOGY_Wyvern_Character_BP_Fire.ARKOLOGY_Wyvern_Character_BP_Fire_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYWyvernCharacterBPFireC"
-        },
-        {
           "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Wyvern/ARKOLOGY_MegaWyvern_Character_BP_Fire.ARKOLOGY_MegaWyvern_Character_BP_Fire_C",
           "allowBaby": false,
           "levelMultiplier": 1,
@@ -10714,19 +10519,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ARKOLOGYWyvernCharacterBPFireC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieWyvern/ASAWyvern_Character_BP_Fire_EerieDinos.ASAWyvern_Character_BP_Fire_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAWyvernCharacterBPFireEerieDinosC"
         },
         {
           "class": "/Ark-EerieDinos/EerieVariants/EerieWyvern/ASAWyvern_Character_BP_Fire_EerieDinos.ASAWyvern_Character_BP_Fire_EerieDinos_C",
@@ -10802,19 +10594,6 @@
           "class": "/Ark-EerieDinos/EerieVariants/EerieWyvern/ASAWyvern_Character_BP_Lightning_EerieDinos.ASAWyvern_Character_BP_Lightning_EerieDinos_C",
           "allowBaby": true,
           "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAWyvernCharacterBPLightningEerieDinosC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieWyvern/ASAWyvern_Character_BP_Lightning_EerieDinos.ASAWyvern_Character_BP_Lightning_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
           "variant": "eerie",
           "mods": [
             "Ark-EerieDinos"
@@ -10880,19 +10659,6 @@
           ],
           "mapsExcluded": [],
           "configKey": "AmissaWyvernCharacterBPPoisonC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieWyvern/ASAWyvern_Character_BP_Poison_EerieDinos.ASAWyvern_Character_BP_Poison_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAWyvernCharacterBPPoisonEerieDinosC"
         },
         {
           "class": "/Ark-EerieDinos/EerieVariants/EerieWyvern/ASAWyvern_Character_BP_Poison_EerieDinos.ASAWyvern_Character_BP_Poison_EerieDinos_C",
@@ -11299,19 +11065,6 @@
           "class": "/Ark-EerieDinos/EerieVariants/EerieArthropleura/ASAArthro_Character_BP_Corrupt_EerieDinos.ASAArthro_Character_BP_Corrupt_EerieDinos_C",
           "allowBaby": true,
           "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAArthroCharacterBPCorruptEerieDinosC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieArthropleura/ASAArthro_Character_BP_Corrupt_EerieDinos.ASAArthro_Character_BP_Corrupt_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
           "variant": "eerie",
           "mods": [
             "Ark-EerieDinos"
@@ -11373,19 +11126,6 @@
           "class": "/Ark-EerieDinos/EerieVariants/EerieCarnotaurus/ASACarno_Character_BP_Corrupt_EerieDinos.ASACarno_Character_BP_Corrupt_EerieDinos_C",
           "allowBaby": true,
           "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASACarnoCharacterBPCorruptEerieDinosC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieCarnotaurus/ASACarno_Character_BP_Corrupt_EerieDinos.ASACarno_Character_BP_Corrupt_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
           "variant": "eerie",
           "mods": [
             "Ark-EerieDinos"
@@ -11427,19 +11167,6 @@
             "Astraeos_WP"
           ],
           "configKey": "ARKOLOGYChalicoCharacterBPCorruptC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieChalicotherium/ASAChalico_Character_BP_Corrupt_EerieDinos.ASAChalico_Character_BP_Corrupt_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAChalicoCharacterBPCorruptEerieDinosC"
         },
         {
           "class": "/Ark-EerieDinos/EerieVariants/EerieChalicotherium/ASAChalico_Character_BP_Corrupt_EerieDinos.ASAChalico_Character_BP_Corrupt_EerieDinos_C",
@@ -11506,19 +11233,6 @@
           "class": "/Ark-EerieDinos/EerieVariants/EerieDilophosaur/ASADilo_Character_BP_Corrupt_EerieDinos.ASADilo_Character_BP_Corrupt_EerieDinos_C",
           "allowBaby": true,
           "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASADiloCharacterBPCorruptEerieDinosC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieDilophosaur/ASADilo_Character_BP_Corrupt_EerieDinos.ASADilo_Character_BP_Corrupt_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
           "variant": "eerie",
           "mods": [
             "Ark-EerieDinos"
@@ -11560,19 +11274,6 @@
             "Astraeos_WP"
           ],
           "configKey": "ARKOLOGYDimorphCharacterBPCorruptC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieDimorphodon/ASADimorph_Character_BP_Corrupt_EerieDinos.ASADimorph_Character_BP_Corrupt_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASADimorphCharacterBPCorruptEerieDinosC"
         },
         {
           "class": "/Ark-EerieDinos/EerieVariants/EerieDimorphodon/ASADimorph_Character_BP_Corrupt_EerieDinos.ASADimorph_Character_BP_Corrupt_EerieDinos_C",
@@ -11641,19 +11342,6 @@
           "class": "/Ark-EerieDinos/EerieVariants/EerieGiganotosaurus/ASAGigant_Character_BP_Corrupt_EerieDinos.ASAGigant_Character_BP_Corrupt_EerieDinos_C",
           "allowBaby": true,
           "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAGigantCharacterBPCorruptEerieDinosC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieGiganotosaurus/ASAGigant_Character_BP_Corrupt_EerieDinos.ASAGigant_Character_BP_Corrupt_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
           "variant": "eerie",
           "mods": [
             "Ark-EerieDinos"
@@ -11695,19 +11383,6 @@
             "Astraeos_WP"
           ],
           "configKey": "XenomorphCharacterBPMaleTamedCorruptC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieReaper/EerieKing/Corrupt/ASAXenomorph_Character_BP_Male_Tamed_Corrupt_EerieDinos.ASAXenomorph_Character_BP_Male_Tamed_Corrupt_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAXenomorphCharacterBPMaleTamedCorruptEerieDinosC"
         },
         {
           "class": "/Ark-EerieDinos/EerieVariants/EerieReaper/EerieKing/Corrupt/ASAXenomorph_Character_BP_Male_Tamed_Corrupt_EerieDinos.ASAXenomorph_Character_BP_Male_Tamed_Corrupt_EerieDinos_C",
@@ -11759,19 +11434,6 @@
           "class": "/Ark-EerieDinos/EerieVariants/EerieParaceratherium/ASAParacer_Character_BP_Corrupt_EerieDinos.ASAParacer_Character_BP_Corrupt_EerieDinos_C",
           "allowBaby": true,
           "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAParacerCharacterBPCorruptEerieDinosC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieParaceratherium/ASAParacer_Character_BP_Corrupt_EerieDinos.ASAParacer_Character_BP_Corrupt_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
           "variant": "eerie",
           "mods": [
             "Ark-EerieDinos"
@@ -11813,19 +11475,6 @@
             "Astraeos_WP"
           ],
           "configKey": "ARKOLOGYPteroCharacterBPCorruptC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EeriePteranodon/ASAPtero_Character_BP_Corrupt_EerieDinos.ASAPtero_Character_BP_Corrupt_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAPteroCharacterBPCorruptEerieDinosC"
         },
         {
           "class": "/Ark-EerieDinos/EerieVariants/EeriePteranodon/ASAPtero_Character_BP_Corrupt_EerieDinos.ASAPtero_Character_BP_Corrupt_EerieDinos_C",
@@ -11892,19 +11541,6 @@
           "class": "/Ark-EerieDinos/EerieVariants/EerieRaptor/ASARaptor_Character_BP_Corrupt_EerieDinos.ASARaptor_Character_BP_Corrupt_EerieDinos_C",
           "allowBaby": true,
           "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASARaptorCharacterBPCorruptEerieDinosC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieRaptor/ASARaptor_Character_BP_Corrupt_EerieDinos.ASARaptor_Character_BP_Corrupt_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
           "variant": "eerie",
           "mods": [
             "Ark-EerieDinos"
@@ -11961,19 +11597,6 @@
             "Astraeos_WP"
           ],
           "configKey": "ARKOLOGYRexCharacterBPCorruptC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieRex/ASARex_Character_BP_Corrupt_EerieDinos.ASARex_Character_BP_Corrupt_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASARexCharacterBPCorruptEerieDinosC"
         },
         {
           "class": "/Ark-EerieDinos/EerieVariants/EerieRex/ASARex_Character_BP_Corrupt_EerieDinos.ASARex_Character_BP_Corrupt_EerieDinos_C",
@@ -12055,19 +11678,6 @@
           "class": "/Ark-EerieDinos/EerieVariants/EerieRockDrake/ASARockDrake_Character_BP_Corrupt_EerieDinos.ASARockDrake_Character_BP_Corrupt_EerieDinos_C",
           "allowBaby": true,
           "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASARockDrakeCharacterBPCorruptEerieDinosC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieRockDrake/ASARockDrake_Character_BP_Corrupt_EerieDinos.ASARockDrake_Character_BP_Corrupt_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
           "variant": "eerie",
           "mods": [
             "Ark-EerieDinos"
@@ -12129,19 +11739,6 @@
           "class": "/Ark-EerieDinos/EerieVariants/EerieSpinosaurus/ASASpino_Character_BP_Corrupt_EerieDinos.ASASpino_Character_BP_Corrupt_EerieDinos_C",
           "allowBaby": true,
           "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASASpinoCharacterBPCorruptEerieDinosC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieSpinosaurus/ASASpino_Character_BP_Corrupt_EerieDinos.ASASpino_Character_BP_Corrupt_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
           "variant": "eerie",
           "mods": [
             "Ark-EerieDinos"
@@ -12183,19 +11780,6 @@
             "Astraeos_WP"
           ],
           "configKey": "ARKOLOGYStegoCharacterBPCorruptC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieStegosaurus/ASAStego_Character_BP_Corrupt_EerieDinos.ASAStego_Character_BP_Corrupt_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAStegoCharacterBPCorruptEerieDinosC"
         },
         {
           "class": "/Ark-EerieDinos/EerieVariants/EerieStegosaurus/ASAStego_Character_BP_Corrupt_EerieDinos.ASAStego_Character_BP_Corrupt_EerieDinos_C",
@@ -12260,19 +11844,6 @@
           "class": "/Ark-EerieDinos/EerieVariants/EerieTriceratops/ASATrike_Character_BP_Corrupt_EerieDinos.ASATrike_Character_BP_Corrupt_EerieDinos_C",
           "allowBaby": true,
           "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASATrikeCharacterBPCorruptEerieDinosC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieTriceratops/ASATrike_Character_BP_Corrupt_EerieDinos.ASATrike_Character_BP_Corrupt_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
           "variant": "eerie",
           "mods": [
             "Ark-EerieDinos"
@@ -12304,19 +11875,6 @@
           "class": "/Ark-EerieDinos/EerieVariants/EerieWyvern/ASAWyvern_Character_BP_Fire_Corrupt_EerieDinos.ASAWyvern_Character_BP_Fire_Corrupt_EerieDinos_C",
           "allowBaby": true,
           "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAWyvernCharacterBPFireCorruptEerieDinosC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieWyvern/ASAWyvern_Character_BP_Fire_Corrupt_EerieDinos.ASAWyvern_Character_BP_Fire_Corrupt_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
           "variant": "eerie",
           "mods": [
             "Ark-EerieDinos"
@@ -12341,32 +11899,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "FasolaCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Fasola/ARKOLOGY_Fasola_Character_BP.ARKOLOGY_Fasola_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYFasolaCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieFasolasuchus/ASAFasola_Character_BP_EerieDinos.ASAFasola_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAFasolaCharacterBPEerieDinosC"
         }
       ]
     },
@@ -12383,32 +11915,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "GigantoraptorCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Gigantoraptor/ARKOLOGY_Gigantoraptor_Character_BP.ARKOLOGY_Gigantoraptor_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYGigantoraptorCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieGigantoraptor/ASAGigantoraptor_Character_BP_EerieDinos.ASAGigantoraptor_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAGigantoraptorCharacterBPEerieDinosC"
         }
       ]
     },
@@ -12425,32 +11931,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "AchatinaCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Achatina/ARKOLOGY_Achatina_Character_BP.ARKOLOGY_Achatina_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYAchatinaCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieAchatina/ASAAchatina_Character_BP_EerieDinos.ASAAchatina_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAAchatinaCharacterBPEerieDinosC"
         }
       ]
     },
@@ -12467,32 +11947,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "AnglerCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Angler/ARKOLOGY_Angler_Character_BP.ARKOLOGY_Angler_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYAnglerCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieAngler/ASAAngler_Character_BP_EerieDinos.ASAAngler_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAAnglerCharacterBPEerieDinosC"
         }
       ]
     },
@@ -12509,32 +11963,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "AnkyloCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Anky/Arkology_Ankylo_Character_BP.Arkology_Ankylo_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ArkologyAnkyloCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieAnkylosaurus/ASAAnkylo_Character_BP_EerieDinos.ASAAnkylo_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAAnkyloCharacterBPEerieDinosC"
         }
       ]
     },
@@ -12551,32 +11979,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ArthroCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Arthro/ARKOLOGY_Arthro_Character_BP.ARKOLOGY_Arthro_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYArthroCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieArthropleura/ASAArthro_Character_BP_EerieDinos.ASAArthro_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAArthroCharacterBPEerieDinosC"
         }
       ]
     },
@@ -12593,32 +11995,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "BaryonyxCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Baryonyx/ARKOLOGY_Baryonyx_Character_BP.ARKOLOGY_Baryonyx_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYBaryonyxCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieBaryonyx/ASABaryonyx_Character_BP_EerieDinos.ASABaryonyx_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASABaryonyxCharacterBPEerieDinosC"
         },
         {
           "class": "/Z-DinoVariants/z-bary/Z_Aberrant_Baryonyx_Character_BP.Z_Aberrant_Baryonyx_Character_BP_C",
@@ -12648,19 +12024,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "BigfootCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieGigantopithecus/ASABigfoot_Character_BP_EerieDinos.ASABigfoot_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASABigfootCharacterBPEerieDinosC"
         }
       ]
     },
@@ -12677,32 +12040,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "BoaFrillCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Boa/ARKOLOGY_BoaFrill_Character_BP.ARKOLOGY_BoaFrill_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYBoaFrillCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieTitanoboa/ASABoaFrill_Character_BP_EerieDinos.ASABoaFrill_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASABoaFrillCharacterBPEerieDinosC"
         }
       ]
     },
@@ -12719,32 +12056,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "CarnoCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Carno/ARKOLOGY_Carno_Character_BP.ARKOLOGY_Carno_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYCarnoCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieCarnotaurus/ASACarno_Character_BP_EerieDinos.ASACarno_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASACarnoCharacterBPEerieDinosC"
         }
       ]
     },
@@ -12761,19 +12072,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "CnidariaCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Cnidaria/ARKOLOGY_Cnidaria_Character_BP.ARKOLOGY_Cnidaria_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYCnidariaCharacterBPAberrantC"
         }
       ]
     },
@@ -12790,19 +12088,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "CoelCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Coel/ARKOLOGY_Coel_Character_BP.ARKOLOGY_Coel_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYCoelCharacterBPAberrantC"
         }
       ]
     },
@@ -12819,32 +12104,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "DimetroCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Dimetro/ARKOLOGY_Dimetro_Character_BP.ARKOLOGY_Dimetro_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYDimetroCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieDimetrodon/ASADimetro_Character_BP_EerieDinos.ASADimetro_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASADimetroCharacterBPEerieDinosC"
         },
         {
           "class": "/Z-DinoVariants/Z-Dimetrodon/Z_Aberrant_Dimetrodon_Character_BP.Z_Aberrant_Dimetrodon_Character_BP_C",
@@ -12874,32 +12133,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "DimorphCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Dimorph/ARKOLOGY_Dimorph_Character_BP.ARKOLOGY_Dimorph_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYDimorphCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieDimorphodon/ASADimorph_Character_BP_EerieDinos.ASADimorph_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASADimorphCharacterBPEerieDinosC"
         }
       ]
     },
@@ -12916,32 +12149,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "DiplocaulusCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Diplocaulus/ARKOLOGY_Diplocaulus_Character_BP.ARKOLOGY_Diplocaulus_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYDiplocaulusCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieDiplocaulus/ASADiplocaulus_Character_BP_EerieDinos.ASADiplocaulus_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASADiplocaulusCharacterBPEerieDinosC"
         }
       ]
     },
@@ -12958,19 +12165,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "DiplodocusCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieDiplodocus/ASADiplodocus_Character_BP_EerieDinos.ASADiplodocus_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASADiplodocusCharacterBPEerieDinosC"
         }
       ]
     },
@@ -12987,32 +12181,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "DirebearCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/DireBear/ARKOLOGY_Direbear_Character_BP.ARKOLOGY_Direbear_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYDirebearCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieDirebear/ASADirebear_Character_BP_EerieDinos.ASADirebear_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASADirebearCharacterBPEerieDinosC"
         }
       ]
     },
@@ -13029,32 +12197,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "DodoCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Dodo/ARKOLOGY_Dodo_Character_BP.ARKOLOGY_Dodo_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYDodoCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieDodo/ASADodo_Character_BP_EerieDinos.ASADodo_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASADodoCharacterBPEerieDinosC"
         }
       ]
     },
@@ -13071,32 +12213,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "DoedCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Doedic/ARKOLOGY_Doed_Character_BP.ARKOLOGY_Doed_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYDoedCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieDoedicurus/ASADoed_Character_BP_EerieDinos.ASADoed_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASADoedCharacterBPEerieDinosC"
         }
       ]
     },
@@ -13113,19 +12229,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "DragonflyCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Dragonfly/ARKOLOGY_Dragonfly_Character_BP.ARKOLOGY_Dragonfly_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYDragonflyCharacterBPAberrantC"
         }
       ]
     },
@@ -13142,32 +12245,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "DungBeetleCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/DungBeetle/ARKOLOGY_DungBeetle_Character_BP.ARKOLOGY_DungBeetle_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYDungBeetleCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieDungBeetle/ASADungBeetle_Character_BP_EerieDinos.ASADungBeetle_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASADungBeetleCharacterBPEerieDinosC"
         }
       ]
     },
@@ -13184,32 +12261,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "EelCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Eel/ARKOLOGY_Eel_Character_BP.ARKOLOGY_Eel_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYEelCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieEel/ASAEel_Character_BP_EerieDinos.ASAEel_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAEelCharacterBPEerieDinosC"
         }
       ]
     },
@@ -13226,19 +12277,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "EquusCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieEquus/ASAEquus_Character_BP_EerieDinos.ASAEquus_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAEquusCharacterBPEerieDinosC"
         }
       ]
     },
@@ -13255,32 +12293,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "IguanodonCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Iguanodon/Arkology_Iguanodon_Character_BP.Arkology_Iguanodon_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ArkologyIguanodonCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieIguanodon/ASAIguanodon_Character_BP_EerieDinos.ASAIguanodon_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAIguanodonCharacterBPEerieDinosC"
         },
         {
           "class": "/Z-DinoVariants/z-iguanodon/Z_Aberrant_Iguanodon_Character_BP.Z_Aberrant_Iguanodon_Character_BP_C",
@@ -13310,19 +12322,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "LystroCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieLystrosaurus/ASALystro_Character_BP_EerieDinos.ASALystro_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASALystroCharacterBPEerieDinosC"
         }
       ]
     },
@@ -13339,32 +12338,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "MantaCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Manta/ARKOLOGY_Manta_Character_BP.ARKOLOGY_Manta_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYMantaCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieManta/ASAManta_Character_BP_EerieDinos.ASAManta_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAMantaCharacterBPEerieDinosC"
         }
       ]
     },
@@ -13381,32 +12354,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "MegalaniaCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Megalania/ARKOLOGY_Megalania_Character_BP.ARKOLOGY_Megalania_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYMegalaniaCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieMegalania/ASAMegalania_Character_BP_EerieDinos.ASAMegalania_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAMegalaniaCharacterBPEerieDinosC"
         }
       ]
     },
@@ -13423,32 +12370,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "MegalosaurusCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Megalosaurus/ARKOLOGY_Megalosaurus_Character_BP.ARKOLOGY_Megalosaurus_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYMegalosaurusCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieMegalosaurus/ASAMegalosaurus_Character_BP_EerieDinos.ASAMegalosaurus_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAMegalosaurusCharacterBPEerieDinosC"
         }
       ]
     },
@@ -13465,19 +12386,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "MoschopsCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieMoschops/ASAMoschops_Character_BP_EerieDinos.ASAMoschops_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAMoschopsCharacterBPEerieDinosC"
         }
       ]
     },
@@ -13494,32 +12402,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "OtterCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Otter/ARKOLOGY_Otter_Character_BP.ARKOLOGY_Otter_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYOtterCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieOtter/ASAOtter_Character_BP_EerieDinos.ASAOtter_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAOtterCharacterBPEerieDinosC"
         },
         {
           "class": "/Z-DinoVariants/z-aberrantotter/Z_Aberrant_Otter_Character_BP.Z_Aberrant_Otter_Character_BP_C",
@@ -13575,19 +12457,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "OviraptorCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieOviraptor/ASAOviraptor_Character_BP_EerieDinos.ASAOviraptor_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAOviraptorCharacterBPEerieDinosC"
         }
       ]
     },
@@ -13604,32 +12473,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ParaCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Parasaur/ARKOLOGY_Para_Character_BP.ARKOLOGY_Para_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYParaCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieParasaur/ASAPara_Character_BP_EerieDinos.ASAPara_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAParaCharacterBPEerieDinosC"
         }
       ]
     },
@@ -13646,32 +12489,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ParacerCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Paracer/ARKOLOGY_Paracer_Character_BP.ARKOLOGY_Paracer_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYParacerCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieParaceratherium/ASAParacer_Character_BP_EerieDinos.ASAParacer_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAParacerCharacterBPEerieDinosC"
         }
       ]
     },
@@ -13688,19 +12505,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "PiranhaCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Piranha/ARKOLOGY_Piranha_Character_BP.ARKOLOGY_Piranha_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYPiranhaCharacterBPAberrantC"
         }
       ]
     },
@@ -13717,19 +12521,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "PurloviaCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EeriePurlovia/ASAPurlovia_Character_BP_EerieDinos.ASAPurlovia_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAPurloviaCharacterBPEerieDinosC"
         }
       ]
     },
@@ -13746,32 +12537,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "RaptorCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Raptor/ARKOLOGY_Raptor_Character_BP.ARKOLOGY_Raptor_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYRaptorCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieRaptor/ASARaptor_Character_BP_EerieDinos.ASARaptor_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASARaptorCharacterBPEerieDinosC"
         }
       ]
     },
@@ -13804,32 +12569,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "SarcoCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Sarco/ARKOLOGY_Sarco_Character_BP.ARKOLOGY_Sarco_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYSarcoCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieSarco/ASASarco_Character_BP_EerieDinos.ASASarco_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASASarcoCharacterBPEerieDinosC"
         }
       ]
     },
@@ -13846,32 +12585,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ScorpionCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Scorpion/ARKOLOGY_Scorpion_Character_BP.ARKOLOGY_Scorpion_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYScorpionCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EeriePulmonoscorpius/ASAScorpion_Character_BP_EerieDinos.ASAScorpion_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAScorpionCharacterBPEerieDinosC"
         }
       ]
     },
@@ -13888,32 +12601,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "SheepCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Sheep/ARKOLOGY_Sheep_Character_BP.ARKOLOGY_Sheep_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYSheepCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieOvis/ASASheep_Character_BP_EerieDinos.ASASheep_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASASheepCharacterBPEerieDinosC"
         }
       ]
     },
@@ -13930,32 +12617,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "SpiderSCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Spider/ARKOLOGY_SpiderS_Character_BP.ARKOLOGY_SpiderS_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYSpiderSCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieAraneo/ASASpiderS_Character_BP_EerieDinos.ASASpiderS_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASASpiderSCharacterBPEerieDinosC"
         }
       ]
     },
@@ -13972,32 +12633,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "SpinoCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Spino/ARKOLOGY_Spino_Character_BP.ARKOLOGY_Spino_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYSpinoCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieSpinosaurus/ASASpino_Character_BP_EerieDinos.ASASpino_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASASpinoCharacterBPEerieDinosC"
         }
       ]
     },
@@ -14014,32 +12649,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "StegoCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Stego/ARKOLOGY_Stego_Character_BP.ARKOLOGY_Stego_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYStegoCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieStegosaurus/ASAStego_Character_BP_EerieDinos.ASAStego_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAStegoCharacterBPEerieDinosC"
         }
       ]
     },
@@ -14056,32 +12665,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ToadCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Toad/ARKOLOGY_Toad_Character_BP.ARKOLOGY_Toad_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYToadCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieBeelzebufo/ASAToad_Character_BP_EerieDinos.ASAToad_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAToadCharacterBPEerieDinosC"
         }
       ]
     },
@@ -14098,32 +12681,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "TrikeCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Trike/ARKOLOGY_Trike_Character_BP.ARKOLOGY_Trike_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYTrikeCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieTriceratops/ASATrike_Character_BP_EerieDinos.ASATrike_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASATrikeCharacterBPEerieDinosC"
         }
       ]
     },
@@ -14156,32 +12713,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "TurtleCharacterBPAberrantC"
-        },
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Carboemys/ARKOLOGY_Turtle_Character_BP.ARKOLOGY_Turtle_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYTurtleCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieCarbonemys/ASATurtle_Character_BP_EerieDinos.ASATurtle_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASATurtleCharacterBPEerieDinosC"
         }
       ]
     },
@@ -14306,2227 +12837,6 @@
       ]
     },
     {
-      "name": "Allo_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Allo/Arkology_Allo_Character_BP.Arkology_Allo_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ArkologyAlloCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieAllosaurus/ASAAllo_Character_BP_EerieDinos.ASAAllo_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAAlloCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Ammonite_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Ammonite/ARKOLOGY_Ammonite_Character.ARKOLOGY_Ammonite_Character_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYAmmoniteCharacterC"
-        }
-      ]
-    },
-    {
-      "name": "Archelon_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Archelon/ARKOLOGY_Archelon_Character_BP_ASA.ARKOLOGY_Archelon_Character_BP_ASA_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYArchelonCharacterBPASAC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieArchelon/ASAArchelon_Character_BP_EerieDinos.ASAArchelon_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAArchelonCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Argent_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Argentavis/ARKOLOGY_Argent_Character_BP.ARKOLOGY_Argent_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYArgentCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieArgentavis/ASAArgent_Character_BP_EerieDinos.ASAArgent_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAArgentCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Basilisk_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Basilisk/ARKOLOGY_Basilisk_Character_BP.ARKOLOGY_Basilisk_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYBasiliskCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieBasilisk/ASABasilisk_Character_BP_EerieDinos.ASABasilisk_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASABasiliskCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Basilosaurus_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Basilosaurus/ARKOLOGY_Basilosaurus_Character_BP.ARKOLOGY_Basilosaurus_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYBasilosaurusCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieBasilosaurus/ASABasilosaurus_Character_BP_EerieDinos.ASABasilosaurus_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASABasilosaurusCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Bat_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Bat/ARKOLOGY_Bat_Character_BP.ARKOLOGY_Bat_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYBatCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieOnyc/ASABat_Character_BP_EerieDinos.ASABat_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASABatCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Beaver_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Beaver/ARKOLOGY_Beaver_Character_BP.ARKOLOGY_Beaver_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYBeaverCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieCastoroides/ASABeaver_Character_BP_EerieDinos.ASABeaver_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASABeaverCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Sauropod_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Bronto/ARKOLOGY_Sauropod_Character_BP.ARKOLOGY_Sauropod_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYSauropodCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieBrontosaurus/ASASauropod_Character_BP_EerieDinos.ASASauropod_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASASauropodCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Carcha_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Carcha/Arkology_Carcha_Character_BP.Arkology_Carcha_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ArkologyCarchaCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieCarcha/ASACarcha_Character_BP_EerieDinos.ASACarcha_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASACarchaCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "CaveWolf_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/CaveWolf/ARKOLOGY_CaveWolf_Character_BP.ARKOLOGY_CaveWolf_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYCaveWolfCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieRavager/ASACaveWolf_Character_BP_EerieDinos.ASACaveWolf_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASACaveWolfCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Ceratosaurus_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Ceratosaurus/ARKOLOGY_Ceratosaurus_Character_BP_ASA.ARKOLOGY_Ceratosaurus_Character_BP_ASA_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYCeratosaurusCharacterBPASAC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieCeratosaurus/ASACeratosaurus_Character_BP_EerieDinos.ASACeratosaurus_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASACeratosaurusCharacterBPEerieDinosC"
-        },
-        {
-          "class": "/Z-DinoVariants/z-cera/Z_Aberrant_Ceratosaurus_Character_BP_ASA.Z_Aberrant_Ceratosaurus_Character_BP_ASA_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "z-aberrant",
-          "mods": [
-            "Z-DinoVariants"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ZAberrantCeratosaurusCharacterBPASAC"
-        }
-      ]
-    },
-    {
-      "name": "Chalico_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Chalicotherium/ARKOLOGY_Chalico_Character_BP.ARKOLOGY_Chalico_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYChalicoCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieChalicotherium/ASAChalico_Character_BP_EerieDinos.ASAChalico_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAChalicoCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "ChupaCabra_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Chupacabra/ARKOLOGY_ChupaCabra_Character_BP.ARKOLOGY_ChupaCabra_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYChupaCabraCharacterBPAberrantC"
-        }
-      ]
-    },
-    {
-      "name": "Crab_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Crab/ARKOLOGY_Crab_Character_BP.ARKOLOGY_Crab_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYCrabCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieKarkinos/ASACrab_Character_BP_EerieDinos.ASACrab_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASACrabCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Deathworm_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Deathworm/ARKOLOGY_Deathworm_Character_BP.ARKOLOGY_Deathworm_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYDeathwormCharacterBPAberrantC"
-        }
-      ]
-    },
-    {
-      "name": "Deinosuchus_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Deinosuchus/ARKOLOGY_DeinosuchusASA_Character_BP.ARKOLOGY_DeinosuchusASA_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYDeinosuchusASACharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieDeinosuchus/ASADeinosuchus_Character_BP_EerieDinos.ASADeinosuchus_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASADeinosuchusCharacterBPEerieDinosC"
-        },
-        {
-          "class": "/Z-DinoVariants/z-deinosuchus/Z_Aberrant_DeinosuchusASA_Character_BP.Z_Aberrant_DeinosuchusASA_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "z-aberrant",
-          "mods": [
-            "Z-DinoVariants"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ZAberrantDeinosuchusASACharacterBPC"
-        }
-      ]
-    },
-    {
-      "name": "Dilo_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Dilo/ARKOLOGY_Dilo_Character_BP.ARKOLOGY_Dilo_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYDiloCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieDilophosaur/ASADilo_Character_BP_EerieDinos.ASADilo_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASADiloCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Direwolf_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/DireWolf/ARKOLOGY_Direwolf_Character_BP.ARKOLOGY_Direwolf_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYDirewolfCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieDirewolf/ASADirewolf_Character_BP_EerieDinos.ASADirewolf_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASADirewolfCharacterBPEerieDinosC"
-        },
-        {
-          "class": "/Z-DinoVariants/z-direwolf/Z_Aberrant_Direwolf_Character_BP.Z_Aberrant_Direwolf_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "z-aberrant",
-          "mods": [
-            "Z-DinoVariants"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ZAberrantDirewolfCharacterBPC"
-        }
-      ]
-    },
-    {
-      "name": "Dolphin_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Dolphin/ARKOLOGY_Dolphin_Character_BP.ARKOLOGY_Dolphin_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYDolphinCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieIchthyosaurus/ASADolphin_Character_BP_EerieDinos.ASADolphin_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASADolphinCharacterBPEerieDinosC"
-        },
-        {
-          "class": "/Z_VariantsOceanLife/z-dolphin/Z_Aberrant_Dolphin_Character_BP.Z_Aberrant_Dolphin_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "z-aberrant",
-          "mods": [
-            "Z_VariantsOceanLife"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ZAberrantDolphinCharacterBPC"
-        }
-      ]
-    },
-    {
-      "name": "Dreadnoughtus_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Dreadnoughtus/ARKOLOGY_Dreadnoughtus_Character_BP.ARKOLOGY_Dreadnoughtus_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYDreadnoughtusCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieDreadnoughtus/ASADreadnoughtus_Character_BP_EerieDinos.ASADreadnoughtus_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASADreadnoughtusCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Dunkle_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Dunkle/ARKOLOGY_Dunkle_Character_BP.ARKOLOGY_Dunkle_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYDunkleCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieDunkleosteus/ASADunkle_Character_BP_EerieDinos.ASADunkle_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASADunkleCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Euryp_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Eurypterid/ARKOLOGY_Euryp_Character.ARKOLOGY_Euryp_Character_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYEurypCharacterC"
-        }
-      ]
-    },
-    {
-      "name": "Gigant_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Giga/ARKOLOGY_Gigant_Character_BP.ARKOLOGY_Gigant_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYGigantCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieGiganotosaurus/ASAGigant_Character_BP_EerieDinos.ASAGigant_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAGigantCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Hyaenodon_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Hyaenodon/ARKOLOGY_Hyaenodon_Character_BP.ARKOLOGY_Hyaenodon_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYHyaenodonCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieHyaenodon/ASAHyaenodon_Character_BP_EerieDinos.ASAHyaenodon_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAHyaenodonCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "IceJumper_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/IceJumper/ARKOLOGY_IceJumper_Character_BP.ARKOLOGY_IceJumper_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYIceJumperCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieManagarmr/ASAIceJumper_Character_BP_EerieDinos.ASAIceJumper_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAIceJumperCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Ichthyornis_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Ichthyornis/ARKOLOGY_Ichthyornis_Character_BP.ARKOLOGY_Ichthyornis_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYIchthyornisCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieIchthyornis/ASAIchthyornis_Character_BP_EerieDinos.ASAIchthyornis_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAIchthyornisCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Jerboa_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Jerboa/ARKOLOGY_Jerboa_Character_BP.ARKOLOGY_Jerboa_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYJerboaCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieJerboa/ASAJerboa_Character_BP_EerieDinos.ASAJerboa_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAJerboaCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Jugbug_Oil_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/JugBug/ARKOLOGY_Jugbug_Oil_Character_BP.ARKOLOGY_Jugbug_Oil_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYJugbugOilCharacterBPAberrantC"
-        }
-      ]
-    },
-    {
-      "name": "Jugbug_Water_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/JugBug/ARKOLOGY_Jugbug_Water_Character_BP.ARKOLOGY_Jugbug_Water_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYJugbugWaterCharacterBPAberrantC"
-        }
-      ]
-    },
-    {
-      "name": "Kaprosuchus_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Kapro/ARKOLOGY_Kaprosuchus_Character_BP.ARKOLOGY_Kaprosuchus_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYKaprosuchusCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieKaprosuchus/ASAKaprosuchus_Character_BP_EerieDinos.ASAKaprosuchus_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAKaprosuchusCharacterBPEerieDinosC"
-        },
-        {
-          "class": "/Z-DinoVariants/z-kapro/Z_Aberrant_Kaprosuchus_Character_BP.Z_Aberrant_Kaprosuchus_Character_BP_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "z-aberrant",
-          "mods": [
-            "Z-DinoVariants"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ZAberrantKaprosuchusCharacterBPC"
-        }
-      ]
-    },
-    {
-      "name": "LanternBird_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/LanternBird/ARKOLOGY_LanternBird_Character_BP.ARKOLOGY_LanternBird_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYLanternBirdCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieFeatherlight/ASALanternBird_Character_BP_EerieDinos.ASALanternBird_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASALanternBirdCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "LanternGoat_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/LanternGoat/ARKOLOGY_LanternGoat_Character_BP.ARKOLOGY_LanternGoat_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYLanternGoatCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieShinehorn/ASALanternGoat_Character_BP_EerieDinos.ASALanternGoat_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASALanternGoatCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "LanternLizard_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/LanternLizard/ARKOLOGY_LanternLizard_Character_BP.ARKOLOGY_LanternLizard_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYLanternLizardCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieGlowtail/ASALanternLizard_Character_BP_EerieDinos.ASALanternLizard_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASALanternLizardCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "LanternPug_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/LanternPug/ARKOLOGY_LanternPug_Character_BP.ARKOLOGY_LanternPug_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYLanternPugCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieBulbdog/ASALanternPug_Character_BP_EerieDinos.ASALanternPug_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASALanternPugCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Leech_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Leech/ARKOLOGY_Leech_Character.ARKOLOGY_Leech_Character_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYLeechCharacterC"
-        }
-      ]
-    },
-    {
-      "name": "Leedsichthys_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Leed/ARKOLOGY_Leedsichthys_Character_BP.ARKOLOGY_Leedsichthys_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYLeedsichthysCharacterBPAberrantC"
-        }
-      ]
-    },
-    {
-      "name": "Liopleurodon_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Liopluerodon/ARKOLOGY_Liopluerodon_Character_BP.ARKOLOGY_Liopluerodon_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYLiopluerodonCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieLiopleurodon/ASALiopleurodon_Character_BP_EerieDinos.ASALiopleurodon_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASALiopleurodonCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Moth_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Lymantria/ARKOLOGY_Moth_Character_BP.ARKOLOGY_Moth_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYMothCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieLymantria/ASAMoth_Character_BP_EerieDinos.ASAMoth_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAMothCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Mammoth_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Mammoth/ARKOLOGY_Mammoth_Character_BP.ARKOLOGY_Mammoth_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYMammothCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieMammoth/ASAMammoth_Character_BP_EerieDinos.ASAMammoth_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAMammothCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Mantis_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Mantis/ARKOLOGY_Mantis_Character_BP.ARKOLOGY_Mantis_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYMantisCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieMantis/ASAMantis_Character_BP_EerieDinos.ASAMantis_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAMantisCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Megalodon_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Megalodon/ARKOLOGY_Megalodon_Character_BP.ARKOLOGY_Megalodon_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYMegalodonCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieMegalodon/ASAMegalodon_Character_BP_EerieDinos.ASAMegalodon_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAMegalodonCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Megatherium_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Megatherium/ARKOLOGY_Megatherium_Character_BP.ARKOLOGY_Megatherium_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYMegatheriumCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieMegatherium/ASAMegatherium_Character_BP_EerieDinos.ASAMegatherium_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAMegatheriumCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "MoleRat_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/MoleRat/ARKOLOGY_MoleRat_Character_BP.ARKOLOGY_MoleRat_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYMoleRatCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieRollRat/ASAMoleRat_Character_BP_EerieDinos.ASAMoleRat_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAMoleRatCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Monkey_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Monkey/ARKOLOGY_Monkey_Character_BP.ARKOLOGY_Monkey_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYMonkeyCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieMesopithecus/ASAMonkey_Character_BP_EerieDinos.ASAMonkey_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAMonkeyCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "camelsaurus_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Morellatops/ARKOLOGY_camelsaurus_Character_BP.ARKOLOGY_camelsaurus_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYcamelsaurusCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieMorellatops/ASAcamelsaurus_Character_BP_EerieDinos.ASAcamelsaurus_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAcamelsaurusCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Mosa_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Mosa/ARKOLOGY_Mosa_Character_BP.ARKOLOGY_Mosa_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYMosaCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieMosasaurus/ASAMosa_Character_BP_EerieDinos.ASAMosa_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAMosaCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Pachy_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Pachy/ARKOLOGY_Pachy_Character_BP.ARKOLOGY_Pachy_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYPachyCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EeriePachy/ASAPachy_Character_BP_EerieDinos.ASAPachy_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAPachyCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Pachyrhino_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Pachyrhino/ARKOLOGY_Pachyrhino_Character_BP.ARKOLOGY_Pachyrhino_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYPachyrhinoCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EeriePachyrhinosaurus/ASAPachyrhino_Character_BP_EerieDinos.ASAPachyrhino_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAPachyrhinoCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Pela_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Pelagornis/ARKOLOGY_Pela_Character_BP.ARKOLOGY_Pela_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYPelaCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EeriePelagornis/ASAPela_Character_BP_EerieDinos.ASAPela_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAPelaCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Phiomia_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Phiomia/ARKOLOGY_Phiomia_Character_BP.ARKOLOGY_Phiomia_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYPhiomiaCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EeriePhiomia/ASAPhiomia_Character_BP_EerieDinos.ASAPhiomia_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAPhiomiaCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Plesiosaur_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Plesi/ARKOLOGY_Plesiosaur_Character_BP.ARKOLOGY_Plesiosaur_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYPlesiosaurCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EeriePlesiosaur/ASAPlesiosaur_Character_BP_EerieDinos.ASAPlesiosaur_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAPlesiosaurCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Ptero_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Pteranodon/ARKOLOGY_Ptero_Character_BP.ARKOLOGY_Ptero_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYPteroCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EeriePteranodon/ASAPtero_Character_BP_EerieDinos.ASAPtero_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAPteroCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Pteroteuthis_Char_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Pteroteuthis/ARKOLOGY_Pteroteuthis_Char_BP.ARKOLOGY_Pteroteuthis_Char_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYPteroteuthisCharBPAberrantC"
-        }
-      ]
-    },
-    {
-      "name": "Quetz_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Quetzal/ARKOLOGY_Quetz_Character_BP.ARKOLOGY_Quetz_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYQuetzCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieQuetzal/ASAQuetz_Character_BP_EerieDinos.ASAQuetz_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAQuetzCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Rex_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Rex/ARKOLOGY_Rex_Character_BP.ARKOLOGY_Rex_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYRexCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieRex/ASARex_Character_BP_EerieDinos.ASARex_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASARexCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Rhynio_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Rhynio/ARKOLOGY_Rhynio_Character_BP.ARKOLOGY_Rhynio_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYRhynioCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieRhynio/ASARhynio_Character_BP_EerieDinos.ASARhynio_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASARhynioCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "RockDrake_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/RockDrake/ARKOLOGY_RockDrake_Character_BP.ARKOLOGY_RockDrake_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYRockDrakeCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieRockDrake/ASARockDrake_Character_BP_EerieDinos.ASARockDrake_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASARockDrakeCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "RockGolem_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/RockGolem/ARKOLOGY_RockGolem_Character_BP.ARKOLOGY_RockGolem_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYRockGolemCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieRockElemental/ASARockGolem_Character_BP_EerieDinos.ASARockGolem_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASARockGolemCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "RubbleGolem_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/RockGolem/ARKOLOGY_RubbleGolem_Character_BP.ARKOLOGY_RubbleGolem_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYRubbleGolemCharacterBPAberrantC"
-        }
-      ]
-    },
-    {
-      "name": "Salmon_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Salmon/ARKOLOGY_Salmon_Character_BP.ARKOLOGY_Salmon_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYSalmonCharacterBPAberrantC"
-        }
-      ]
-    },
-    {
-      "name": "Shastasaurus_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Shasta/ARKOLOGY_Shastasaurus_Character_BP.ARKOLOGY_Shastasaurus_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYShastasaurusCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieShastasaurus/ASAShastasaurus_Character_BP_EerieDinos.ASAShastasaurus_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAShastasaurusCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Megaraneo_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Spider/ARKOLOGY_Megaraneo_Character_BP.ARKOLOGY_Megaraneo_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYMegaraneoCharacterBPAberrantC"
-        }
-      ]
-    },
-    {
-      "name": "Spindles_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Spindles/ARKOLOGY_Spindles_Character_BP.ARKOLOGY_Spindles_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYSpindlesCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieVelonasaur/ASASpindles_Character_BP_EerieDinos.ASASpindles_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASASpindlesCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "TerrorBird_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/TerrorBird/ARKOLOGY_TerrorBird_Character_BP.ARKOLOGY_TerrorBird_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYTerrorBirdCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieTerrorbird/ASATerrorBird_Character_BP_EerieDinos.ASATerrorBird_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASATerrorBirdCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Therizino_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Therizino/ARKOLOGY_Therizino_Character_BP.ARKOLOGY_Therizino_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYTherizinoCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieTherizinosaurus/ASATherizino_Character_BP_EerieDinos.ASATherizino_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASATherizinoCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "SpineyLizard_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/ThornyDragon/ARKOLOGY_SpineyLizard_Character_BP.ARKOLOGY_SpineyLizard_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYSpineyLizardCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieThornyDragon/ASASpineyLizard_Character_BP_EerieDinos.ASASpineyLizard_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASASpineyLizardCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Thylacoleo_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Thylacoleo/ARKOLOGY_Thylacoleo_Character_BP.ARKOLOGY_Thylacoleo_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYThylacoleoCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieThylacoleo/ASAThylacoleo_Character_BP_EerieDinos.ASAThylacoleo_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAThylacoleoCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Titanosaur_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Titanosaur/Arkology_Titanosaur_Character_BP.Arkology_Titanosaur_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ArkologyTitanosaurCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieTitanosaur/ASATitanosaur_Character_BP_EerieDinos.ASATitanosaur_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASATitanosaurCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Trilobite_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Trilobite/ARKOLOGY_Trilobite_Character.ARKOLOGY_Trilobite_Character_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYTrilobiteCharacterC"
-        }
-      ]
-    },
-    {
-      "name": "Tusoteuthis_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Tuso/ARKOLOGY_Tusoteuthis_Character_BP.ARKOLOGY_Tusoteuthis_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYTusoteuthisCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieTusoteuthis/ASATusoteuthis_Character_BP_EerieDinos.ASATusoteuthis_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASATusoteuthisCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Vulture_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Vulture/ARKOLOGY_Vulture_Character_BP.ARKOLOGY_Vulture_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYVultureCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieVulture/ASAVulture_Character_BP_EerieDinos.ASAVulture_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAVultureCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Xiphactinus_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Xiphactinus/ARKOLOGY_Xiphactinus_Character_BP_ASA.ARKOLOGY_Xiphactinus_Character_BP_ASA_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYXiphactinusCharacterBPASAC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieXiphactinus/ASAXiphactinus_Character_BP_EerieDinos.ASAXiphactinus_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAXiphactinusCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "YiLing_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/YiLing/ARKOLOGY_YiLing_Character_BP.ARKOLOGY_YiLing_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYYiLingCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieYiLing/ASAYiLing_Character_BP_EerieDinos.ASAYiLing_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAYiLingCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Yutyrannus_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Yuty/ARKOLOGY_Yutyrannus_Character_BP.ARKOLOGY_Yutyrannus_Character_BP_Aberrant_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "arkology-aberrant",
-          "mods": [
-            "ARKOLOGY_NEWENCOUNTERS"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ARKOLOGYYutyrannusCharacterBPAberrantC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieYutyrannus/ASAYutyrannus_Character_BP_EerieDinos.ASAYutyrannus_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAYutyrannusCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
       "name": "Megaraneo_Character_BP_C",
       "dinos": [
         {
@@ -16545,111 +12855,8 @@
       ]
     },
     {
-      "name": "Archa_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieArchaeopteryx/ASAArcha_Character_BP_EerieDinos.ASAArcha_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAArchaCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Doggo_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieArmadoggo/ASADoggo_Character_BP_EerieDinos.ASADoggo_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASADoggoCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Compy_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieCompy/ASACompy_Character_BP_EerieDinos.ASACompy_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASACompyCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "JumpingSpider_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieCosmo/ASAJumpingSpider_Character_BP_EerieDinos.ASAJumpingSpider_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAJumpingSpiderCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Daeodon_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieDaeodon/ASADaeodon_Character_BP_EerieDinos.ASADaeodon_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASADaeodonCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
       "name": "Dodo_Character_BP_Cultivator_C",
       "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieDodo/ASADodo_Character_BP_Cultivator_EerieDinos.ASADodo_Character_BP_Cultivator_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASADodoCharacterBPCultivatorEerieDinosC"
-        },
         {
           "class": "/Ark-EerieDinos/EerieVariants/EerieDodo/ASADodo_Character_BP_Cultivator_EerieDinos.ASADodo_Character_BP_Cultivator_EerieDinos_C",
           "allowBaby": true,
@@ -16672,19 +12879,6 @@
           "class": "/Ark-EerieDinos/EerieVariants/EerieDodo/ASADodo_Character_BP_Decimation_EerieDinos.ASADodo_Character_BP_Decimation_EerieDinos_C",
           "allowBaby": true,
           "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASADodoCharacterBPDecimationEerieDinosC"
-        },
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieDodo/ASADodo_Character_BP_Decimation_EerieDinos.ASADodo_Character_BP_Decimation_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
           "variant": "eerie",
           "mods": [
             "Ark-EerieDinos"
@@ -16693,402 +12887,6 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ASADodoCharacterBPDecimationEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "DarkPegasus_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieDreadmare/ASADarkPegasus_Character_BP_EerieDinos.ASADarkPegasus_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASADarkPegasusCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Enforcer_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieEnforcer/ASAEnforcer_Character_BP_EerieDinos.ASAEnforcer_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAEnforcerCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Gacha_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieGacha/ASAGacha_Character_BP_EerieDinos.ASAGacha_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAGachaCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Galli_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieGallimimus/ASAGalli_Character_BP_EerieDinos.ASAGalli_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAGalliCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "GasBags_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieGasbags/ASAGasBags_Character_BP_EerieDinos.ASAGasBags_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAGasBagsCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Hesperornis_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieHesperornis/ASAHesperornis_Character_BP_EerieDinos.ASAHesperornis_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAHesperornisCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Kairuku_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieKairuku/ASAKairuku_Character_BP_EerieDinos.ASAKairuku_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAKairukuCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Kentro_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieKentrosaurus/ASAKentro_Character_BP_EerieDinos.ASAKentro_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAKentroCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Maelizard_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieMaelizard/ASAMaelizard_Character_BP_EerieDinos.ASAMaelizard_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAMaelizardCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Stag_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieMegaloceros/ASAStag_Character_BP_EerieDinos.ASAStag_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAStagCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Microraptor_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieMicroraptor/ASAMicroraptor_Character_BP_EerieDinos.ASAMicroraptor_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAMicroraptorCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Oasisaur_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieOasisaur/ASAOasisaur_Character_BP_EerieDinos.ASAOasisaur_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAOasisaurCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Pegomastax_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EeriePegomastax/ASAPegomastax_Character_BP_EerieDinos.ASAPegomastax_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAPegomastaxCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Phoenix_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EeriePhoenix/ASAPhoenix_Character_BP_EerieDinos.ASAPhoenix_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAPhoenixCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Procoptodon_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieProcoptodon/ASAProcoptodon_Character_BP_EerieDinos.ASAProcoptodon_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAProcoptodonCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "FireLion_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EeriePyromane/ASAFireLion_Character_BP_EerieDinos.ASAFireLion_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAFireLionCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Saber_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieSabertooth/ASASaber_Character_BP_EerieDinos.ASASaber_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASASaberCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "HelperBot_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieSir5rM8/ASAHelperBot_Character_BP_EerieDinos.ASAHelperBot_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAHelperBotCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Owl_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieSnowOwl/ASAOwl_Character_BP_EerieDinos.ASAOwl_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASAOwlCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Tapejara_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieTapejara/ASATapejara_Character_BP_EerieDinos.ASATapejara_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASATapejaraCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Troodon_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieTroodon/ASATroodon_Character_BP_EerieDinos.ASATroodon_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASATroodonCharacterBPEerieDinosC"
-        }
-      ]
-    },
-    {
-      "name": "Rhino_Character_BP_Aberrant_C",
-      "dinos": [
-        {
-          "class": "/Ark-EerieDinos/EerieVariants/EerieWoollyRhino/ASARhino_Character_BP_EerieDinos.ASARhino_Character_BP_EerieDinos_C",
-          "allowBaby": true,
-          "levelMultiplier": 1,
-          "variant": "eerie-aberrant",
-          "mods": [
-            "Ark-EerieDinos"
-          ],
-          "modsExcluded": [],
-          "maps": [],
-          "mapsExcluded": [],
-          "configKey": "ASARhinoCharacterBPEerieDinosC"
         }
       ]
     },
@@ -17318,6 +13116,78 @@
       ]
     },
     {
+      "name": "Ceratosaurus_Character_BP_Aberrant_C",
+      "dinos": [
+        {
+          "class": "/Z-DinoVariants/z-cera/Z_Aberrant_Ceratosaurus_Character_BP_ASA.Z_Aberrant_Ceratosaurus_Character_BP_ASA_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "z-aberrant",
+          "mods": [
+            "Z-DinoVariants"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "ZAberrantCeratosaurusCharacterBPASAC"
+        }
+      ]
+    },
+    {
+      "name": "Deinosuchus_Character_BP_Aberrant_C",
+      "dinos": [
+        {
+          "class": "/Z-DinoVariants/z-deinosuchus/Z_Aberrant_DeinosuchusASA_Character_BP.Z_Aberrant_DeinosuchusASA_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "z-aberrant",
+          "mods": [
+            "Z-DinoVariants"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "ZAberrantDeinosuchusASACharacterBPC"
+        }
+      ]
+    },
+    {
+      "name": "Direwolf_Character_BP_Aberrant_C",
+      "dinos": [
+        {
+          "class": "/Z-DinoVariants/z-direwolf/Z_Aberrant_Direwolf_Character_BP.Z_Aberrant_Direwolf_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "z-aberrant",
+          "mods": [
+            "Z-DinoVariants"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "ZAberrantDirewolfCharacterBPC"
+        }
+      ]
+    },
+    {
+      "name": "Kaprosuchus_Character_BP_Aberrant_C",
+      "dinos": [
+        {
+          "class": "/Z-DinoVariants/z-kapro/Z_Aberrant_Kaprosuchus_Character_BP.Z_Aberrant_Kaprosuchus_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "z-aberrant",
+          "mods": [
+            "Z-DinoVariants"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "ZAberrantKaprosuchusCharacterBPC"
+        }
+      ]
+    },
+    {
       "name": "WilddogHyaenodon_Character_BP_Aberrant_C",
       "dinos": [
         {
@@ -17332,6 +13202,24 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ZAberrantWilddogHyaenodonCharacterBPC"
+        }
+      ]
+    },
+    {
+      "name": "Dolphin_Character_BP_Aberrant_C",
+      "dinos": [
+        {
+          "class": "/Z_VariantsOceanLife/z-dolphin/Z_Aberrant_Dolphin_Character_BP.Z_Aberrant_Dolphin_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "z-aberrant",
+          "mods": [
+            "Z_VariantsOceanLife"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "ZAberrantDolphinCharacterBPC"
         }
       ]
     },
@@ -17722,12 +13610,6 @@
       "weightConfigKey": "AmissaSpawnWeight"
     },
     {
-      "name": "arkology-aberrant",
-      "weight": 1,
-      "configKey": "ArkologyAberrant",
-      "weightConfigKey": "ArkologyAberrantSpawnWeight"
-    },
-    {
       "name": "arkology-alpha",
       "weight": 0.05263,
       "configKey": "ArkologyAlpha",
@@ -17750,12 +13632,6 @@
       "weight": 1,
       "configKey": "Arkology",
       "weightConfigKey": "ArkologySpawnWeight"
-    },
-    {
-      "name": "eerie-aberrant",
-      "weight": 0.02564,
-      "configKey": "EerieAberrant",
-      "weightConfigKey": "EerieAberrantSpawnWeight"
     },
     {
       "name": "eerie-tek",
