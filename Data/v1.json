@@ -3665,7 +3665,7 @@
       ]
     },
     {
-      "name": "Ammonite_Character_C",
+      "name": "Ammonite_Character_BP_C",
       "dinos": [
         {
           "class": "/Game/PrimalEarth/Dinos/Ammonite/Ammonite_Character.Ammonite_Character_C",
@@ -4558,6 +4558,7 @@
           "variant": "normal",
           "mods": [],
           "modsExcluded": [
+            "BigAlsCarchaReworkSmall",
             "CarchaTLC"
           ],
           "maps": [],
@@ -4591,6 +4592,19 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ArkologyCarchaCharacterBPC"
+        },
+        {
+          "class": "/BigAlsCarchaReworkSmall/CarchaSmall/TLCCarchaSmall_Character_BP.TLCCarchaSmall_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "normal",
+          "mods": [
+            "BigAlsCarchaReworkSmall"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "TLCCarchaSmallCharacterBPC"
         },
         {
           "class": "/CarchaTLC/Carcha/TLCCarchaBA_Character_BP.TLCCarchaBA_Character_BP_C",
@@ -5943,7 +5957,7 @@
       ]
     },
     {
-      "name": "Euryp_Character_C",
+      "name": "Euryp_Character_BP_C",
       "dinos": [
         {
           "class": "/Game/PrimalEarth/Dinos/Eurypterid/Euryp_Character.Euryp_Character_C",
@@ -6381,7 +6395,7 @@
       ]
     },
     {
-      "name": "Leech_Character_C",
+      "name": "Leech_Character_BP_C",
       "dinos": [
         {
           "class": "/Game/PrimalEarth/Dinos/Leech/Leech_Character.Leech_Character_C",
@@ -9402,7 +9416,7 @@
       ]
     },
     {
-      "name": "Trilobite_Character_C",
+      "name": "Trilobite_Character_BP_C",
       "dinos": [
         {
           "class": "/Game/PrimalEarth/Dinos/Trilobite/Trilobite_Character.Trilobite_Character_C",
@@ -12851,6 +12865,24 @@
           "maps": [],
           "mapsExcluded": [],
           "configKey": "ARKOLOGYMegaraneoCharacterBPC"
+        }
+      ]
+    },
+    {
+      "name": "Carcha_Character_BP_Aberrant_C",
+      "dinos": [
+        {
+          "class": "/BigAlsCarchaReworkSmall/CarchaSmall/Variants/Aberration/AB_TLCCarchaSmall_Character_BP.AB_TLCCarchaSmall_Character_BP_C",
+          "allowBaby": true,
+          "levelMultiplier": 1,
+          "variant": "normal",
+          "mods": [
+            "BigAlsCarchaReworkSmall"
+          ],
+          "modsExcluded": [],
+          "maps": [],
+          "mapsExcluded": [],
+          "configKey": "ABTLCCarchaSmallCharacterBPC"
         }
       ]
     },
