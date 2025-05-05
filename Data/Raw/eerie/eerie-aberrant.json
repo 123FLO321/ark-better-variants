@@ -1,0 +1,632 @@
+{
+    "variantName": "eerie-aberrant",
+    "allowBaby": true,
+    "levelMultiplier": 1.0,
+    "weight": 0.02564,
+    "mods": [
+        {
+            "id": 935916,
+            "name": "Ark-EerieDinos",
+            "type": "required"
+        }
+    ],
+    "maps": [],
+    "dinos": [
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieAchatina/ASAAchatina_Character_BP_EerieDinos.ASAAchatina_Character_BP_EerieDinos_C",
+            "group": "Achatina_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieAllosaurus/ASAAllo_Character_BP_EerieDinos.ASAAllo_Character_BP_EerieDinos_C",
+            "group": "Allo_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieAngler/ASAAngler_Character_BP_EerieDinos.ASAAngler_Character_BP_EerieDinos_C",
+            "group": "Angler_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieAnkylosaurus/ASAAnkylo_Character_BP_EerieDinos.ASAAnkylo_Character_BP_EerieDinos_C",
+            "group": "Ankylo_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieAraneo/ASASpiderS_Character_BP_EerieDinos.ASASpiderS_Character_BP_EerieDinos_C",
+            "group": "SpiderS_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieArchaeopteryx/ASAArcha_Character_BP_EerieDinos.ASAArcha_Character_BP_EerieDinos_C",
+            "group": "Archa_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieArchelon/ASAArchelon_Character_BP_EerieDinos.ASAArchelon_Character_BP_EerieDinos_C",
+            "group": "Archelon_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieArgentavis/ASAArgent_Character_BP_EerieDinos.ASAArgent_Character_BP_EerieDinos_C",
+            "group": "Argent_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieArmadoggo/ASADoggo_Character_BP_EerieDinos.ASADoggo_Character_BP_EerieDinos_C",
+            "group": "Doggo_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieArthropleura/ASAArthro_Character_BP_Corrupt_EerieDinos.ASAArthro_Character_BP_Corrupt_EerieDinos_C",
+            "group": "Arthro_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieArthropleura/ASAArthro_Character_BP_EerieDinos.ASAArthro_Character_BP_EerieDinos_C",
+            "group": "Arthro_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieBaryonyx/ASABaryonyx_Character_BP_EerieDinos.ASABaryonyx_Character_BP_EerieDinos_C",
+            "group": "Baryonyx_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieBasilisk/ASABasilisk_Character_BP_EerieDinos.ASABasilisk_Character_BP_EerieDinos_C",
+            "group": "Basilisk_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieBasilosaurus/ASABasilosaurus_Character_BP_EerieDinos.ASABasilosaurus_Character_BP_EerieDinos_C",
+            "group": "Basilosaurus_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieBeelzebufo/ASAToad_Character_BP_EerieDinos.ASAToad_Character_BP_EerieDinos_C",
+            "group": "Toad_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieBrontosaurus/ASASauropod_Character_BP_EerieDinos.ASASauropod_Character_BP_EerieDinos_C",
+            "group": "Sauropod_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieBulbdog/ASALanternPug_Character_BP_EerieDinos.ASALanternPug_Character_BP_EerieDinos_C",
+            "group": "LanternPug_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieCarbonemys/ASATurtle_Character_BP_EerieDinos.ASATurtle_Character_BP_EerieDinos_C",
+            "group": "Turtle_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieCarcha/ASACarcha_Character_BP_EerieDinos.ASACarcha_Character_BP_EerieDinos_C",
+            "group": "Carcha_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieCarnotaurus/ASACarno_Character_BP_Corrupt_EerieDinos.ASACarno_Character_BP_Corrupt_EerieDinos_C",
+            "group": "Carno_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieCarnotaurus/ASACarno_Character_BP_EerieDinos.ASACarno_Character_BP_EerieDinos_C",
+            "group": "Carno_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieCastoroides/ASABeaver_Character_BP_EerieDinos.ASABeaver_Character_BP_EerieDinos_C",
+            "group": "Beaver_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieCeratosaurus/ASACeratosaurus_Character_BP_EerieDinos.ASACeratosaurus_Character_BP_EerieDinos_C",
+            "group": "Ceratosaurus_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieChalicotherium/ASAChalico_Character_BP_Corrupt_EerieDinos.ASAChalico_Character_BP_Corrupt_EerieDinos_C",
+            "group": "Chalico_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieChalicotherium/ASAChalico_Character_BP_EerieDinos.ASAChalico_Character_BP_EerieDinos_C",
+            "group": "Chalico_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieCompy/ASACompy_Character_BP_EerieDinos.ASACompy_Character_BP_EerieDinos_C",
+            "group": "Compy_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieCosmo/ASAJumpingSpider_Character_BP_EerieDinos.ASAJumpingSpider_Character_BP_EerieDinos_C",
+            "group": "JumpingSpider_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieDaeodon/ASADaeodon_Character_BP_EerieDinos.ASADaeodon_Character_BP_EerieDinos_C",
+            "group": "Daeodon_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieDeinosuchus/ASADeinosuchus_Character_BP_EerieDinos.ASADeinosuchus_Character_BP_EerieDinos_C",
+            "group": "Deinosuchus_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieDilophosaur/ASADilo_Character_BP_Corrupt_EerieDinos.ASADilo_Character_BP_Corrupt_EerieDinos_C",
+            "group": "Dilo_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieDilophosaur/ASADilo_Character_BP_EerieDinos.ASADilo_Character_BP_EerieDinos_C",
+            "group": "Dilo_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieDimetrodon/ASADimetro_Character_BP_EerieDinos.ASADimetro_Character_BP_EerieDinos_C",
+            "group": "Dimetro_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieDimorphodon/ASADimorph_Character_BP_Corrupt_EerieDinos.ASADimorph_Character_BP_Corrupt_EerieDinos_C",
+            "group": "Dimorph_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieDimorphodon/ASADimorph_Character_BP_EerieDinos.ASADimorph_Character_BP_EerieDinos_C",
+            "group": "Dimorph_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieDiplocaulus/ASADiplocaulus_Character_BP_EerieDinos.ASADiplocaulus_Character_BP_EerieDinos_C",
+            "group": "Diplocaulus_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieDiplodocus/ASADiplodocus_Character_BP_EerieDinos.ASADiplodocus_Character_BP_EerieDinos_C",
+            "group": "Diplodocus_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieDirebear/ASADirebear_Character_BP_EerieDinos.ASADirebear_Character_BP_EerieDinos_C",
+            "group": "Direbear_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieDirewolf/ASADirewolf_Character_BP_EerieDinos.ASADirewolf_Character_BP_EerieDinos_C",
+            "group": "Direwolf_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieDodo/ASADodo_Character_BP_Cultivator_EerieDinos.ASADodo_Character_BP_Cultivator_EerieDinos_C",
+            "group": "Dodo_Character_BP_Cultivator_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieDodo/ASADodo_Character_BP_Decimation_EerieDinos.ASADodo_Character_BP_Decimation_EerieDinos_C",
+            "group": "Dodo_Character_BP_Decimation_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieDodo/ASADodo_Character_BP_EerieDinos.ASADodo_Character_BP_EerieDinos_C",
+            "group": "Dodo_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieDoedicurus/ASADoed_Character_BP_EerieDinos.ASADoed_Character_BP_EerieDinos_C",
+            "group": "Doed_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieDreadmare/ASADarkPegasus_Character_BP_EerieDinos.ASADarkPegasus_Character_BP_EerieDinos_C",
+            "group": "DarkPegasus_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieDreadnoughtus/ASADreadnoughtus_Character_BP_EerieDinos.ASADreadnoughtus_Character_BP_EerieDinos_C",
+            "group": "Dreadnoughtus_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieDungBeetle/ASADungBeetle_Character_BP_EerieDinos.ASADungBeetle_Character_BP_EerieDinos_C",
+            "group": "DungBeetle_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieDunkleosteus/ASADunkle_Character_BP_EerieDinos.ASADunkle_Character_BP_EerieDinos_C",
+            "group": "Dunkle_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieEel/ASAEel_Character_BP_EerieDinos.ASAEel_Character_BP_EerieDinos_C",
+            "group": "Eel_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieEnforcer/ASAEnforcer_Character_BP_EerieDinos.ASAEnforcer_Character_BP_EerieDinos_C",
+            "group": "Enforcer_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieEquus/ASAEquus_Character_BP_EerieDinos.ASAEquus_Character_BP_EerieDinos_C",
+            "group": "Equus_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieFasolasuchus/ASAFasola_Character_BP_EerieDinos.ASAFasola_Character_BP_EerieDinos_C",
+            "group": "Fasola_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieFeatherlight/ASALanternBird_Character_BP_EerieDinos.ASALanternBird_Character_BP_EerieDinos_C",
+            "group": "LanternBird_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieGacha/ASAGacha_Character_BP_EerieDinos.ASAGacha_Character_BP_EerieDinos_C",
+            "group": "Gacha_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieGallimimus/ASAGalli_Character_BP_EerieDinos.ASAGalli_Character_BP_EerieDinos_C",
+            "group": "Galli_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieGasbags/ASAGasBags_Character_BP_EerieDinos.ASAGasBags_Character_BP_EerieDinos_C",
+            "group": "GasBags_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieGiganotosaurus/ASAGigant_Character_BP_Corrupt_EerieDinos.ASAGigant_Character_BP_Corrupt_EerieDinos_C",
+            "group": "Gigant_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieGiganotosaurus/ASAGigant_Character_BP_EerieDinos.ASAGigant_Character_BP_EerieDinos_C",
+            "group": "Gigant_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieGigantopithecus/ASABigfoot_Character_BP_EerieDinos.ASABigfoot_Character_BP_EerieDinos_C",
+            "group": "Bigfoot_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieGigantoraptor/ASAGigantoraptor_Character_BP_EerieDinos.ASAGigantoraptor_Character_BP_EerieDinos_C",
+            "group": "Gigantoraptor_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieGlowtail/ASALanternLizard_Character_BP_EerieDinos.ASALanternLizard_Character_BP_EerieDinos_C",
+            "group": "LanternLizard_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieHesperornis/ASAHesperornis_Character_BP_EerieDinos.ASAHesperornis_Character_BP_EerieDinos_C",
+            "group": "Hesperornis_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieHyaenodon/ASAHyaenodon_Character_BP_EerieDinos.ASAHyaenodon_Character_BP_EerieDinos_C",
+            "group": "Hyaenodon_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieIchthyornis/ASAIchthyornis_Character_BP_EerieDinos.ASAIchthyornis_Character_BP_EerieDinos_C",
+            "group": "Ichthyornis_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieIchthyosaurus/ASADolphin_Character_BP_EerieDinos.ASADolphin_Character_BP_EerieDinos_C",
+            "group": "Dolphin_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieIguanodon/ASAIguanodon_Character_BP_EerieDinos.ASAIguanodon_Character_BP_EerieDinos_C",
+            "group": "Iguanodon_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieJerboa/ASAJerboa_Character_BP_EerieDinos.ASAJerboa_Character_BP_EerieDinos_C",
+            "group": "Jerboa_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieKairuku/ASAKairuku_Character_BP_EerieDinos.ASAKairuku_Character_BP_EerieDinos_C",
+            "group": "Kairuku_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieKaprosuchus/ASAKaprosuchus_Character_BP_EerieDinos.ASAKaprosuchus_Character_BP_EerieDinos_C",
+            "group": "Kaprosuchus_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieKarkinos/ASACrab_Character_BP_EerieDinos.ASACrab_Character_BP_EerieDinos_C",
+            "group": "Crab_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieKentrosaurus/ASAKentro_Character_BP_EerieDinos.ASAKentro_Character_BP_EerieDinos_C",
+            "group": "Kentro_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieLiopleurodon/ASALiopleurodon_Character_BP_EerieDinos.ASALiopleurodon_Character_BP_EerieDinos_C",
+            "group": "Liopleurodon_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieLymantria/ASAMoth_Character_BP_EerieDinos.ASAMoth_Character_BP_EerieDinos_C",
+            "group": "Moth_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieLystrosaurus/ASALystro_Character_BP_EerieDinos.ASALystro_Character_BP_EerieDinos_C",
+            "group": "Lystro_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieMaelizard/ASAMaelizard_Character_BP_EerieDinos.ASAMaelizard_Character_BP_EerieDinos_C",
+            "group": "Maelizard_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieMammoth/ASAMammoth_Character_BP_EerieDinos.ASAMammoth_Character_BP_EerieDinos_C",
+            "group": "Mammoth_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieManagarmr/ASAIceJumper_Character_BP_EerieDinos.ASAIceJumper_Character_BP_EerieDinos_C",
+            "group": "IceJumper_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieManta/ASAManta_Character_BP_EerieDinos.ASAManta_Character_BP_EerieDinos_C",
+            "group": "Manta_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieMantis/ASAMantis_Character_BP_EerieDinos.ASAMantis_Character_BP_EerieDinos_C",
+            "group": "Mantis_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieMegalania/ASAMegalania_Character_BP_EerieDinos.ASAMegalania_Character_BP_EerieDinos_C",
+            "group": "Megalania_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieMegaloceros/ASAStag_Character_BP_EerieDinos.ASAStag_Character_BP_EerieDinos_C",
+            "group": "Stag_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieMegalodon/ASAMegalodon_Character_BP_EerieDinos.ASAMegalodon_Character_BP_EerieDinos_C",
+            "group": "Megalodon_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieMegalosaurus/ASAMegalosaurus_Character_BP_EerieDinos.ASAMegalosaurus_Character_BP_EerieDinos_C",
+            "group": "Megalosaurus_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieMegatherium/ASAMegatherium_Character_BP_EerieDinos.ASAMegatherium_Character_BP_EerieDinos_C",
+            "group": "Megatherium_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieMesopithecus/ASAMonkey_Character_BP_EerieDinos.ASAMonkey_Character_BP_EerieDinos_C",
+            "group": "Monkey_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieMicroraptor/ASAMicroraptor_Character_BP_EerieDinos.ASAMicroraptor_Character_BP_EerieDinos_C",
+            "group": "Microraptor_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieMorellatops/ASAcamelsaurus_Character_BP_EerieDinos.ASAcamelsaurus_Character_BP_EerieDinos_C",
+            "group": "camelsaurus_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieMosasaurus/ASAMosa_Character_BP_EerieDinos.ASAMosa_Character_BP_EerieDinos_C",
+            "group": "Mosa_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieMoschops/ASAMoschops_Character_BP_EerieDinos.ASAMoschops_Character_BP_EerieDinos_C",
+            "group": "Moschops_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieOasisaur/ASAOasisaur_Character_BP_EerieDinos.ASAOasisaur_Character_BP_EerieDinos_C",
+            "group": "Oasisaur_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieOnyc/ASABat_Character_BP_EerieDinos.ASABat_Character_BP_EerieDinos_C",
+            "group": "Bat_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieOtter/ASAOtter_Character_BP_EerieDinos.ASAOtter_Character_BP_EerieDinos_C",
+            "group": "Otter_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieOviraptor/ASAOviraptor_Character_BP_EerieDinos.ASAOviraptor_Character_BP_EerieDinos_C",
+            "group": "Oviraptor_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieOvis/ASASheep_Character_BP_EerieDinos.ASASheep_Character_BP_EerieDinos_C",
+            "group": "Sheep_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EeriePachy/ASAPachy_Character_BP_EerieDinos.ASAPachy_Character_BP_EerieDinos_C",
+            "group": "Pachy_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EeriePachyrhinosaurus/ASAPachyrhino_Character_BP_EerieDinos.ASAPachyrhino_Character_BP_EerieDinos_C",
+            "group": "Pachyrhino_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieParaceratherium/ASAParacer_Character_BP_Corrupt_EerieDinos.ASAParacer_Character_BP_Corrupt_EerieDinos_C",
+            "group": "Paracer_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieParaceratherium/ASAParacer_Character_BP_EerieDinos.ASAParacer_Character_BP_EerieDinos_C",
+            "group": "Paracer_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieParasaur/ASAPara_Character_BP_EerieDinos.ASAPara_Character_BP_EerieDinos_C",
+            "group": "Para_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EeriePegomastax/ASAPegomastax_Character_BP_EerieDinos.ASAPegomastax_Character_BP_EerieDinos_C",
+            "group": "Pegomastax_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EeriePelagornis/ASAPela_Character_BP_EerieDinos.ASAPela_Character_BP_EerieDinos_C",
+            "group": "Pela_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EeriePhiomia/ASAPhiomia_Character_BP_EerieDinos.ASAPhiomia_Character_BP_EerieDinos_C",
+            "group": "Phiomia_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EeriePhoenix/ASAPhoenix_Character_BP_EerieDinos.ASAPhoenix_Character_BP_EerieDinos_C",
+            "group": "Phoenix_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EeriePlesiosaur/ASAPlesiosaur_Character_BP_EerieDinos.ASAPlesiosaur_Character_BP_EerieDinos_C",
+            "group": "Plesiosaur_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieProcoptodon/ASAProcoptodon_Character_BP_EerieDinos.ASAProcoptodon_Character_BP_EerieDinos_C",
+            "group": "Procoptodon_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EeriePteranodon/ASAPtero_Character_BP_Corrupt_EerieDinos.ASAPtero_Character_BP_Corrupt_EerieDinos_C",
+            "group": "Ptero_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EeriePteranodon/ASAPtero_Character_BP_EerieDinos.ASAPtero_Character_BP_EerieDinos_C",
+            "group": "Ptero_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EeriePulmonoscorpius/ASAScorpion_Character_BP_EerieDinos.ASAScorpion_Character_BP_EerieDinos_C",
+            "group": "Scorpion_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EeriePurlovia/ASAPurlovia_Character_BP_EerieDinos.ASAPurlovia_Character_BP_EerieDinos_C",
+            "group": "Purlovia_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EeriePyromane/ASAFireLion_Character_BP_EerieDinos.ASAFireLion_Character_BP_EerieDinos_C",
+            "group": "FireLion_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieQuetzal/ASAQuetz_Character_BP_EerieDinos.ASAQuetz_Character_BP_EerieDinos_C",
+            "group": "Quetz_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieRaptor/ASARaptor_Character_BP_Corrupt_EerieDinos.ASARaptor_Character_BP_Corrupt_EerieDinos_C",
+            "group": "Raptor_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieRaptor/ASARaptor_Character_BP_EerieDinos.ASARaptor_Character_BP_EerieDinos_C",
+            "group": "Raptor_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieRavager/ASACaveWolf_Character_BP_EerieDinos.ASACaveWolf_Character_BP_EerieDinos_C",
+            "group": "CaveWolf_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieReaper/EerieKing/ASAXenomorph_Character_BP_Male_Tamed_EerieDinos.ASAXenomorph_Character_BP_Male_Tamed_EerieDinos_C",
+            "group": "Xenomorph_Character_BP_Male_Tamed_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieReaper/EerieKing/Corrupt/ASAXenomorph_Character_BP_Male_Tamed_Corrupt_EerieDinos.ASAXenomorph_Character_BP_Male_Tamed_Corrupt_EerieDinos_C",
+            "group": "Xenomorph_Character_BP_Male_Tamed_Corrupt_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieReaper/EerieQueen/ASAXenomorph_Character_BP_Female_EerieDinos.ASAXenomorph_Character_BP_Female_EerieDinos_C",
+            "group": "Xenomorph_Character_BP_Female_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieRex/ASARex_Character_BP_Corrupt_EerieDinos.ASARex_Character_BP_Corrupt_EerieDinos_C",
+            "group": "Rex_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieRex/ASARex_Character_BP_EerieDinos.ASARex_Character_BP_EerieDinos_C",
+            "group": "Rex_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieRhynio/ASARhynio_Character_BP_EerieDinos.ASARhynio_Character_BP_EerieDinos_C",
+            "group": "Rhynio_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieRockDrake/ASARockDrake_Character_BP_Corrupt_EerieDinos.ASARockDrake_Character_BP_Corrupt_EerieDinos_C",
+            "group": "RockDrake_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieRockDrake/ASARockDrake_Character_BP_EerieDinos.ASARockDrake_Character_BP_EerieDinos_C",
+            "group": "RockDrake_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieRockElemental/ASARockGolem_Character_BP_EerieDinos.ASARockGolem_Character_BP_EerieDinos_C",
+            "group": "RockGolem_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieRollRat/ASAMoleRat_Character_BP_EerieDinos.ASAMoleRat_Character_BP_EerieDinos_C",
+            "group": "MoleRat_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieSabertooth/ASASaber_Character_BP_EerieDinos.ASASaber_Character_BP_EerieDinos_C",
+            "group": "Saber_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieSarco/ASASarco_Character_BP_EerieDinos.ASASarco_Character_BP_EerieDinos_C",
+            "group": "Sarco_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieShastasaurus/ASAShastasaurus_Character_BP_EerieDinos.ASAShastasaurus_Character_BP_EerieDinos_C",
+            "group": "Shastasaurus_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieShinehorn/ASALanternGoat_Character_BP_EerieDinos.ASALanternGoat_Character_BP_EerieDinos_C",
+            "group": "LanternGoat_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieSir5rM8/ASAHelperBot_Character_BP_EerieDinos.ASAHelperBot_Character_BP_EerieDinos_C",
+            "group": "HelperBot_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieSnowOwl/ASAOwl_Character_BP_EerieDinos.ASAOwl_Character_BP_EerieDinos_C",
+            "group": "Owl_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieSpinosaurus/ASASpino_Character_BP_Corrupt_EerieDinos.ASASpino_Character_BP_Corrupt_EerieDinos_C",
+            "group": "Spino_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieSpinosaurus/ASASpino_Character_BP_EerieDinos.ASASpino_Character_BP_EerieDinos_C",
+            "group": "Spino_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieStegosaurus/ASAStego_Character_BP_Corrupt_EerieDinos.ASAStego_Character_BP_Corrupt_EerieDinos_C",
+            "group": "Stego_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieStegosaurus/ASAStego_Character_BP_EerieDinos.ASAStego_Character_BP_EerieDinos_C",
+            "group": "Stego_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieTapejara/ASATapejara_Character_BP_EerieDinos.ASATapejara_Character_BP_EerieDinos_C",
+            "group": "Tapejara_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieTerrorbird/ASATerrorBird_Character_BP_EerieDinos.ASATerrorBird_Character_BP_EerieDinos_C",
+            "group": "TerrorBird_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieTherizinosaurus/ASATherizino_Character_BP_EerieDinos.ASATherizino_Character_BP_EerieDinos_C",
+            "group": "Therizino_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieThornyDragon/ASASpineyLizard_Character_BP_EerieDinos.ASASpineyLizard_Character_BP_EerieDinos_C",
+            "group": "SpineyLizard_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieThylacoleo/ASAThylacoleo_Character_BP_EerieDinos.ASAThylacoleo_Character_BP_EerieDinos_C",
+            "group": "Thylacoleo_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieTitanoboa/ASABoaFrill_Character_BP_EerieDinos.ASABoaFrill_Character_BP_EerieDinos_C",
+            "group": "BoaFrill_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieTitanosaur/ASATitanosaur_Character_BP_EerieDinos.ASATitanosaur_Character_BP_EerieDinos_C",
+            "group": "Titanosaur_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieTriceratops/ASATrike_Character_BP_Corrupt_EerieDinos.ASATrike_Character_BP_Corrupt_EerieDinos_C",
+            "group": "Trike_Character_BP_Corrupt_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieTriceratops/ASATrike_Character_BP_EerieDinos.ASATrike_Character_BP_EerieDinos_C",
+            "group": "Trike_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieTroodon/ASATroodon_Character_BP_EerieDinos.ASATroodon_Character_BP_EerieDinos_C",
+            "group": "Troodon_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieTusoteuthis/ASATusoteuthis_Character_BP_EerieDinos.ASATusoteuthis_Character_BP_EerieDinos_C",
+            "group": "Tusoteuthis_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieUnicorn/ASAEquus_Character_BP_Unicorn_EerieDinos.ASAEquus_Character_BP_Unicorn_EerieDinos_C",
+            "group": "Equus_Character_BP_Unicorn_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieVelonasaur/ASASpindles_Character_BP_EerieDinos.ASASpindles_Character_BP_EerieDinos_C",
+            "group": "Spindles_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieVulture/ASAVulture_Character_BP_EerieDinos.ASAVulture_Character_BP_EerieDinos_C",
+            "group": "Vulture_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieWoollyRhino/ASARhino_Character_BP_EerieDinos.ASARhino_Character_BP_EerieDinos_C",
+            "group": "Rhino_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieWyvern/ASAWyvern_Character_BP_Fire_Corrupt_EerieDinos.ASAWyvern_Character_BP_Fire_Corrupt_EerieDinos_C",
+            "group": "Wyvern_Character_BP_Fire_Corrupt_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieWyvern/ASAWyvern_Character_BP_Fire_EerieDinos.ASAWyvern_Character_BP_Fire_EerieDinos_C",
+            "group": "Wyvern_Character_BP_Fire_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieWyvern/ASAWyvern_Character_BP_Lightning_EerieDinos.ASAWyvern_Character_BP_Lightning_EerieDinos_C",
+            "group": "Wyvern_Character_BP_Lightning_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieWyvern/ASAWyvern_Character_BP_Poison_EerieDinos.ASAWyvern_Character_BP_Poison_EerieDinos_C",
+            "group": "Wyvern_Character_BP_Poison_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieXiphactinus/ASAXiphactinus_Character_BP_EerieDinos.ASAXiphactinus_Character_BP_EerieDinos_C",
+            "group": "Xiphactinus_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieYiLing/ASAYiLing_Character_BP_EerieDinos.ASAYiLing_Character_BP_EerieDinos_C",
+            "group": "YiLing_Character_BP_Aberrant_C"
+        },
+        {
+            "class": "/Ark-EerieDinos/EerieVariants/EerieYutyrannus/ASAYutyrannus_Character_BP_EerieDinos.ASAYutyrannus_Character_BP_EerieDinos_C",
+            "group": "Yutyrannus_Character_BP_Aberrant_C"
+        }
+    ]
+}
