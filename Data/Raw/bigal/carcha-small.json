@@ -1,0 +1,24 @@
+{
+    "variantName": "normal",
+    "allowBaby": true,
+    "levelMultiplier": 1.0,
+    "weight": 1.0,
+    "mods": [
+        {
+            "id": 982108,
+            "name": "BigAlsCarchaReworkSmall",
+            "type": "required"
+        }
+    ],
+    "maps": [],
+    "dinos": [
+        {
+            "class": "/BigAlsCarchaReworkSmall/CarchaSmall/TLCCarchaSmall_Character_BP.TLCCarchaSmall_Character_BP_C",
+            "replaceClass": "/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP_C",
+            "group": "Carcha_Character_BP_C"
+        }, {
+            "class": "/BigAlsCarchaReworkSmall/CarchaSmall/Variants/Aberration/AB_TLCCarchaSmall_Character_BP.AB_TLCCarchaSmall_Character_BP_C",
+            "group": "Carcha_Character_BP_Aberrant_C"
+        }
+    ]
+}
