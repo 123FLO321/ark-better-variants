@@ -212,7 +212,7 @@
         },
         {
             "class": "/Game/PrimalEarth/Dinos/Ammonite/Ammonite_Character.Ammonite_Character_C",
-            "group": "Ammonite_Character_BP_C"
+            "group": "Ammonite_Character_C"
         },
         {
             "class": "/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP_C",
@@ -400,7 +400,7 @@
         },
         {
             "class": "/Game/PrimalEarth/Dinos/Eurypterid/Euryp_Character.Euryp_Character_C",
-            "group": "Euryp_Character_BP_C"
+            "group": "Euryp_Character_C"
         },
         {
             "class": "/Game/PrimalEarth/Dinos/Gallimimus/Galli_Character_BP.Galli_Character_BP_C",
@@ -448,7 +448,7 @@
         },
         {
             "class": "/Game/PrimalEarth/Dinos/Leech/Leech_Character.Leech_Character_C",
-            "group": "Leech_Character_BP_C"
+            "group": "Leech_Character_C"
         },
         {
             "class": "/Game/PrimalEarth/Dinos/Leech/Leech_Character_Diseased.Leech_Character_Diseased_C",
@@ -684,7 +684,7 @@
         },
         {
             "class": "/Game/PrimalEarth/Dinos/Trilobite/Trilobite_Character.Trilobite_Character_C",
-            "group": "Trilobite_Character_BP_C"
+            "group": "Trilobite_Character_C"
         },
         {
             "class": "/Game/PrimalEarth/Dinos/Troodon/Troodon_Character_BP.Troodon_Character_BP_C",

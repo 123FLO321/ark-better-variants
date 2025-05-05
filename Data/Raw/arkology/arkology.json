@@ -22,7 +22,7 @@
         },
         {
             "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Ammonite/ARKOLOGY_Ammonite_Character.ARKOLOGY_Ammonite_Character_C",
-            "group": "Ammonite_Character_BP_C"
+            "group": "Ammonite_Character_C"
         },
         {
             "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Angler/ARKOLOGY_Angler_Character_BP.ARKOLOGY_Angler_Character_BP_C",
@@ -190,7 +190,7 @@
         },
         {
             "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Eurypterid/ARKOLOGY_Euryp_Character.ARKOLOGY_Euryp_Character_C",
-            "group": "Euryp_Character_BP_C"
+            "group": "Euryp_Character_C"
         },
         {
             "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Fasola/ARKOLOGY_Fasola_Character_BP.ARKOLOGY_Fasola_Character_BP_C",
@@ -254,7 +254,7 @@
         },
         {
             "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Leech/ARKOLOGY_Leech_Character.ARKOLOGY_Leech_Character_C",
-            "group": "Leech_Character_BP_C"
+            "group": "Leech_Character_C"
         },
         {
             "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Leech/ARKOLOGY_Leech_Character_Diseased.ARKOLOGY_Leech_Character_Diseased_C",
@@ -482,7 +482,7 @@
         },
         {
             "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Trilobite/ARKOLOGY_Trilobite_Character.ARKOLOGY_Trilobite_Character_C",
-            "group": "Trilobite_Character_BP_C"
+            "group": "Trilobite_Character_C"
         },
         {
             "class": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Tuso/ARKOLOGY_Tusoteuthis_Character_BP.ARKOLOGY_Tusoteuthis_Character_BP_C",
