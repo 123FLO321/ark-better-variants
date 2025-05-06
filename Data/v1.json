@@ -4558,7 +4558,6 @@
           "variant": "normal",
           "mods": [],
           "modsExcluded": [
-            "BigAlsCarchaReworkSmall",
             "CarchaTLC"
           ],
           "maps": [],
@@ -4597,7 +4596,7 @@
           "class": "/BigAlsCarchaReworkSmall/CarchaSmall/TLCCarchaSmall_Character_BP.TLCCarchaSmall_Character_BP_C",
           "allowBaby": true,
           "levelMultiplier": 1,
-          "variant": "normal",
+          "variant": "small",
           "mods": [
             "BigAlsCarchaReworkSmall"
           ],
@@ -12875,7 +12874,7 @@
           "class": "/BigAlsCarchaReworkSmall/CarchaSmall/Variants/Aberration/AB_TLCCarchaSmall_Character_BP.AB_TLCCarchaSmall_Character_BP_C",
           "allowBaby": true,
           "levelMultiplier": 1,
-          "variant": "normal",
+          "variant": "small",
           "mods": [
             "BigAlsCarchaReworkSmall"
           ],
@@ -13664,6 +13663,12 @@
       "weight": 1,
       "configKey": "Arkology",
       "weightConfigKey": "ArkologySpawnWeight"
+    },
+    {
+      "name": "small",
+      "weight": 1,
+      "configKey": "Small",
+      "weightConfigKey": "SmallSpawnWeight"
     },
     {
       "name": "eerie-tek",
