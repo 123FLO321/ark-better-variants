@@ -1,5 +1,5 @@
 {
-    "variantName": "normal",
+    "variantName": "small",
     "allowBaby": true,
     "levelMultiplier": 1.0,
     "weight": 1.0,
@@ -14,7 +14,6 @@
     "dinos": [
         {
             "class": "/BigAlsCarchaReworkSmall/CarchaSmall/TLCCarchaSmall_Character_BP.TLCCarchaSmall_Character_BP_C",
-            "replaceClass": "/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP_C",
             "group": "Carcha_Character_BP_C"
         }, {
             "class": "/BigAlsCarchaReworkSmall/CarchaSmall/Variants/Aberration/AB_TLCCarchaSmall_Character_BP.AB_TLCCarchaSmall_Character_BP_C",
