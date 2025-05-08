@@ -17,23 +17,6 @@ Usefully for troubleshooting and figuring out internal mod names and dino paths.
 Debug=True
 ```
 
-### Dino Blocks
-This will block certain dino variants from spawning in the world at all.  
-Full blueprint paths are required.  
-Separate multiple paths with a comma or semicolon.
-```ini
-[BetterVariants]
-DinoBlocks="/Path/To/Dino/Variant1,/Path/To/Dino/Variant2"
-```
-
-### Mod Blocks
-Similar to Dino Blocks, but for mods.  
-Requires internal mod names.  
-```ini
-[BetterVariants]
-ModBlocks="ModName1,ModName2"
-```
-
 ### Dino Weights
 This will set the spawn weight of a dino variant.
 Key value list for full blueprint paths are required.
@@ -50,6 +33,23 @@ Requires internal mod names.
 ```ini
 [BetterVariants]
 ModWeights="ModName1=0.5,ModName2=0.25"
+```
+
+### Dino Blocks
+This will block certain dino variants from spawning in the world at all.  
+Full blueprint paths are required.  
+Separate multiple paths with a comma or semicolon.
+```ini
+[BetterVariants]
+DinoBlocks="/Path/To/Dino/Variant1,/Path/To/Dino/Variant2"
+```
+
+### Mod Blocks
+Similar to Dino Blocks, but for mods.  
+Requires internal mod names.  
+```ini
+[BetterVariants]
+ModBlocks="ModName1,ModName2"
 ```
 
 ### Start Delay
