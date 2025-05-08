@@ -1,4 +1,4 @@
-# Variant Breeding
+# Better Variants
 This Mod overrides all variant spawns, to make other variant mods work seamlessly with each other.  
 Currently, if two Mods add a Raptor Variant only one of them would spawn.  
 With Better Variants installed all Raptor Variants will spawn.  
