@@ -13732,7 +13732,7 @@
     },
     {
       "name": "paleo-alpha",
-      "weight": 0.33333,
+      "weight": 0.05263,
       "configKey": "PaleoAlpha",
       "weightConfigKey": "PaleoAlphaSpawnWeight"
     },
