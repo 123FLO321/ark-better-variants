@@ -29,6 +29,8 @@ DinoWeights="/Path/To/Dino/Variant1=0.5,/Path/To/Dino/Variant2=0.25"
 
 ### Mod Weights
 Similar to Dino Weights, but for mods.
+Be careful using this, if mods add alphas or multiple versions all will be set to the same weight.
+Use settings from the variant mod itself directly, if available.  
 Requires internal mod names.  
 For basename Dinos use `Game` as mod name.  
 ```ini
