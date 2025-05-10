@@ -7,6 +7,8 @@ Weights can be configured individually per Dino and Mod.
 Now supports all Mods!
 
 ## Configuration
+Configuration is optional and not required.  
+By default, the variant mods default settings will be used.    
 The following config options are available under the `[BetterVariants]` section in your `GameUserSettings.ini`:
 
 ### Debug
