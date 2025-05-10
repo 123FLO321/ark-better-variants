@@ -18,24 +18,23 @@ Debug=True
 ```   
 
 ### Dino Weights
-This will set the spawn weight of a dino variant.
-Key value list for full blueprint paths are required.
-Set weights between 0 and 1 (or even higher to reduce spawn rates of other variants).
+This will set the spawn weight of a dino variant.  
+Key value list for full blueprint paths are required.  
+Set weights between 0 and 1 (or even higher to reduce spawn rates of other variants).  
 Separate multiple paths with a comma or semicolon.
 ```ini
 [BetterVariants]
 DinoWeights="/Path/To/Dino/Variant1=0.5,/Path/To/Dino/Variant2=0.25"
 ```
 
-### Mod Weights
-Similar to Dino Weights, but for mods.
-Be careful using this, if mods add alphas or multiple versions all will be set to the same weight.
-Use settings from the variant mod itself directly, if available.  
-Requires internal mod names.  
-For basename Dinos use `Game` as mod name.  
+### Variant Weights
+Similar to Dino Weights, but for Variants.  
+Matches Variants based on the beginning of their ingame names.  
+Checks in the order of the list, so the first match will be used.  
+Optionally set the last value to `*` for a catch-all.  
 ```ini
 [BetterVariants]
-ModWeights="ModName1=0.5,ModName2=0.25"
+VariantWeights="Alpha Example=0.1,Alpha=0.05,Example=0.5,*=1.0"
 ```
 
 ### Dino Blocks
