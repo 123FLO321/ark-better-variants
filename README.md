@@ -33,10 +33,11 @@ DinoWeights="/Path/To/Dino/Variant1=0.5,/Path/To/Dino/Variant2=0.25"
 Similar to Dino Weights, but for Variants.  
 Matches Variants based on the beginning of their ingame names.  
 Checks in the order of the list, so the first match will be used.  
-Optionally set the last value to `*` for a catch-all.  
+The key `Base` can be used to set the weight for the base variant of a dino (the dino that matches the group).
+Optionally set the last value to `*` for a catch-all, but it is recommended to use Base instead.  
 ```ini
 [BetterVariants]
-VariantWeights="Alpha Example=0.1,Alpha=0.05,Example=0.5,*=1.0"
+VariantWeights="Alpha Example=0.1,Alpha=0.05,Example=0.5,Base=0.5"
 ```
 
 ### Dino Blocks
