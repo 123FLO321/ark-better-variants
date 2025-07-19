@@ -19,7 +19,7 @@ Usefully for troubleshooting and figuring out internal mod names and dino paths.
 Debug=True
 ```   
 
-## Debug Spawns
+### Debug Spawns
 This will add spawn info to the debug log.
 Requires the Debug option to be enabled.
 ```ini
