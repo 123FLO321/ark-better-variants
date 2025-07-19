@@ -19,6 +19,15 @@ Usefully for troubleshooting and figuring out internal mod names and dino paths.
 Debug=True
 ```   
 
+## Debug Spawns
+This will add spawn info to the debug log.
+Requires the Debug option to be enabled.
+```ini
+[BetterVariants]
+Debug=True
+DebugSpawns=True
+```
+
 ### Dino Weights
 This will set the spawn weight of a dino variant.  
 Key value list for full blueprint paths are required.  
